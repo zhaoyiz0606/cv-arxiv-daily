@@ -84,7 +84,7 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
 
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic, query="slam", max_results=2):
     """
     @param topic: str
     @param query: str
@@ -158,7 +158,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
     data = {topic:content}
     data_web = {topic:content_to_web}
-    return data,data_web
+    return data, data_web
 
 def update_paper_links(filename):
     '''
@@ -403,7 +403,7 @@ def demo(**config):
             # update json data
             update_json_file(json_file,data_collector)
         # json data to markdown
-        json_to_md(json_file,md_file, task ='Update Readme', \
+        json_to_md(json_file, md_file, task ='Update Readme', \
             show_badge = show_badge)
 
     # 2. update docs/index.md file (to gitpage)
