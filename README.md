@@ -1,4 +1,4 @@
-## Updated on 2025.02.17
+## Updated on 2025.02.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,7 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-13**|**Exploring the Potential of Encoder-free Architectures in 3D LMMs**|Yiwen Tang et.al.|[2502.09620](http://arxiv.org/abs/2502.09620)|null|
+|**2025-02-13**|**On the robustness of multimodal language model towards distractions**|Ming Liu et.al.|[2502.09818](http://arxiv.org/abs/2502.09818)|null|
+|**2025-02-13**|**Exploring the Potential of Encoder-free Architectures in 3D LMMs**|Yiwen Tang et.al.|[2502.09620](http://arxiv.org/abs/2502.09620)|**[link](https://github.com/ivan-tang-3d/enel)**|
 |**2025-02-13**|**EmoAssist: Emotional Assistant for Visual Impairment Community**|Xingyu Qi et.al.|[2502.09285](http://arxiv.org/abs/2502.09285)|null|
 |**2025-02-13**|**Abduction of Domain Relationships from Data for VQA**|Al Mehdi Saadat Chowdhury et.al.|[2502.09219](http://arxiv.org/abs/2502.09219)|null|
 |**2025-02-13**|**Visual Graph Question Answering with ASP and LLMs for Language Parsing**|Jakob Johannes Bauer et.al.|[2502.09211](http://arxiv.org/abs/2502.09211)|null|
@@ -30,12 +31,22 @@
 |**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076](http://arxiv.org/abs/2502.04076)|null|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
 
 ## CAUSAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**Representation and Interpretation in Artificial and Natural Computing**|Luis A. Pineda et.al.|[2502.10383](http://arxiv.org/abs/2502.10383)|null|
+|**2025-02-14**|**Scalar weak gravity bound from full unitarity**|Anna Tokareva et.al.|[2502.10375](http://arxiv.org/abs/2502.10375)|null|
+|**2025-02-14**|**A Mechanistic Framework for Collider Detection in Observational Data**|Soumik Purkayastha et.al.|[2502.10317](http://arxiv.org/abs/2502.10317)|null|
+|**2025-02-14**|**A Latent Causal Inference Framework for Ordinal Variables**|Martina Scauda et.al.|[2502.10276](http://arxiv.org/abs/2502.10276)|null|
+|**2025-02-14**|**Do Large Language Models Reason Causally Like Us? Even Better?**|Hanna M. Dettki et.al.|[2502.10215](http://arxiv.org/abs/2502.10215)|null|
+|**2025-02-14**|**Identifying Key Influencers using an Egocentric Network-based Randomized Design**|Zhibing He et.al.|[2502.10170](http://arxiv.org/abs/2502.10170)|null|
+|**2025-02-14**|**Revisiting the Berkeley Admissions data: Statistical Tests for Causal Hypotheses**|Sourbh Bhadane et.al.|[2502.10161](http://arxiv.org/abs/2502.10161)|null|
+|**2025-02-14**|**COMBINEX: A Unified Counterfactual Explainer for Graph Neural Networks via Node Feature and Structural Perturbations**|Flavio Giorgi et.al.|[2502.10111](http://arxiv.org/abs/2502.10111)|null|
+|**2025-02-14**|**Causal Information Prioritization for Efficient Reinforcement Learning**|Hongye Cao et.al.|[2502.10097](http://arxiv.org/abs/2502.10097)|null|
+|**2025-02-14**|**Towards Empowerment Gain through Causal Structure Learning in Model-Based RL**|Hongye Cao et.al.|[2502.10077](http://arxiv.org/abs/2502.10077)|null|
 |**2025-02-13**|**A unique coupling of the massive spin-2 field to supergravity**|Guillaume Bossard et.al.|[2502.09599](http://arxiv.org/abs/2502.09599)|null|
 |**2025-02-13**|**Learning to Coordinate with Experts**|Mohamad H. Danesh et.al.|[2502.09583](http://arxiv.org/abs/2502.09583)|null|
 |**2025-02-13**|**Registration, Detection, and Deregistration: Analyzing DNS Abuse for Phishing Attacks**|Kyungchan Lim et.al.|[2502.09549](http://arxiv.org/abs/2502.09549)|null|
@@ -67,12 +78,22 @@
 |**2025-02-11**|**Capacity of the Binary Energy Harvesting Channel**|Eli Shemuel et.al.|[2502.07566](http://arxiv.org/abs/2502.07566)|null|
 |**2025-02-11**|**Scaling Off-Policy Reinforcement Learning with Batch and Weight Normalization**|Daniel Palenicek et.al.|[2502.07523](http://arxiv.org/abs/2502.07523)|null|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
 
 ## TUNING&ADAPTER
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding**|Wenxuan Guo et.al.|[2502.10392](http://arxiv.org/abs/2502.10392)|null|
+|**2025-02-14**|**MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**|Yi-Fan Zhang et.al.|[2502.10391](http://arxiv.org/abs/2502.10391)|null|
+|**2025-02-14**|**Region-Adaptive Sampling for Diffusion Transformers**|Ziming Liu et.al.|[2502.10389](http://arxiv.org/abs/2502.10389)|null|
+|**2025-02-14**|**Aspect-Oriented Summarization for Psychiatric Short-Term Readmission Prediction**|WonJin Yoon et.al.|[2502.10388](http://arxiv.org/abs/2502.10388)|null|
+|**2025-02-14**|**Simplifying DINO via Coding Rate Regularization**|Ziyang Wu et.al.|[2502.10385](http://arxiv.org/abs/2502.10385)|null|
+|**2025-02-14**|**CISSIR: Beam Codebooks with Self-Interference Reduction Guarantees for Integrated Sensing and Communication Beyond 5G**|Rodrigo Hernangómez et.al.|[2502.10371](http://arxiv.org/abs/2502.10371)|**[link](https://github.com/rodrihgh/cissir)**|
+|**2025-02-14**|**BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds**|Huayi Wang et.al.|[2502.10363](http://arxiv.org/abs/2502.10363)|null|
+|**2025-02-14**|**CLaMP 3: Universal Music Information Retrieval Across Unaligned Modalities and Unseen Languages**|Shangda Wu et.al.|[2502.10362](http://arxiv.org/abs/2502.10362)|null|
+|**2025-02-14**|**Revealing the fuel of a quantum continuous measurement-based refrigerator**|Cyril Elouard et.al.|[2502.10349](http://arxiv.org/abs/2502.10349)|null|
+|**2025-02-14**|**On Incremental Approximate Shortest Paths in Directed Graphs**|Adam Górkiewicz et.al.|[2502.10348](http://arxiv.org/abs/2502.10348)|null|
 |**2025-02-13**|**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**|Dongzhi Jiang et.al.|[2502.09621](http://arxiv.org/abs/2502.09621)|null|
 |**2025-02-13**|**Exploring the Potential of Encoder-free Architectures in 3D LMMs**|Yiwen Tang et.al.|[2502.09620](http://arxiv.org/abs/2502.09620)|null|
 |**2025-02-13**|**DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References**|Xueyi Liu et.al.|[2502.09614](http://arxiv.org/abs/2502.09614)|null|
@@ -94,7 +115,7 @@
 |**2025-02-12**|**Light-A-Video: Training-free Video Relighting via Progressive Light Fusion**|Yujie Zhou et.al.|[2502.08590](http://arxiv.org/abs/2502.08590)|**[link](https://github.com/bcmi/Light-A-Video)**|
 |**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
