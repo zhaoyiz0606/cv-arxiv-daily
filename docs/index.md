@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.02.18
+## Updated on 2025.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Variational Quantum Algorithms for Many-Body Systems**|Mirko Consiglio et.al.|[2502.11985](http://arxiv.org/abs/2502.11985)|null|
+|**2025-02-17**|**Multi-Modal Retrieval Augmentation for Open-Ended and Knowledge-Intensive Video Question Answering**|Md Zarif Ul Alam et.al.|[2502.11747](http://arxiv.org/abs/2502.11747)|null|
+|**2025-02-17**|**"See the World, Discover Knowledge": A Chinese Factuality Evaluation for Large Vision Language Models**|Jihao Gu et.al.|[2502.11718](http://arxiv.org/abs/2502.11718)|null|
+|**2025-02-17**|**MMXU: A Multi-Modal and Multi-X-ray Understanding Dataset for Disease Progression**|Linjie Mu et.al.|[2502.11651](http://arxiv.org/abs/2502.11651)|null|
+|**2025-02-16**|**MMUNLEARNER: Reformulating Multimodal Machine Unlearning in the Era of Multimodal Large Language Models**|Jiahao Huo et.al.|[2502.11051](http://arxiv.org/abs/2502.11051)|null|
+|**2025-02-15**|**USER-VLM 360: Personalized Vision Language Models with User-aware Tuning for Social Human-Robot Interactions**|Hamed Rahimi et.al.|[2502.10636](http://arxiv.org/abs/2502.10636)|null|
 |**2025-02-13**|**On the robustness of multimodal language model towards distractions**|Ming Liu et.al.|[2502.09818](http://arxiv.org/abs/2502.09818)|null|
 |**2025-02-13**|**Exploring the Potential of Encoder-free Architectures in 3D LMMs**|Yiwen Tang et.al.|[2502.09620](http://arxiv.org/abs/2502.09620)|**[link](https://github.com/ivan-tang-3d/enel)**|
 |**2025-02-13**|**EmoAssist: Emotional Assistant for Visual Impairment Community**|Xingyu Qi et.al.|[2502.09285](http://arxiv.org/abs/2502.09285)|null|
@@ -30,6 +36,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Personal Danger Signals Reprocessing: New Online Group Intervention for Chronic Pain**|Carmit Himmelblau Gat et.al.|[2502.12106](http://arxiv.org/abs/2502.12106)|null|
+|**2025-02-17**|**Unifying Explainable Anomaly Detection and Root Cause Analysis in Dynamical Systems**|Yue Sun et.al.|[2502.12086](http://arxiv.org/abs/2502.12086)|null|
+|**2025-02-17**|**CONSTRUCTA: Automating Commercial Construction Schedules in Fabrication Facilities with Large Language Models**|Yifan Zhang et.al.|[2502.12066](http://arxiv.org/abs/2502.12066)|null|
+|**2025-02-17**|**Designing Role Vectors to Improve LLM Inference Behaviour**|Daniele Potertì et.al.|[2502.12055](http://arxiv.org/abs/2502.12055)|null|
+|**2025-02-17**|**Inferring contact network characteristics from epidemic data via compact mean-field models**|Andrés Guzmán et.al.|[2502.12040](http://arxiv.org/abs/2502.12040)|null|
+|**2025-02-17**|**Robotic CBCT Meets Robotic Ultrasound**|Feng Li et.al.|[2502.12019](http://arxiv.org/abs/2502.12019)|null|
+|**2025-02-17**|**Unsupervised Structural-Counterfactual Generation under Domain Shift**|Krishn Vishwas Kher et.al.|[2502.12013](http://arxiv.org/abs/2502.12013)|null|
+|**2025-02-17**|**Blank Space: Adaptive Causal Coding for Streaming Communications Over Multi-Hop Networks**|Adina Waxman et.al.|[2502.11984](http://arxiv.org/abs/2502.11984)|null|
+|**2025-02-17**|**CAMEL: Continuous Action Masking Enabled by Large Language Models for Reinforcement Learning**|Yanxiao Zhao et.al.|[2502.11896](http://arxiv.org/abs/2502.11896)|null|
+|**2025-02-17**|**Defining and Evaluating Visual Language Models' Basic Spatial Abilities: A Perspective from Psychometrics**|Wenrui Xu et.al.|[2502.11859](http://arxiv.org/abs/2502.11859)|null|
 |**2025-02-14**|**Representation and Interpretation in Artificial and Natural Computing**|Luis A. Pineda et.al.|[2502.10383](http://arxiv.org/abs/2502.10383)|null|
 |**2025-02-14**|**Scalar weak gravity bound from full unitarity**|Anna Tokareva et.al.|[2502.10375](http://arxiv.org/abs/2502.10375)|null|
 |**2025-02-14**|**A Mechanistic Framework for Collider Detection in Observational Data**|Soumik Purkayastha et.al.|[2502.10317](http://arxiv.org/abs/2502.10317)|null|
@@ -75,6 +91,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**VoLUT: Efficient Volumetric streaming enhanced by LUT-based super-resolution**|Chendong Wang et.al.|[2502.12151](http://arxiv.org/abs/2502.12151)|null|
+|**2025-02-17**|**Idiosyncrasies in Large Language Models**|Mingjie Sun et.al.|[2502.12150](http://arxiv.org/abs/2502.12150)|null|
+|**2025-02-17**|**Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening**|Ye Tian et.al.|[2502.12146](http://arxiv.org/abs/2502.12146)|null|
+|**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145](http://arxiv.org/abs/2502.12145)|null|
+|**2025-02-17**|**Small Models Struggle to Learn from Strong Reasoners**|Yuetai Li et.al.|[2502.12143](http://arxiv.org/abs/2502.12143)|null|
+|**2025-02-17**|**pylevin: efficient numerical integration of integrals containing up to three Bessel functions**|Robert Reischke et.al.|[2502.12142](http://arxiv.org/abs/2502.12142)|null|
+|**2025-02-17**|**SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs**|Yige Xu et.al.|[2502.12134](http://arxiv.org/abs/2502.12134)|null|
+|**2025-02-17**|**Scaling Autonomous Agents via Automatic Reward Modeling And Planning**|Zhenfang Chen et.al.|[2502.12130](http://arxiv.org/abs/2502.12130)|null|
+|**2025-02-17**|**Minimal Ranks, Maximum Confidence: Parameter-efficient Uncertainty Quantification for LoRA**|Patryk Marszałek et.al.|[2502.12122](http://arxiv.org/abs/2502.12122)|null|
+|**2025-02-17**|**Topology from Nothing**|Jacob R. Taylor et.al.|[2502.12121](http://arxiv.org/abs/2502.12121)|null|
 |**2025-02-14**|**Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding**|Wenxuan Guo et.al.|[2502.10392](http://arxiv.org/abs/2502.10392)|null|
 |**2025-02-14**|**MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**|Yi-Fan Zhang et.al.|[2502.10391](http://arxiv.org/abs/2502.10391)|null|
 |**2025-02-14**|**Region-Adaptive Sampling for Diffusion Transformers**|Ziming Liu et.al.|[2502.10389](http://arxiv.org/abs/2502.10389)|null|
