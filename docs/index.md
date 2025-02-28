@@ -2,14 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-25**|**OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference**|Xiangyu Zhao et.al.|[2502.18411](http://arxiv.org/abs/2502.18411)|null|
+|**2025-02-26**|**LiGT: Layout-infused Generative Transformer for Visual Question Answering on Vietnamese Receipts**|Thanh-Phong Le et.al.|[2502.19202](http://arxiv.org/abs/2502.19202)|null|
+|**2025-02-26**|**Talking to the brain: Using Large Language Models as Proxies to Model Brain Semantic Representation**|Xin Liu et.al.|[2502.18725](http://arxiv.org/abs/2502.18725)|null|
+|**2025-02-25**|**FilterRAG: Zero-Shot Informed Retrieval-Augmented Generation to Mitigate Hallucinations in VQA**|S M Sarwar et.al.|[2502.18536](http://arxiv.org/abs/2502.18536)|null|
+|**2025-02-25**|**OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference**|Xiangyu Zhao et.al.|[2502.18411](http://arxiv.org/abs/2502.18411)|**[link](https://github.com/phoenixz810/omnialign-v)**|
 |**2025-02-25**|**Detecting Knowledge Boundary of Vision Large Language Models by Sampling-Based Inference**|Zhuo Chen et.al.|[2502.18023](http://arxiv.org/abs/2502.18023)|null|
 |**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/abs/2502.17422)|**[link](https://github.com/saccharomycetes/mllms_know)**|
 |**2025-02-24**|**All-in-one: Understanding and Generation in Multimodal Reasoning with the MAIA Benchmark**|Davide Testa et.al.|[2502.16989](http://arxiv.org/abs/2502.16989)|null|
@@ -54,6 +57,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**Norm Growth and Stability Challenges in Localized Sequential Knowledge Editing**|Akshat Gupta et.al.|[2502.19416](http://arxiv.org/abs/2502.19416)|null|
+|**2025-02-26**|**Towards a robust approach to infer causality in molecular systems satisfying detailed balance**|Vittorio Del Tatto et.al.|[2502.19384](http://arxiv.org/abs/2502.19384)|null|
+|**2025-02-26**|**Optimal COVID-19 vaccine prioritization by age depends critically on inter-group contacts and vaccination rates**|Iker Atienza-Diez et.al.|[2502.19292](http://arxiv.org/abs/2502.19292)|null|
+|**2025-02-26**|**MultiConAD: A Unified Multilingual Conversational Dataset for Early Alzheimer's Detection**|Arezo Shakeri et.al.|[2502.19208](http://arxiv.org/abs/2502.19208)|null|
+|**2025-02-26**|**Age Group Sensitivity Analysis of Epidemic Models: Investigating the Impact of Contact Matrix Structure**|Zsolt Vizi et.al.|[2502.19206](http://arxiv.org/abs/2502.19206)|null|
+|**2025-02-26**|**Firewall boundaries and mixed phases of rotating quark matter in linear sigma model**|Sergio Morales-Tejera et.al.|[2502.19087](http://arxiv.org/abs/2502.19087)|null|
+|**2025-02-26**|**An Improved 3D Skeletons UP-Fall Dataset: Enhancing Data Quality for Efficient Impact Fall Detection**|Tresor Y. Koffi et.al.|[2502.19048](http://arxiv.org/abs/2502.19048)|null|
+|**2025-02-26**|**A BV-Category of Spacetime Interventions**|James Hefford et.al.|[2502.19022](http://arxiv.org/abs/2502.19022)|null|
+|**2025-02-26**|**Long-term Causal Inference via Modeling Sequential Latent Confounding**|Weilin Chen et.al.|[2502.18994](http://arxiv.org/abs/2502.18994)|null|
+|**2025-02-26**|**Overcoming the Price of Anarchy by Steering with Recommendations**|Cesare Carissimo et.al.|[2502.18988](http://arxiv.org/abs/2502.18988)|null|
 |**2025-02-25**|**Enhancing DNA Foundation Models to Address Masking Inefficiencies**|Monireh Safari et.al.|[2502.18405](http://arxiv.org/abs/2502.18405)|null|
 |**2025-02-25**|**"Why do we do this?": Moral Stress and the Affective Experience of Ethics in Practice**|Sonja Rattay et.al.|[2502.18395](http://arxiv.org/abs/2502.18395)|null|
 |**2025-02-25**|**Global-Decision-Focused Neural ODEs for Proactive Grid Resilience Management**|Shuyi Chen et.al.|[2502.18321](http://arxiv.org/abs/2502.18321)|null|
@@ -169,6 +182,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**|Lucy Xiaoyang Shi et.al.|[2502.19417](http://arxiv.org/abs/2502.19417)|null|
+|**2025-02-26**|**Norm Growth and Stability Challenges in Localized Sequential Knowledge Editing**|Akshat Gupta et.al.|[2502.19416](http://arxiv.org/abs/2502.19416)|null|
+|**2025-02-26**|**The Mighty ToRR: A Benchmark for Table Reasoning and Robustness**|Shir Ashury-Tahan et.al.|[2502.19412](http://arxiv.org/abs/2502.19412)|null|
+|**2025-02-26**|**Less or More: Towards Glanceable Explanations for LLM Recommendations Using Ultra-Small Devices**|Xinru Wang et.al.|[2502.19410](http://arxiv.org/abs/2502.19410)|null|
+|**2025-02-26**|**ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models**|Danae Sánchez Villegas et.al.|[2502.19409](http://arxiv.org/abs/2502.19409)|null|
+|**2025-02-26**|**Learning Code-Edit Embedding to Model Student Debugging Behavior**|Hasnain Heickal et.al.|[2502.19407](http://arxiv.org/abs/2502.19407)|null|
+|**2025-02-26**|**Verde: Verification via Refereed Delegation for Machine Learning Programs**|Arasu Arun et.al.|[2502.19405](http://arxiv.org/abs/2502.19405)|null|
+|**2025-02-26**|**General Reasoning Requires Learning to Reason from the Get-go**|Seungwook Han et.al.|[2502.19402](http://arxiv.org/abs/2502.19402)|null|
+|**2025-02-26**|**ARENA: Adaptive Risk-aware and Energy-efficient NAvigation for Multi-Objective 3D Infrastructure Inspection with a UAV**|David-Alexandre Poissant et.al.|[2502.19401](http://arxiv.org/abs/2502.19401)|null|
+|**2025-02-26**|**Surface-Based Manipulation**|Ziqiao Wang et.al.|[2502.19389](http://arxiv.org/abs/2502.19389)|null|
 |**2025-02-25**|**DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers**|Xueguang Ma et.al.|[2502.18460](http://arxiv.org/abs/2502.18460)|null|
 |**2025-02-25**|**Evaluating the Effectiveness of Small Language Models in Detecting Refactoring Bugs**|Rohit Gheyi et.al.|[2502.18454](http://arxiv.org/abs/2502.18454)|null|
 |**2025-02-25**|**FRIDA to the Rescue! Analyzing Synthetic Data Effectiveness in Object-Based Common Sense Reasoning for Disaster Response**|Mollie Shichman et.al.|[2502.18452](http://arxiv.org/abs/2502.18452)|null|
