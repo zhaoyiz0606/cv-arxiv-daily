@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.09
+## Updated on 2025.03.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
@@ -12,7 +12,7 @@ layout: default
 |**2025-03-06**|**Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation**|Aishik Konwer et.al.|[2503.04639](http://arxiv.org/abs/2503.04639)|null|
 |**2025-03-06**|**Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model**|Wenke Huang et.al.|[2503.04543](http://arxiv.org/abs/2503.04543)|null|
 |**2025-03-06**|**AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM**|Sunghyun Ahn et.al.|[2503.04504](http://arxiv.org/abs/2503.04504)|null|
-|**2025-03-06**|**Question-Aware Gaussian Experts for Audio-Visual Question Answering**|Hongyeob Kim et.al.|[2503.04459](http://arxiv.org/abs/2503.04459)|**[link](https://github.com/AIM-SKKU/QA-TIGER)**|
+|**2025-03-07**|**Question-Aware Gaussian Experts for Audio-Visual Question Answering**|Hongyeob Kim et.al.|[2503.04459](http://arxiv.org/abs/2503.04459)|**[link](https://github.com/AIM-SKKU/QA-TIGER)**|
 |**2025-03-06**|**The Role of Visual Modality in Multimodal Mathematical Reasoning: Challenges and Insights**|Yufang Liu et.al.|[2503.04167](http://arxiv.org/abs/2503.04167)|null|
 |**2025-03-06**|**Enhancing Vietnamese VQA through Curriculum Learning on Raw and Augmented Text Representations**|Khoi Anh Nguyen et.al.|[2503.03285](http://arxiv.org/abs/2503.03285)|null|
 |**2025-03-04**|**BioD2C: A Dual-level Semantic Consistency Constraint Framework for Biomedical VQA**|Zhengyang Ji et.al.|[2503.02476](http://arxiv.org/abs/2503.02476)|null|
