@@ -2,18 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories**|Muzhi Zhu et.al.|[2503.08625](http://arxiv.org/abs/2503.08625)|null|
+|**2025-03-11**|**ComicsPAP: understanding comic strips by picking the correct panel**|Emanuele Vivoli et.al.|[2503.08561](http://arxiv.org/abs/2503.08561)|null|
+|**2025-03-11**|**Seeing and Reasoning with Confidence: Supercharging Multimodal LLMs with an Uncertainty-Aware Agentic Framework**|Zhuo Zhi et.al.|[2503.08308](http://arxiv.org/abs/2503.08308)|null|
+|**2025-03-11**|**Bring Remote Sensing Object Detect Into Nature Language Model: Using SFT Method**|Fei Wang et.al.|[2503.08144](http://arxiv.org/abs/2503.08144)|null|
+|**2025-03-10**|**When Large Vision-Language Model Meets Large Remote Sensing Imagery: Coarse-to-Fine Text-Guided Token Pruning**|Junwei Luo et.al.|[2503.07588](http://arxiv.org/abs/2503.07588)|null|
 |**2025-03-10**|**Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru**|Dunant Cusipuma et.al.|[2503.07587](http://arxiv.org/abs/2503.07587)|null|
 |**2025-03-10**|**AutoSpatial: Visual-Language Reasoning for Social Robot Navigation through Efficient Spatial Reasoning Learning**|Yangzhe Kong et.al.|[2503.07557](http://arxiv.org/abs/2503.07557)|null|
 |**2025-03-10**|**From Text to Visuals: Using LLMs to Generate Math Diagrams with Vector Graphics**|Jaewook Lee et.al.|[2503.07429](http://arxiv.org/abs/2503.07429)|null|
 |**2025-03-09**|**RoboDesign1M: A Large-scale Dataset for Robot Design Understanding**|Tri Le et.al.|[2503.06796](http://arxiv.org/abs/2503.06796)|null|
-|**2025-03-09**|**CalliReader: Contextualizing Chinese Calligraphy via an Embedding-Aligned Vision-Language Model**|Yuxuan Luo et.al.|[2503.06472](http://arxiv.org/abs/2503.06472)|null|
+|**2025-03-12**|**CalliReader: Contextualizing Chinese Calligraphy via an Embedding-Aligned Vision-Language Model**|Yuxuan Luo et.al.|[2503.06472](http://arxiv.org/abs/2503.06472)|null|
 |**2025-03-09**|**TI-JEPA: An Innovative Energy-based Joint Embedding Strategy for Text-Image Multimodal Systems**|Khang H. N. Vo et.al.|[2503.06380](http://arxiv.org/abs/2503.06380)|null|
 |**2025-03-08**|**MoEMoE: Question Guided Dense and Scalable Sparse Mixture-of-Expert for Multi-source Multi-modal Answering**|Vinay Kumar Verma et.al.|[2503.06296](http://arxiv.org/abs/2503.06296)|null|
 |**2025-03-08**|**SplatTalk: 3D VQA with Gaussian Splatting**|Anh Thai et.al.|[2503.06271](http://arxiv.org/abs/2503.06271)|null|
@@ -94,6 +99,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**"Principal Components" Enable A New Language of Images**|Xin Wen et.al.|[2503.08685](http://arxiv.org/abs/2503.08685)|null|
+|**2025-03-11**|**Perplexity Trap: PLM-Based Retrievers Overrate Low Perplexity Documents**|Haoyu Wang et.al.|[2503.08684](http://arxiv.org/abs/2503.08684)|null|
+|**2025-03-11**|**A Multi-Omics Framework for Survival Mediation Analysis of High-Dimensional Proteogenomic Data**|Seungjun Ahn et.al.|[2503.08606](http://arxiv.org/abs/2503.08606)|null|
+|**2025-03-11**|**BiasEdit: Debiasing Stereotyped Language Models via Model Editing**|Xin Xu et.al.|[2503.08588](http://arxiv.org/abs/2503.08588)|null|
+|**2025-03-11**|**Constructing noncommutative black holes**|Tajron Jurić et.al.|[2503.08560](http://arxiv.org/abs/2503.08560)|null|
+|**2025-03-11**|**Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification**|Susu Sun et.al.|[2503.08384](http://arxiv.org/abs/2503.08384)|null|
+|**2025-03-11**|**Comorbidity Patterns and Temporal Associations of Multiple Long-Term Conditions in Adults with Intellectual Disability: an observational study in the United Kingdom**|Georgina Cosma et.al.|[2503.08378](http://arxiv.org/abs/2503.08378)|null|
+|**2025-03-11**|**Density Ratio-based Proxy Causal Learning Without Density Ratios**|Bariscan Bozkurt et.al.|[2503.08371](http://arxiv.org/abs/2503.08371)|null|
+|**2025-03-11**|**Functional Linear Projection and Impulse Response Analysis**|Won-Ki Seo et.al.|[2503.08364](http://arxiv.org/abs/2503.08364)|null|
+|**2025-03-11**|**KiteRunner: Language-Driven Cooperative Local-Global Navigation Policy with UAV Mapping in Outdoor Environments**|Shibo Huang et.al.|[2503.08330](http://arxiv.org/abs/2503.08330)|null|
 |**2025-03-10**|**GRITHopper: Decomposition-Free Multi-Hop Dense Retrieval**|Justus-Jonas Erker et.al.|[2503.07519](http://arxiv.org/abs/2503.07519)|null|
 |**2025-03-10**|**Sample Complexity of Nonparametric Closeness Testing for Continuous Distributions and Its Application to Causal Discovery with Hidden Confounding**|Fateme Jamshidi et.al.|[2503.07475](http://arxiv.org/abs/2503.07475)|null|
 |**2025-03-10**|**Causality violation of Schrödinger-Newton equation: direct test on the horizon?**|Lajos Diósi et.al.|[2503.07458](http://arxiv.org/abs/2503.07458)|null|
@@ -289,6 +304,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs**|Ariba Khan et.al.|[2503.08688](http://arxiv.org/abs/2503.08688)|null|
+|**2025-03-11**|**OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models**|Jialv Zou et.al.|[2503.08686](http://arxiv.org/abs/2503.08686)|null|
+|**2025-03-11**|**Self-Taught Self-Correction for Small Language Models**|Viktor Moskvoretskii et.al.|[2503.08681](http://arxiv.org/abs/2503.08681)|null|
+|**2025-03-11**|**Chain-of-Thought Reasoning In The Wild Is Not Always Faithful**|Iván Arcuschin et.al.|[2503.08679](http://arxiv.org/abs/2503.08679)|null|
+|**2025-03-11**|**AgentOrca: A Dual-System Framework to Evaluate Language Agents on Operational Routine and Constraint Adherence**|Zekun Li et.al.|[2503.08669](http://arxiv.org/abs/2503.08669)|null|
+|**2025-03-11**|**SSVQ: Unleashing the Potential of Vector Quantization with Sign-Splitting**|Shuaiting Li et.al.|[2503.08668](http://arxiv.org/abs/2503.08668)|null|
+|**2025-03-11**|**Exploring the Word Sense Disambiguation Capabilities of Large Language Models**|Pierpaolo Basile et.al.|[2503.08662](http://arxiv.org/abs/2503.08662)|null|
+|**2025-03-11**|**Extra Clients at No Extra Cost: Overcome Data Heterogeneity in Federated Learning with Filter Decomposition**|Wei Chen et.al.|[2503.08652](http://arxiv.org/abs/2503.08652)|null|
+|**2025-03-11**|**MF-VITON: High-Fidelity Mask-Free Virtual Try-On with Minimal Input**|Zhenchen Wan et.al.|[2503.08650](http://arxiv.org/abs/2503.08650)|null|
+|**2025-03-11**|**Mitigating transients in flux-control signals in a superconducting quantum processor**|Anuj Aggarwal et.al.|[2503.08645](http://arxiv.org/abs/2503.08645)|null|
 |**2025-03-10**|**Slow-fast systems with stochastic resetting**|Paul C Bressloff et.al.|[2503.07585](http://arxiv.org/abs/2503.07585)|null|
 |**2025-03-10**|**Complexity Analysis of Environmental Time Series**|Holger Lange et.al.|[2503.07582](http://arxiv.org/abs/2503.07582)|null|
 |**2025-03-10**|**Neural Combinatorial Optimization via Preference Optimization**|Zijun Liao et.al.|[2503.07580](http://arxiv.org/abs/2503.07580)|null|
