@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**T2I-FineEval: Fine-Grained Compositional Metric for Text-to-Image Evaluation**|Seyed Mohammad Hadi Hosseini et.al.|[2503.11481](http://arxiv.org/abs/2503.11481)|null|
+|**2025-03-14**|**DynRsl-VLM: Enhancing Autonomous Driving Perception with Dynamic Resolution Vision-Language Models**|Xirui Zhou et.al.|[2503.11265](http://arxiv.org/abs/2503.11265)|null|
+|**2025-03-14**|**Open3DVQA: A Benchmark for Comprehensive Spatial Reasoning with Multimodal Large Language Model in Open Space**|Weichen Zhan et.al.|[2503.11094](http://arxiv.org/abs/2503.11094)|null|
 |**2025-03-13**|**DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding**|Ayesha Ishaq et.al.|[2503.10621](http://arxiv.org/abs/2503.10621)|**[link](https://github.com/ayesha-ishaq/drivelmm-o1)**|
 |**2025-03-13**|**KVQ: Boosting Video Quality Assessment via Saliency-guided Local Perception**|Yunpeng Qu et.al.|[2503.10259](http://arxiv.org/abs/2503.10259)|null|
 |**2025-03-13**|**How Do Multimodal Large Language Models Handle Complex Multimodal Reasoning? Placing Them in An Extensible Escape Game**|Ziyue Wang et.al.|[2503.10042](http://arxiv.org/abs/2503.10042)|null|
@@ -107,6 +110,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Neutralizing Bias in LLM Reasoning using Entailment Graphs**|Liang Cheng et.al.|[2503.11614](http://arxiv.org/abs/2503.11614)|null|
+|**2025-03-14**|**Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers**|Weiming Ren et.al.|[2503.11579](http://arxiv.org/abs/2503.11579)|null|
+|**2025-03-14**|**Potential of large language model-powered nudges for promoting daily water and energy conservation**|Zonghan Li et.al.|[2503.11531](http://arxiv.org/abs/2503.11531)|null|
+|**2025-03-14**|**HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models**|Ziqin Zhou et.al.|[2503.11513](http://arxiv.org/abs/2503.11513)|null|
+|**2025-03-14**|**Heterogeneous Causal Discovery of Repeated Undesirable Health Outcomes**|Shishir Adhikari et.al.|[2503.11477](http://arxiv.org/abs/2503.11477)|null|
+|**2025-03-14**|**Factors affecting power in stepped wedge trials when the treatment effect varies with time**|Avi Kenny et.al.|[2503.11472](http://arxiv.org/abs/2503.11472)|null|
+|**2025-03-14**|**Combining Causal Models for More Accurate Abstractions of Neural Networks**|Theodora-Mara Pîslar et.al.|[2503.11429](http://arxiv.org/abs/2503.11429)|null|
+|**2025-03-14**|**Watch and Learn: Leveraging Expert Knowledge and Language for Surgical Video Understanding**|David Gastager et.al.|[2503.11392](http://arxiv.org/abs/2503.11392)|null|
+|**2025-03-14**|**Difference-in-Differences Meets Synthetic Control: Doubly Robust Identification and Estimation**|Yixiao Sun et.al.|[2503.11375](http://arxiv.org/abs/2503.11375)|null|
+|**2025-03-14**|**PrivacyScalpel: Enhancing LLM Privacy via Interpretable Feature Intervention with Sparse Autoencoders**|Ahmed Frikha et.al.|[2503.11232](http://arxiv.org/abs/2503.11232)|null|
 |**2025-03-13**|**TruthPrInt: Mitigating LVLM Object Hallucination Via Latent Truthful-Guided Pre-Intervention**|Jinhao Duan et.al.|[2503.10602](http://arxiv.org/abs/2503.10602)|**[link](https://github.com/jinhaoduan/truthprint)**|
 |**2025-03-13**|**Long Context Tuning for Video Generation**|Yuwei Guo et.al.|[2503.10589](http://arxiv.org/abs/2503.10589)|null|
 |**2025-03-13**|**Once bitten, twice shy: A modeling framework for incorporating heterogeneous mosquito biting into transmission models**|Kyle J. -M. Dahlin et.al.|[2503.10585](http://arxiv.org/abs/2503.10585)|**[link](https://github.com/kydahl/mosquito-bite-process-modeling)**|
@@ -332,6 +345,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Scalable Video Conferencing Using SDN Principles**|Oliver Michel et.al.|[2503.11649](http://arxiv.org/abs/2503.11649)|null|
+|**2025-03-14**|**Adversarial Data Collection: Human-Collaborative Perturbations for Efficient and Robust Robotic Imitation Learning**|Siyuan Huang et.al.|[2503.11646](http://arxiv.org/abs/2503.11646)|null|
+|**2025-03-14**|**Seeing and Seeing Through the Glass: Real and Synthetic Data for Multi-Layer Depth Estimation**|Hongyu Wen et.al.|[2503.11633](http://arxiv.org/abs/2503.11633)|null|
+|**2025-03-14**|**ASMA-Tune: Unlocking LLMs' Assembly Code Comprehension via Structural-Semantic Instruction Tuning**|Xinyi Wang et.al.|[2503.11617](http://arxiv.org/abs/2503.11617)|null|
+|**2025-03-14**|**From Denoising Score Matching to Langevin Sampling: A Fine-Grained Error Analysis in the Gaussian Setting**|Samuel Hurault et.al.|[2503.11615](http://arxiv.org/abs/2503.11615)|null|
+|**2025-03-14**|**Neutralizing Bias in LLM Reasoning using Entailment Graphs**|Liang Cheng et.al.|[2503.11614](http://arxiv.org/abs/2503.11614)|null|
+|**2025-03-14**|**Floquet-ADAPT-VQE: A Quantum Algorithm to Simulate Non-Equilibrium Physics in Periodically Driven Systems**|Abhishek Kumar et.al.|[2503.11613](http://arxiv.org/abs/2503.11613)|null|
+|**2025-03-14**|**Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages**|Matteo Farina et.al.|[2503.11609](http://arxiv.org/abs/2503.11609)|null|
+|**2025-03-14**|**Pathology Image Compression with Pre-trained Autoencoders**|Srikar Yellapragada et.al.|[2503.11591](http://arxiv.org/abs/2503.11591)|null|
+|**2025-03-14**|**Generalization performance of neural mapping schemes for the space-time interpolation of satellite-derived ocean colour datasets**|Thi Thuy Nga Nguyen et.al.|[2503.11588](http://arxiv.org/abs/2503.11588)|null|
 |**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639](http://arxiv.org/abs/2503.10639)|**[link](https://github.com/rongyaofang/got)**|
 |**2025-03-14**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
 |**2025-03-13**|**V2Edit: Versatile Video Diffusion Editor for Videos and 3D Scenes**|Yanming Zhang et.al.|[2503.10634](http://arxiv.org/abs/2503.10634)|null|
