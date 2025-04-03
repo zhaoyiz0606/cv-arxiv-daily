@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
@@ -15,7 +15,7 @@ layout: default
 |**2025-03-28**|**How Well Can Vison-Language Models Understand Humans' Intention? An Open-ended Theory of Mind Question Evaluation Benchmark**|Ximing Wen et.al.|[2503.22093](http://arxiv.org/abs/2503.22093)|null|
 |**2025-03-27**|**JEEM: Vision-Language Understanding in Four Arabic Dialects**|Karima Kadaoui et.al.|[2503.21910](http://arxiv.org/abs/2503.21910)|null|
 |**2025-03-27**|**CTRL-O: Language-Controllable Object-Centric Visual Representation Learning**|Aniket Didolkar et.al.|[2503.21747](http://arxiv.org/abs/2503.21747)|null|
-|**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[2503.21505](http://arxiv.org/abs/2503.21505)|null|
+|**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[2503.21505](http://arxiv.org/abs/2503.21505)|**[link](https://github.com/Depth2World/VLADBench)**|
 |**2025-03-27**|**FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs**|Xiaoqin Wang et.al.|[2503.21457](http://arxiv.org/abs/2503.21457)|**[link](https://github.com/cvi-szu/facebench)**|
 |**2025-03-26**|**Variational Quantum Algorithms in the era of Early Fault Tolerance**|Siddharth Dangwal et.al.|[2503.20963](http://arxiv.org/abs/2503.20963)|null|
 |**2025-03-28**|**Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields**|Shijie Zhou et.al.|[2503.20776](http://arxiv.org/abs/2503.20776)|null|

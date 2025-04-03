@@ -1,4 +1,4 @@
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |**2025-03-28**|**How Well Can Vison-Language Models Understand Humans' Intention? An Open-ended Theory of Mind Question Evaluation Benchmark**|Ximing Wen et.al.|[2503.22093](http://arxiv.org/abs/2503.22093)|null|
 |**2025-03-27**|**JEEM: Vision-Language Understanding in Four Arabic Dialects**|Karima Kadaoui et.al.|[2503.21910](http://arxiv.org/abs/2503.21910)|null|
 |**2025-03-27**|**CTRL-O: Language-Controllable Object-Centric Visual Representation Learning**|Aniket Didolkar et.al.|[2503.21747](http://arxiv.org/abs/2503.21747)|null|
-|**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[2503.21505](http://arxiv.org/abs/2503.21505)|null|
+|**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[2503.21505](http://arxiv.org/abs/2503.21505)|**[link](https://github.com/Depth2World/VLADBench)**|
 |**2025-03-27**|**FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs**|Xiaoqin Wang et.al.|[2503.21457](http://arxiv.org/abs/2503.21457)|**[link](https://github.com/cvi-szu/facebench)**|
 |**2025-03-26**|**Variational Quantum Algorithms in the era of Early Fault Tolerance**|Siddharth Dangwal et.al.|[2503.20963](http://arxiv.org/abs/2503.20963)|null|
 |**2025-03-28**|**Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields**|Shijie Zhou et.al.|[2503.20776](http://arxiv.org/abs/2503.20776)|null|
@@ -166,7 +166,7 @@
 |**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076](http://arxiv.org/abs/2502.04076)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## CAUSAL
 
@@ -513,7 +513,7 @@
 |**2025-02-11**|**Capacity of the Binary Energy Harvesting Channel**|Eli Shemuel et.al.|[2502.07566](http://arxiv.org/abs/2502.07566)|null|
 |**2025-02-11**|**Scaling Off-Policy Reinforcement Learning with Batch and Weight Normalization**|Daniel Palenicek et.al.|[2502.07523](http://arxiv.org/abs/2502.07523)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## TUNING&ADAPTER
 
@@ -850,7 +850,7 @@
 |**2025-02-12**|**Light-A-Video: Training-free Video Relighting via Progressive Light Fusion**|Yujie Zhou et.al.|[2502.08590](http://arxiv.org/abs/2502.08590)|**[link](https://github.com/bcmi/Light-A-Video)**|
 |**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
