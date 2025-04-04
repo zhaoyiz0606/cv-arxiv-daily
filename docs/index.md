@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**GMAI-VL-R1: Harnessing Reinforcement Learning for Multimodal Medical Reasoning**|Yanzhou Su et.al.|[2504.01886](http://arxiv.org/abs/2504.01886)|null|
+|**2025-04-02**|**Variational preparation of entangled states in a system of transmon qubits**|Alexander Yeremeyev et.al.|[2504.01754](http://arxiv.org/abs/2504.01754)|null|
+|**2025-04-02**|**Reasoning LLMs for User-Aware Multimodal Conversational Agents**|Hamed Rahimi et.al.|[2504.01700](http://arxiv.org/abs/2504.01700)|null|
+|**2025-04-02**|**Quantum Computing for Optimizing Aircraft Loading**|Ananth Kaushik et.al.|[2504.01567](http://arxiv.org/abs/2504.01567)|null|
+|**2025-04-01**|**SViQA: A Unified Speech-Vision Multimodal Model for Textless Visual Question Answering**|Bingxin Li et.al.|[2504.01049](http://arxiv.org/abs/2504.01049)|null|
+|**2025-04-01**|**Scaling Language-Free Visual Representation Learning**|David Fan et.al.|[2504.01017](http://arxiv.org/abs/2504.01017)|null|
+|**2025-04-01**|**PRISM-0: A Predicate-Rich Scene Graph Generation Framework for Zero-Shot Open-Vocabulary Tasks**|Abdelrahman Elskhawy et.al.|[2504.00844](http://arxiv.org/abs/2504.00844)|null|
+|**2025-04-01**|**QG-VTC: Question-Guided Visual Token Compression in MLLMs for Efficient VQA**|Shuai Li et.al.|[2504.00654](http://arxiv.org/abs/2504.00654)|null|
+|**2025-04-02**|**FortisAVQA and MAVEN: a Benchmark Dataset and Debiasing Framework for Robust Multimodal Reasoning**|Jie Ma et.al.|[2504.00487](http://arxiv.org/abs/2504.00487)|null|
+|**2025-04-01**|**MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving**|Zhiyuan Zhang et.al.|[2504.00379](http://arxiv.org/abs/2504.00379)|null|
 |**2025-03-31**|**SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**|Ngoc Dung Huynh et.al.|[2503.24164](http://arxiv.org/abs/2503.24164)|null|
 |**2025-03-31**|**KOFFVQA: An Objectively Evaluated Free-form VQA Benchmark for Large Vision-Language Models in the Korean Language**|Yoonshik Kim et.al.|[2503.23730](http://arxiv.org/abs/2503.23730)|**[link](https://github.com/maum-ai/koffvqa)**|
 |**2025-03-31**|**Undecidable problems associated with variational quantum algorithms**|Georgios Korpas et.al.|[2503.23723](http://arxiv.org/abs/2503.23723)|null|
@@ -165,6 +175,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Is the Reversal Curse a Binding Problem? Uncovering Limitations of Transformers from a Basic Generalization Failure**|Boshi Wang et.al.|[2504.01928](http://arxiv.org/abs/2504.01928)|null|
+|**2025-04-02**|**Is Less Really More? Fake News Detection with Limited Information**|Zhaoyang Cao et.al.|[2504.01922](http://arxiv.org/abs/2504.01922)|**[link](https://github.com/kappakant/SLIM)**|
+|**2025-04-02**|**Interpreting Emergent Planning in Model-Free Reinforcement Learning**|Thomas Bush et.al.|[2504.01871](http://arxiv.org/abs/2504.01871)|null|
+|**2025-04-02**|**shapr: Explaining Machine Learning Models with Conditional Shapley Values in R and Python**|Martin Jullum et.al.|[2504.01842](http://arxiv.org/abs/2504.01842)|null|
+|**2025-04-02**|**The Factors Influencing Well-Being in Software Engineers: A Cross-Country Mixed-Method Study**|Cristina Martinez Montes et.al.|[2504.01787](http://arxiv.org/abs/2504.01787)|null|
+|**2025-04-02**|**Stable Structure Learning with HC-Stable and Tabu-Stable Algorithms**|Neville K. Kitson et.al.|[2504.01740](http://arxiv.org/abs/2504.01740)|null|
+|**2025-04-02**|**Method for Mitigating Attention to Inappropriate Content Based on Attention Dynamics Model**|Naoki Hirakura et.al.|[2504.01712](http://arxiv.org/abs/2504.01712)|null|
+|**2025-04-02**|**A Causal Inference Framework for Data Rich Environments**|Alberto Abadie et.al.|[2504.01702](http://arxiv.org/abs/2504.01702)|null|
+|**2025-04-02**|**Einstein's elevator and the principle of equivalence**|Lisa Galvagni et.al.|[2504.01675](http://arxiv.org/abs/2504.01675)|null|
+|**2025-04-02**|**Glycemic Variability Before And After Hypoglycemia Across Different Timeframes In Type 1 Diabetes With And Without Automated Insulin Delivery**|Ahtsham Zafar et.al.|[2504.01624](http://arxiv.org/abs/2504.01624)|null|
 |**2025-03-31**|**Effectively Controlling Reasoning Models through Thinking Intervention**|Tong Wu et.al.|[2503.24370](http://arxiv.org/abs/2503.24370)|null|
 |**2025-03-31**|**Contextual Preference Collaborative Measure Framework Based on Belief System**|Hang Yu et.al.|[2503.24328](http://arxiv.org/abs/2503.24328)|null|
 |**2025-03-31**|**Value of Information-based Deceptive Path Planning Under Adversarial Interventions**|Wesley A. Suttle et.al.|[2503.24284](http://arxiv.org/abs/2503.24284)|null|
@@ -510,6 +530,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
+|**2025-04-02**|**Gluing moduli spaces of quantum toric stacks via secondary fan**|Antoine Boivin et.al.|[2504.01945](http://arxiv.org/abs/2504.01945)|null|
+|**2025-04-02**|**OpenCodeReasoning: Advancing Data Distillation for Competitive Coding**|Wasi Uddin Ahmad et.al.|[2504.01943](http://arxiv.org/abs/2504.01943)|null|
+|**2025-04-02**|**A Unified Approach to Analysis and Design of Denoising Markov Models**|Yinuo Ren et.al.|[2504.01938](http://arxiv.org/abs/2504.01938)|null|
+|**2025-04-02**|**Review, Refine, Repeat: Understanding Iterative Decoding of AI Agents with Dynamic Evaluation and Selection**|Souradip Chakraborty et.al.|[2504.01931](http://arxiv.org/abs/2504.01931)|null|
+|**2025-04-02**|**A thorough benchmark of automatic text classification: From traditional approaches to large language models**|Washington Cunha et.al.|[2504.01930](http://arxiv.org/abs/2504.01930)|null|
+|**2025-04-03**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
+|**2025-04-02**|**Quantum-amplified global-phase spectroscopy on an optical clock transition**|Leon Zaporski et.al.|[2504.01914](http://arxiv.org/abs/2504.01914)|null|
+|**2025-04-02**|**Joint estimation of position and momentum with arbitrarily high precision using non-Gaussian states**|Massimo Frigerio et.al.|[2504.01910](http://arxiv.org/abs/2504.01910)|null|
+|**2025-04-02**|**STAR-1: Safer Alignment of Reasoning LLMs with 1K Data**|Zijun Wang et.al.|[2504.01903](http://arxiv.org/abs/2504.01903)|null|
 |**2025-03-31**|**Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**|Xingyu Chen et.al.|[2503.24391](http://arxiv.org/abs/2503.24391)|**[link](https://github.com/inception3d/easi3r)**|
 |**2025-03-31**|**Consistent Subject Generation via Contrastive Instantiated Concepts**|Lee Hsin-Ying et.al.|[2503.24387](http://arxiv.org/abs/2503.24387)|null|
 |**2025-03-31**|**How interacting Bose gases scatter light**|Konstantinos Konstantinou et.al.|[2503.24386](http://arxiv.org/abs/2503.24386)|null|
