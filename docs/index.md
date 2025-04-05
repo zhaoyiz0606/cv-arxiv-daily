@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.04.04
+## Updated on 2025.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**STING-BEE: Towards Vision-Language Model for Real-World X-ray Baggage Security Inspection**|Divya Velayudhan et.al.|[2504.02823](http://arxiv.org/abs/2504.02823)|null|
+|**2025-04-03**|**SocialGesture: Delving into Multi-person Gesture Understanding**|Xu Cao et.al.|[2504.02244](http://arxiv.org/abs/2504.02244)|null|
 |**2025-04-02**|**GMAI-VL-R1: Harnessing Reinforcement Learning for Multimodal Medical Reasoning**|Yanzhou Su et.al.|[2504.01886](http://arxiv.org/abs/2504.01886)|null|
 |**2025-04-02**|**Variational preparation of entangled states in a system of transmon qubits**|Alexander Yeremeyev et.al.|[2504.01754](http://arxiv.org/abs/2504.01754)|null|
 |**2025-04-02**|**Reasoning LLMs for User-Aware Multimodal Conversational Agents**|Hamed Rahimi et.al.|[2504.01700](http://arxiv.org/abs/2504.01700)|null|
@@ -17,7 +19,7 @@ layout: default
 |**2025-04-01**|**Scaling Language-Free Visual Representation Learning**|David Fan et.al.|[2504.01017](http://arxiv.org/abs/2504.01017)|null|
 |**2025-04-01**|**PRISM-0: A Predicate-Rich Scene Graph Generation Framework for Zero-Shot Open-Vocabulary Tasks**|Abdelrahman Elskhawy et.al.|[2504.00844](http://arxiv.org/abs/2504.00844)|null|
 |**2025-04-01**|**QG-VTC: Question-Guided Visual Token Compression in MLLMs for Efficient VQA**|Shuai Li et.al.|[2504.00654](http://arxiv.org/abs/2504.00654)|null|
-|**2025-04-02**|**FortisAVQA and MAVEN: a Benchmark Dataset and Debiasing Framework for Robust Multimodal Reasoning**|Jie Ma et.al.|[2504.00487](http://arxiv.org/abs/2504.00487)|null|
+|**2025-04-02**|**FortisAVQA and MAVEN: a Benchmark Dataset and Debiasing Framework for Robust Multimodal Reasoning**|Jie Ma et.al.|[2504.00487](http://arxiv.org/abs/2504.00487)|**[link](https://github.com/reml-group/fortisavqa)**|
 |**2025-04-01**|**MPDrive: Improving Spatial Understanding with Marker-Based Prompt Learning for Autonomous Driving**|Zhiyuan Zhang et.al.|[2504.00379](http://arxiv.org/abs/2504.00379)|null|
 |**2025-03-31**|**SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**|Ngoc Dung Huynh et.al.|[2503.24164](http://arxiv.org/abs/2503.24164)|null|
 |**2025-03-31**|**KOFFVQA: An Objectively Evaluated Free-form VQA Benchmark for Large Vision-Language Models in the Korean Language**|Yoonshik Kim et.al.|[2503.23730](http://arxiv.org/abs/2503.23730)|**[link](https://github.com/maum-ai/koffvqa)**|
@@ -175,6 +177,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing**|Xiangyu Zhao et.al.|[2504.02826](http://arxiv.org/abs/2504.02826)|null|
+|**2025-04-03**|**A Survey of Large Language Models in Mental Health Disorder Detection on Social Media**|Zhuohan Ge et.al.|[2504.02800](http://arxiv.org/abs/2504.02800)|null|
+|**2025-04-03**|**Systematic Evaluation of Large Vision-Language Models for Surgical Artificial Intelligence**|Anita Rau et.al.|[2504.02799](http://arxiv.org/abs/2504.02799)|null|
+|**2025-04-03**|**Universal low-density power laws of the dc conductivity and Hall constant in the self-consistent Born approximation**|Giacomo Morpurgo et.al.|[2504.02739](http://arxiv.org/abs/2504.02739)|null|
+|**2025-04-03**|**Effect of new healthy and live food supplement on Anemia disease in Wistar rats**|Azam Bayat et.al.|[2504.02727](http://arxiv.org/abs/2504.02727)|null|
+|**2025-04-03**|**Semiparametric Counterfactual Regression**|Kwangho Kim et.al.|[2504.02694](http://arxiv.org/abs/2504.02694)|null|
+|**2025-04-03**|**Improving Counterfactual Truthfulness for Molecular Property Prediction through Uncertainty Quantification**|Jonas Teufel et.al.|[2504.02606](http://arxiv.org/abs/2504.02606)|null|
+|**2025-04-03**|**ZClip: Adaptive Spike Mitigation for LLM Pre-Training**|Abhay Kumar et.al.|[2504.02507](http://arxiv.org/abs/2504.02507)|**[link](https://github.com/bluorion-com/ZClip)**|
+|**2025-04-03**|**BOOST: Bootstrapping Strategy-Driven Reasoning Programs for Program-Guided Fact-Checking**|Qisheng Hu et.al.|[2504.02467](http://arxiv.org/abs/2504.02467)|null|
+|**2025-04-03**|**The Amenability Framework: Rethinking Causal Ordering Without Estimating Causal Effects**|Carlos Fernández-Loría et.al.|[2504.02456](http://arxiv.org/abs/2504.02456)|null|
 |**2025-04-02**|**Is the Reversal Curse a Binding Problem? Uncovering Limitations of Transformers from a Basic Generalization Failure**|Boshi Wang et.al.|[2504.01928](http://arxiv.org/abs/2504.01928)|null|
 |**2025-04-02**|**Is Less Really More? Fake News Detection with Limited Information**|Zhaoyang Cao et.al.|[2504.01922](http://arxiv.org/abs/2504.01922)|**[link](https://github.com/kappakant/SLIM)**|
 |**2025-04-02**|**Interpreting Emergent Planning in Model-Free Reinforcement Learning**|Thomas Bush et.al.|[2504.01871](http://arxiv.org/abs/2504.01871)|null|
@@ -530,6 +542,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Universal Log-Optimality for General Classes of e-processes and Sequential Hypothesis Tests**|Ian Waudby-Smith et.al.|[2504.02818](http://arxiv.org/abs/2504.02818)|null|
+|**2025-04-03**|**Efficient Autoregressive Shape Generation via Octree-Based Adaptive Tokenization**|Kangle Deng et.al.|[2504.02817](http://arxiv.org/abs/2504.02817)|null|
+|**2025-04-03**|**Systematic Evaluation of Large Vision-Language Models for Surgical Artificial Intelligence**|Anita Rau et.al.|[2504.02799](http://arxiv.org/abs/2504.02799)|null|
+|**2025-04-03**|**A Framework for Robust Cognitive Evaluation of LLMs**|Karin de Langis et.al.|[2504.02789](http://arxiv.org/abs/2504.02789)|null|
+|**2025-04-03**|**Pivoting technique for the circle homeomorphism group**|Inhyeok Choi et.al.|[2504.02788](http://arxiv.org/abs/2504.02788)|null|
+|**2025-04-03**|**BT-ACTION: A Test-Driven Approach for Modular Understanding of User Instruction Leveraging Behaviour Trees and LLMs**|Alexander Leszczynski et.al.|[2504.02779](http://arxiv.org/abs/2504.02779)|null|
+|**2025-04-03**|**Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition**|Vincent Gbouna Zakka et.al.|[2504.02778](http://arxiv.org/abs/2504.02778)|**[link](https://github.com/Gbouna/MAK-GCN)**|
+|**2025-04-03**|**Robot-Led Vision Language Model Wellbeing Assessment of Children**|Nida Itrat Abbasi et.al.|[2504.02765](http://arxiv.org/abs/2504.02765)|null|
+|**2025-04-03**|**Robust entangled photon generation by Floquet-engineered two-colour pulses**|Jun-Yong Yan et.al.|[2504.02753](http://arxiv.org/abs/2504.02753)|null|
+|**2025-04-03**|**RBR4DNN: Requirements-based Testing of Neural Networks**|Nusrat Jahan Mozumder et.al.|[2504.02737](http://arxiv.org/abs/2504.02737)|null|
 |**2025-04-03**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
 |**2025-04-02**|**Gluing moduli spaces of quantum toric stacks via secondary fan**|Antoine Boivin et.al.|[2504.01945](http://arxiv.org/abs/2504.01945)|null|
 |**2025-04-02**|**OpenCodeReasoning: Advancing Data Distillation for Competitive Coding**|Wasi Uddin Ahmad et.al.|[2504.01943](http://arxiv.org/abs/2504.01943)|null|
