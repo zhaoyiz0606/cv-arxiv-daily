@@ -1,4 +1,4 @@
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-17**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: Methods and Results**|Xin Li et.al.|[2504.13131](http://arxiv.org/abs/2504.13131)|null|
+|**2025-04-17**|**NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: Methods and Results**|Xin Li et.al.|[2504.13131](http://arxiv.org/abs/2504.13131)|**[link](https://github.com/lixinustc/kvqe-challenge-cvpr-ntire2025)**|
 |**2025-04-17**|**Hadamard product in deep learning: Introduction, Advances and Challenges**|Grigorios G Chrysos et.al.|[2504.13112](http://arxiv.org/abs/2504.13112)|null|
 |**2025-04-17**|**Performance guarantees of light-cone variational quantum algorithms for the maximum cut problem**|Xiaoyang Wang et.al.|[2504.12896](http://arxiv.org/abs/2504.12896)|null|
 |**2025-04-17**|**Sampling-based Quantum Optimization Algorithm with Quantum Relaxation**|Hiromichi Matsuyama et.al.|[2504.12629](http://arxiv.org/abs/2504.12629)|null|
@@ -23,7 +23,7 @@
 |**2025-04-16**|**Instruction-augmented Multimodal Alignment for Image-Text and Element Matching**|Xinli Yue et.al.|[2504.12018](http://arxiv.org/abs/2504.12018)|null|
 |**2025-04-16**|**Bridging the Semantic Gaps: Improving Medical VQA Consistency with LLM-Augmented Question Sets**|Yongpei Ma et.al.|[2504.11777](http://arxiv.org/abs/2504.11777)|null|
 |**2025-04-17**|**DVLTA-VQA: Decoupled Vision-Language Modeling with Text-Guided Adaptation for Blind Video Quality Assessment**|Li Yu et.al.|[2504.11733](http://arxiv.org/abs/2504.11733)|null|
-|**2025-04-15**|**QAVA: Query-Agnostic Visual Attack to Large Vision-Language Models**|Yudong Zhang et.al.|[2504.11038](http://arxiv.org/abs/2504.11038)|null|
+|**2025-04-15**|**QAVA: Query-Agnostic Visual Attack to Large Vision-Language Models**|Yudong Zhang et.al.|[2504.11038](http://arxiv.org/abs/2504.11038)|**[link](https://github.com/btzyd/qava)**|
 |**2025-04-15**|**PuzzleBench: A Fully Dynamic Evaluation Framework for Large Multimodal Models on Puzzle Solving**|Zeyu Zhang et.al.|[2504.10885](http://arxiv.org/abs/2504.10885)|null|
 |**2025-04-15**|**LVLM_CSP: Accelerating Large Vision Language Models via Clustering, Scattering, and Pruning for Reasoning Segmentation**|Hanning Chen et.al.|[2504.10854](http://arxiv.org/abs/2504.10854)|null|
 |**2025-04-14**|**ReasonDrive: Efficient Visual Question Answering for Autonomous Vehicles with Reasoning-Enhanced Small Vision-Language Models**|Amirhosein Chahe et.al.|[2504.10757](http://arxiv.org/abs/2504.10757)|null|
@@ -215,7 +215,7 @@
 |**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076](http://arxiv.org/abs/2502.04076)|null|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 ## CAUSAL
 
@@ -682,7 +682,7 @@
 |**2025-02-11**|**Capacity of the Binary Energy Harvesting Channel**|Eli Shemuel et.al.|[2502.07566](http://arxiv.org/abs/2502.07566)|null|
 |**2025-02-11**|**Scaling Off-Policy Reinforcement Learning with Batch and Weight Normalization**|Daniel Palenicek et.al.|[2502.07523](http://arxiv.org/abs/2502.07523)|null|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 ## TUNING&ADAPTER
 
@@ -690,9 +690,9 @@
 |---|---|---|---|---|
 |**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181](http://arxiv.org/abs/2504.13181)|null|
 |**2025-04-17**|**Aligning Constraint Generation with Design Intent in Parametric CAD**|Evan Casey et.al.|[2504.13178](http://arxiv.org/abs/2504.13178)|null|
-|**2025-04-17**|**IMAGGarment-1: Fine-Grained Garment Generation for Controllable Fashion Design**|Fei Shen et.al.|[2504.13176](http://arxiv.org/abs/2504.13176)|null|
+|**2025-04-17**|**IMAGGarment-1: Fine-Grained Garment Generation for Controllable Fashion Design**|Fei Shen et.al.|[2504.13176](http://arxiv.org/abs/2504.13176)|**[link](https://github.com/muzishen/imaggarment-1)**|
 |**2025-04-17**|**Experimental Verification of Electron-Photon Entanglement**|Alexander Preimesberger et.al.|[2504.13163](http://arxiv.org/abs/2504.13163)|null|
-|**2025-04-17**|**Personalized Text-to-Image Generation with Auto-Regressive Models**|Kaiyue Sun et.al.|[2504.13162](http://arxiv.org/abs/2504.13162)|null|
+|**2025-04-17**|**Personalized Text-to-Image Generation with Auto-Regressive Models**|Kaiyue Sun et.al.|[2504.13162](http://arxiv.org/abs/2504.13162)|**[link](https://github.com/kaiyuesun98/t2i-personalization-with-ar)**|
 |**2025-04-17**|**AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis**|Khiem Vuong et.al.|[2504.13157](http://arxiv.org/abs/2504.13157)|null|
 |**2025-04-17**|**St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World**|Haiwen Feng et.al.|[2504.13152](http://arxiv.org/abs/2504.13152)|null|
 |**2025-04-17**|**Long Range Navigator (LRN): Extending robot planning horizons beyond metric maps**|Matt Schmittle et.al.|[2504.13149](http://arxiv.org/abs/2504.13149)|null|
@@ -1139,7 +1139,7 @@
 |**2025-02-12**|**Light-A-Video: Training-free Video Relighting via Progressive Light Fusion**|Yujie Zhou et.al.|[2502.08590](http://arxiv.org/abs/2502.08590)|**[link](https://github.com/bcmi/Light-A-Video)**|
 |**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
