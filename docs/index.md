@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
@@ -17,7 +17,7 @@ layout: default
 |**2025-04-17**|**Solving Constrained Combinatorial Optimization Problems with Variational Quantum Imaginary Time Evolution**|Xin Wei Lee et.al.|[2504.12607](http://arxiv.org/abs/2504.12607)|null|
 |**2025-04-16**|**Instruction-augmented Multimodal Alignment for Image-Text and Element Matching**|Xinli Yue et.al.|[2504.12018](http://arxiv.org/abs/2504.12018)|null|
 |**2025-04-16**|**Bridging the Semantic Gaps: Improving Medical VQA Consistency with LLM-Augmented Question Sets**|Yongpei Ma et.al.|[2504.11777](http://arxiv.org/abs/2504.11777)|null|
-|**2025-04-17**|**DVLTA-VQA: Decoupled Vision-Language Modeling with Text-Guided Adaptation for Blind Video Quality Assessment**|Li Yu et.al.|[2504.11733](http://arxiv.org/abs/2504.11733)|null|
+|**2025-04-19**|**DVLTA-VQA: Decoupled Vision-Language Modeling with Text-Guided Adaptation for Blind Video Quality Assessment**|Li Yu et.al.|[2504.11733](http://arxiv.org/abs/2504.11733)|null|
 |**2025-04-15**|**QAVA: Query-Agnostic Visual Attack to Large Vision-Language Models**|Yudong Zhang et.al.|[2504.11038](http://arxiv.org/abs/2504.11038)|**[link](https://github.com/btzyd/qava)**|
 |**2025-04-15**|**PuzzleBench: A Fully Dynamic Evaluation Framework for Large Multimodal Models on Puzzle Solving**|Zeyu Zhang et.al.|[2504.10885](http://arxiv.org/abs/2504.10885)|null|
 |**2025-04-15**|**LVLM_CSP: Accelerating Large Vision Language Models via Clustering, Scattering, and Pruning for Reasoning Segmentation**|Hanning Chen et.al.|[2504.10854](http://arxiv.org/abs/2504.10854)|null|
@@ -214,6 +214,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Decoding Vision Transformers: the Diffusion Steering Lens**|Ryota Takatsuki et.al.|[2504.13763](http://arxiv.org/abs/2504.13763)|null|
+|**2025-04-18**|**Scaling sparse feature circuit finding for in-context learning**|Dmitrii Kharlapenko et.al.|[2504.13756](http://arxiv.org/abs/2504.13756)|null|
+|**2025-04-18**|**Modular Hamiltonian of holographic time band states**|Xin-Xiang Ju et.al.|[2504.13739](http://arxiv.org/abs/2504.13739)|null|
+|**2025-04-18**|**Dynamic Regularized CBDT: Variance-Calibrated Causal Boosting for Interpretable Heterogeneous Treatment Effects**|Yichen Liu et.al.|[2504.13733](http://arxiv.org/abs/2504.13733)|null|
+|**2025-04-18**|**Human-aligned Deep Learning: Explainability, Causality, and Biological Inspiration**|Gianluca Carloni et.al.|[2504.13717](http://arxiv.org/abs/2504.13717)|null|
+|**2025-04-18**|**Modelling Immunity in Agent-based Models**|Gray Manicom et.al.|[2504.13706](http://arxiv.org/abs/2504.13706)|null|
+|**2025-04-18**|**Inverse Inference on Cooperative Control of Networked Dynamical Systems**|Yushan Li et.al.|[2504.13701](http://arxiv.org/abs/2504.13701)|null|
+|**2025-04-18**|**A Reinforcement Learning Method to Factual and Counterfactual Explanations for Session-based Recommendation**|Han Zhou et.al.|[2504.13632](http://arxiv.org/abs/2504.13632)|null|
+|**2025-04-18**|**MR-MAGIC: Robust Causal Inference Using Many Weak Genetic Interactions**|Di Zhang et.al.|[2504.13565](http://arxiv.org/abs/2504.13565)|null|
+|**2025-04-18**|**Bayesian Model Averaging in Causal Instrumental Variable Models**|Gregor Steiner et.al.|[2504.13520](http://arxiv.org/abs/2504.13520)|null|
 |**2025-04-17**|**MIB: A Mechanistic Interpretability Benchmark**|Aaron Mueller et.al.|[2504.13151](http://arxiv.org/abs/2504.13151)|null|
 |**2025-04-17**|**Long Range Navigator (LRN): Extending robot planning horizons beyond metric maps**|Matt Schmittle et.al.|[2504.13149](http://arxiv.org/abs/2504.13149)|null|
 |**2025-04-17**|**PCBEAR: Pose Concept Bottleneck for Explainable Action Recognition**|Jongseo Lee et.al.|[2504.13140](http://arxiv.org/abs/2504.13140)|null|
@@ -679,6 +689,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**MIG: Automatic Data Selection for Instruction Tuning by Maximizing Information Gain in Semantic Space**|Yicheng Chen et.al.|[2504.13835](http://arxiv.org/abs/2504.13835)|null|
+|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|**[link](https://github.com/jhu-clsp/science-hierarchography)**|
+|**2025-04-21**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828](http://arxiv.org/abs/2504.13828)|**[link](https://github.com/gair-nlp/cognition-engineering)**|
+|**2025-04-18**|**Parameter-Efficient Continual Fine-Tuning: A Survey**|Eric Nuertey Coleman et.al.|[2504.13822](http://arxiv.org/abs/2504.13822)|null|
+|**2025-04-18**|**Analyzing LLMs' Knowledge Boundary Cognition Across Languages Through the Lens of Internal Representations**|Chenghao Xiao et.al.|[2504.13816](http://arxiv.org/abs/2504.13816)|null|
+|**2025-04-18**|**LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark**|Guangyi Liu et.al.|[2504.13805](http://arxiv.org/abs/2504.13805)|null|
+|**2025-04-18**|**Transformer Encoder and Multi-features Time2Vec for Financial Prediction**|Nguyen Kim Hai Bui et.al.|[2504.13801](http://arxiv.org/abs/2504.13801)|null|
+|**2025-04-18**|**Accurate Point Defect Energy Levels from Non-Empirical Screened Range-Separated Hybrid Functionals: the Case of Native Vacancies in ZnO**|Sijia Ke et.al.|[2504.13799](http://arxiv.org/abs/2504.13799)|null|
+|**2025-04-18**|**Meta-Learning and Knowledge Discovery based Physics-Informed Neural Network for Remaining Useful Life Prediction**|Yu Wang et.al.|[2504.13797](http://arxiv.org/abs/2504.13797)|null|
+|**2025-04-18**|**Collective Learning Mechanism based Optimal Transport Generative Adversarial Network for Non-parallel Voice Conversion**|Sandipan Dhar et.al.|[2504.13791](http://arxiv.org/abs/2504.13791)|null|
 |**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181](http://arxiv.org/abs/2504.13181)|null|
 |**2025-04-17**|**Aligning Constraint Generation with Design Intent in Parametric CAD**|Evan Casey et.al.|[2504.13178](http://arxiv.org/abs/2504.13178)|null|
 |**2025-04-17**|**IMAGGarment-1: Fine-Grained Garment Generation for Controllable Fashion Design**|Fei Shen et.al.|[2504.13176](http://arxiv.org/abs/2504.13176)|**[link](https://github.com/muzishen/imaggarment-1)**|
