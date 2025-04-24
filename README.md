@@ -1,4 +1,4 @@
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**MVQA: Mamba with Unified Sampling for Efficient Video Quality Assessment**|Yachun Mi et.al.|[2504.16003](http://arxiv.org/abs/2504.16003)|null|
+|**2025-04-23**|**Verifiable End-to-End Delegated Variational Quantum Algorithms**|Matteo Inajetovic et.al.|[2504.15410](http://arxiv.org/abs/2504.15410)|null|
 |**2025-04-21**|**Variational quantum algorithm for the Poisson equation based on the banded Toeplitz systems**|Xiaoqi Liu et.al.|[2504.14828](http://arxiv.org/abs/2504.14828)|null|
 |**2025-04-20**|**Are Vision LLMs Road-Ready? A Comprehensive Benchmark for Safety-Critical Driving Video Understanding**|Tong Zeng et.al.|[2504.14526](http://arxiv.org/abs/2504.14526)|**[link](https://github.com/tong-zeng/dvbench)**|
 |**2025-04-20**|**Neglected Risks: The Disturbing Reality of Children's Images in Datasets and the Urgent Call for Accountability**|Carlos Caetano et.al.|[2504.14446](http://arxiv.org/abs/2504.14446)|null|
@@ -218,12 +220,22 @@
 |**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076](http://arxiv.org/abs/2502.04076)|null|
 
-<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
 
 ## CAUSAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**SAR4SLPs: An Asynchronous Survey of Speech-Language Pathologists' Perspectives on Socially Assistive Robots**|Denielle Oliva et.al.|[2504.16055](http://arxiv.org/abs/2504.16055)|null|
+|**2025-04-22**|**VR-based Intervention for Perspective Change: A Case to Investigate Virtual Materiality**|Ali Arya et.al.|[2504.16031](http://arxiv.org/abs/2504.16031)|null|
+|**2025-04-22**|**Navigating the State of Cognitive Flow: Context-Aware AI Interventions for Effective Reasoning Support**|Dinithi Dissanayake et.al.|[2504.16021](http://arxiv.org/abs/2504.16021)|null|
+|**2025-04-22**|**FairTranslate: An English-French Dataset for Gender Bias Evaluation in Machine Translation by Overcoming Gender Binarity**|Fanny Jourdan et.al.|[2504.15941](http://arxiv.org/abs/2504.15941)|**[link](https://github.com/fanny-jourdan/FairTranslate)**|
+|**2025-04-22**|**Consistency between Bulk and Boundary Causalities in Asymptotically Anti-de Sitter Spacetimes**|Lei Fu et.al.|[2504.15910](http://arxiv.org/abs/2504.15910)|null|
+|**2025-04-22**|**Restricted Repetitive Behaviors in Adolescent Males with Autism: Volatility in Brain Functional Connectivities**|Gerardo Noriega et.al.|[2504.15906](http://arxiv.org/abs/2504.15906)|null|
+|**2025-04-22**|**Consistent Causal Inference of Group Effects in Non-Targeted Trials with Finitely Many Effect Levels**|Georgios Mavroudeas et.al.|[2504.15854](http://arxiv.org/abs/2504.15854)|null|
+|**2025-04-22**|**Exploring Cognitive and Aesthetic Causality for Multimodal Aspect-Based Sentiment Analysis**|Luwei Xiao et.al.|[2504.15848](http://arxiv.org/abs/2504.15848)|null|
+|**2025-04-22**|**Causal machine learning for high-dimensional mediation analysis using interventional effects mapped to a target trial**|Tong Chen et.al.|[2504.15834](http://arxiv.org/abs/2504.15834)|null|
+|**2025-04-22**|**No-Regret Model Predictive Control with Online Learning of Koopman Operators**|Hongyu Zhou et.al.|[2504.15805](http://arxiv.org/abs/2504.15805)|null|
 |**2025-04-21**|**A Causal Convolutional Low-rank Representation Model for Imputation of Water Quality Data**|Xin Liao et.al.|[2504.15209](http://arxiv.org/abs/2504.15209)|null|
 |**2025-04-21**|**Simulating biochemical reactions: The Linear Noise Approximation can capture non-linear dynamics**|Frederick Truman-Williams et.al.|[2504.15166](http://arxiv.org/abs/2504.15166)|null|
 |**2025-04-21**|**EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models**|Ziwen Xu et.al.|[2504.15133](http://arxiv.org/abs/2504.15133)|**[link](https://github.com/zjunlp/easyedit)**|
@@ -705,12 +717,22 @@
 |**2025-02-11**|**Capacity of the Binary Energy Harvesting Channel**|Eli Shemuel et.al.|[2502.07566](http://arxiv.org/abs/2502.07566)|null|
 |**2025-02-11**|**Scaling Off-Policy Reinforcement Learning with Batch and Weight Normalization**|Daniel Palenicek et.al.|[2502.07523](http://arxiv.org/abs/2502.07523)|null|
 
-<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
 
 ## TUNING&ADAPTER
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083](http://arxiv.org/abs/2504.16083)|null|
+|**2025-04-22**|**From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning**|Le Zhuo et.al.|[2504.16080](http://arxiv.org/abs/2504.16080)|null|
+|**2025-04-22**|**LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities**|Thomas Schmied et.al.|[2504.16078](http://arxiv.org/abs/2504.16078)|null|
+|**2025-04-22**|**Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation**|Zhiyuan Hu et.al.|[2504.16073](http://arxiv.org/abs/2504.16073)|null|
+|**2025-04-22**|**Describe Anything: Detailed Localized Image and Video Captioning**|Long Lian et.al.|[2504.16072](http://arxiv.org/abs/2504.16072)|null|
+|**2025-04-22**|**Two-step laser resonant ionization spectroscopy of chromium**|Romina Schulz et.al.|[2504.16067](http://arxiv.org/abs/2504.16067)|null|
+|**2025-04-22**|**A Mysterious Connection Between Tolerant Junta Testing and Agnostically Learning Conjunctions**|Xi Chen et.al.|[2504.16065](http://arxiv.org/abs/2504.16065)|null|
+|**2025-04-22**|**Vision language models are unreliable at trivial spatial cognition**|Sangeet Khemlani et.al.|[2504.16061](http://arxiv.org/abs/2504.16061)|null|
+|**2025-04-22**|**Honey, I Shrunk the Language Model: Impact of Knowledge Distillation Methods on Performance and Explainability**|Daniel Hendriks et.al.|[2504.16056](http://arxiv.org/abs/2504.16056)|null|
+|**2025-04-22**|**LongMamba: Enhancing Mamba's Long Context Capabilities via Training-Free Receptive Field Enlargement**|Zhifan Ye et.al.|[2504.16053](http://arxiv.org/abs/2504.16053)|null|
 |**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281](http://arxiv.org/abs/2504.15281)|null|
 |**2025-04-21**|**Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning**|Jie Cheng et.al.|[2504.15275](http://arxiv.org/abs/2504.15275)|**[link](https://github.com/cjreinforce/pure)**|
 |**2025-04-21**|**Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**|Ehsan Ahmadi et.al.|[2504.15263](http://arxiv.org/abs/2504.15263)|null|
@@ -1182,7 +1204,7 @@
 |**2025-02-12**|**Light-A-Video: Training-free Video Relighting via Progressive Light Fusion**|Yujie Zhou et.al.|[2502.08590](http://arxiv.org/abs/2502.08590)|**[link](https://github.com/bcmi/Light-A-Video)**|
 |**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
 
-<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
