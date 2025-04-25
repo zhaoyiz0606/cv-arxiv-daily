@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.04.24
+## Updated on 2025.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Detecting and Understanding Hateful Contents in Memes Through Captioning and Visual Question-Answering**|Ali Anaissi et.al.|[2504.16723](http://arxiv.org/abs/2504.16723)|null|
+|**2025-04-23**|**TraveLLaMA: Facilitating Multi-modal Large Language Models to Understand Urban Scenes and Provide Travel Assistance**|Meng Chu et.al.|[2504.16505](http://arxiv.org/abs/2504.16505)|null|
+|**2025-04-22**|**Flexion: Adaptive In-Situ Encoding for On-Demand QEC in Ion Trap Systems**|Keyi Yin et.al.|[2504.16303](http://arxiv.org/abs/2504.16303)|null|
 |**2025-04-22**|**MVQA: Mamba with Unified Sampling for Efficient Video Quality Assessment**|Yachun Mi et.al.|[2504.16003](http://arxiv.org/abs/2504.16003)|null|
 |**2025-04-23**|**Verifiable End-to-End Delegated Variational Quantum Algorithms**|Matteo Inajetovic et.al.|[2504.15410](http://arxiv.org/abs/2504.15410)|null|
 |**2025-04-21**|**Variational quantum algorithm for the Poisson equation based on the banded Toeplitz systems**|Xiaoqi Liu et.al.|[2504.14828](http://arxiv.org/abs/2504.14828)|null|
@@ -219,6 +222,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Evaluating the Impact of a Yoga-Based Intervention on Software Engineers' Well-Being**|Cristina Martinez Montes et.al.|[2504.16779](http://arxiv.org/abs/2504.16779)|null|
+|**2025-04-23**|**DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions**|Chaeyeon Lim et.al.|[2504.16770](http://arxiv.org/abs/2504.16770)|null|
+|**2025-04-23**|**Bridging Data Gaps and Building Knowledge Networks in Indian Football Analytics**|Sneha Nanavati et.al.|[2504.16572](http://arxiv.org/abs/2504.16572)|null|
+|**2025-04-23**|**Using Causal Inference to Test Systems with Hidden and Interacting Variables: An Evaluative Case Study**|Michael Foster et.al.|[2504.16526](http://arxiv.org/abs/2504.16526)|null|
+|**2025-04-23**|**Intelligent Depression Prevention via LLM-Based Dialogue Analysis: Overcoming the Limitations of Scale-Dependent Diagnosis through Precise Emotional Pattern Recognition**|Zhenguang Zhong et.al.|[2504.16504](http://arxiv.org/abs/2504.16504)|null|
+|**2025-04-23**|**Out-of-the-Box Conditional Text Embeddings from Large Language Models**|Kosuke Yamada et.al.|[2504.16411](http://arxiv.org/abs/2504.16411)|null|
+|**2025-04-23**|**The Safety-Privacy Tradeoff in Linear Bandits**|Arghavan Zibaie et.al.|[2504.16371](http://arxiv.org/abs/2504.16371)|null|
+|**2025-04-22**|**Media Content Atlas: A Pipeline to Explore and Investigate Multidimensional Media Space using Multimodal LLMs**|Merve Cerit et.al.|[2504.16323](http://arxiv.org/abs/2504.16323)|null|
+|**2025-04-22**|**Naturally Computed Scale Invariance in the Residual Stream of ResNet18**|André Longon et.al.|[2504.16290](http://arxiv.org/abs/2504.16290)|null|
+|**2025-04-22**|**Investigating LLMs in Clinical Triage: Promising Capabilities, Persistent Intersectional Biases**|Joseph Lee et.al.|[2504.16273](http://arxiv.org/abs/2504.16273)|null|
 |**2025-04-22**|**SAR4SLPs: An Asynchronous Survey of Speech-Language Pathologists' Perspectives on Socially Assistive Robots**|Denielle Oliva et.al.|[2504.16055](http://arxiv.org/abs/2504.16055)|null|
 |**2025-04-22**|**VR-based Intervention for Perspective Change: A Case to Investigate Virtual Materiality**|Ali Arya et.al.|[2504.16031](http://arxiv.org/abs/2504.16031)|null|
 |**2025-04-22**|**Navigating the State of Cognitive Flow: Context-Aware AI Interventions for Effective Reasoning Support**|Dinithi Dissanayake et.al.|[2504.16021](http://arxiv.org/abs/2504.16021)|null|
@@ -714,6 +727,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**|Jacob Levy et.al.|[2504.16923](http://arxiv.org/abs/2504.16923)|null|
+|**2025-04-23**|**Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light**|Ali Hassani et.al.|[2504.16922](http://arxiv.org/abs/2504.16922)|null|
+|**2025-04-23**|**Zero-shot Sim-to-Real Transfer for Reinforcement Learning-based Visual Servoing of Soft Continuum Arms**|Hsin-Jung Yang et.al.|[2504.16916](http://arxiv.org/abs/2504.16916)|null|
+|**2025-04-23**|**MorphoNavi: Aerial-Ground Robot Navigation with Object Oriented Mapping in Digital Twin**|Sausar Karaf et.al.|[2504.16914](http://arxiv.org/abs/2504.16914)|null|
+|**2025-04-23**|**Tracing Thought: Using Chain-of-Thought Reasoning to Identify the LLM Behind AI-Generated Text**|Shifali Agrahari et.al.|[2504.16913](http://arxiv.org/abs/2504.16913)|null|
+|**2025-04-23**|**BadVideo: Stealthy Backdoor Attack against Text-to-Video Generation**|Ruotong Wang et.al.|[2504.16907](http://arxiv.org/abs/2504.16907)|null|
+|**2025-04-23**|**Computing Optimal Transport Plans via Min-Max Gradient Flows**|Lauren Conger et.al.|[2504.16890](http://arxiv.org/abs/2504.16890)|null|
+|**2025-04-23**|**Context-Enhanced Vulnerability Detection Based on Large Language Model**|Yixin Yang et.al.|[2504.16877](http://arxiv.org/abs/2504.16877)|null|
+|**2025-04-23**|**Hybrid Reinforcement Learning and Model Predictive Control for Adaptive Control of Hydrogen-Diesel Dual-Fuel Combustion**|Julian Bedei et.al.|[2504.16875](http://arxiv.org/abs/2504.16875)|null|
+|**2025-04-23**|**Reconfigurable Intelligent Surface Control for a Moving Receiver**|Hamed Radpour et.al.|[2504.16874](http://arxiv.org/abs/2504.16874)|null|
 |**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083](http://arxiv.org/abs/2504.16083)|null|
 |**2025-04-22**|**From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning**|Le Zhuo et.al.|[2504.16080](http://arxiv.org/abs/2504.16080)|null|
 |**2025-04-22**|**LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities**|Thomas Schmied et.al.|[2504.16078](http://arxiv.org/abs/2504.16078)|null|
