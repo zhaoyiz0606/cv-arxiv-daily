@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.04.25
+## Updated on 2025.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Data-Driven Calibration of Prediction Sets in Large Vision-Language Models Based on Inductive Conformal Prediction**|Yuanchang Ye et.al.|[2504.17671](http://arxiv.org/abs/2504.17671)|null|
+|**2025-04-24**|**A Comprehensive Survey of Knowledge-Based Vision Question Answering Systems: The Lifecycle of Knowledge in Visual Reasoning Task**|Jiaqi Deng et.al.|[2504.17547](http://arxiv.org/abs/2504.17547)|null|
 |**2025-04-23**|**Detecting and Understanding Hateful Contents in Memes Through Captioning and Visual Question-Answering**|Ali Anaissi et.al.|[2504.16723](http://arxiv.org/abs/2504.16723)|null|
 |**2025-04-23**|**TraveLLaMA: Facilitating Multi-modal Large Language Models to Understand Urban Scenes and Provide Travel Assistance**|Meng Chu et.al.|[2504.16505](http://arxiv.org/abs/2504.16505)|null|
 |**2025-04-22**|**Flexion: Adaptive In-Situ Encoding for On-Demand QEC in Ion Trap Systems**|Keyi Yin et.al.|[2504.16303](http://arxiv.org/abs/2504.16303)|null|
@@ -222,6 +224,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Geodesic causality in Kerr spacetimes with $|a|\geq M$**|Giulio Sanzeni et.al.|[2504.17763](http://arxiv.org/abs/2504.17763)|null|
+|**2025-04-24**|**Plasma State Monitoring and Disruption Characterization using Multimodal VAEs**|Yoeri Poels et.al.|[2504.17710](http://arxiv.org/abs/2504.17710)|null|
+|**2025-04-24**|**'The Boring and the Tedious': Invisible Labour in India's Gig-Economy**|Pratyay Suvarnapathaki et.al.|[2504.17697](http://arxiv.org/abs/2504.17697)|null|
+|**2025-04-24**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696](http://arxiv.org/abs/2504.17696)|null|
+|**2025-04-24**|**Towards a comprehensive taxonomy of online abusive language informed by machine leaning**|Samaneh Hosseini Moghaddam et.al.|[2504.17653](http://arxiv.org/abs/2504.17653)|null|
+|**2025-04-24**|**Portability of Optimizations from SC to TSO**|Akshay Gopalakrishnan et.al.|[2504.17646](http://arxiv.org/abs/2504.17646)|null|
+|**2025-04-24**|**Bolt: Clothing Virtual Characters at Scale**|Jonathan Leaf et.al.|[2504.17614](http://arxiv.org/abs/2504.17614)|null|
+|**2025-04-24**|**Mitigating xApp conflicts for efficient network slicing in 6G O-RAN: a graph convolutional-based attention network approach**|Sihem Bakri et.al.|[2504.17590](http://arxiv.org/abs/2504.17590)|null|
+|**2025-04-24**|**Baryogenesis in Conformally Flat Spacetimes**|Felix Finster et.al.|[2504.17434](http://arxiv.org/abs/2504.17434)|null|
+|**2025-04-24**|**Beyond Whole Dialogue Modeling: Contextual Disentanglement for Conversational Recommendation**|Guojia An et.al.|[2504.17427](http://arxiv.org/abs/2504.17427)|null|
 |**2025-04-23**|**Evaluating the Impact of a Yoga-Based Intervention on Software Engineers' Well-Being**|Cristina Martinez Montes et.al.|[2504.16779](http://arxiv.org/abs/2504.16779)|null|
 |**2025-04-23**|**DeBiasMe: De-biasing Human-AI Interactions with Metacognitive AIED (AI in Education) Interventions**|Chaeyeon Lim et.al.|[2504.16770](http://arxiv.org/abs/2504.16770)|null|
 |**2025-04-23**|**Bridging Data Gaps and Building Knowledge Networks in Indian Football Analytics**|Sneha Nanavati et.al.|[2504.16572](http://arxiv.org/abs/2504.16572)|null|
@@ -727,6 +739,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
+|**2025-04-24**|**Replay to Remember: Retaining Domain Knowledge in Streaming Language Models**|Sneh Pillai et.al.|[2504.17780](http://arxiv.org/abs/2504.17780)|null|
+|**2025-04-24**|**Flexoelectric polarization in chiral liquid crystals: electrostatic self-interactions of topological defects**|Paul Leask et.al.|[2504.17778](http://arxiv.org/abs/2504.17778)|null|
+|**2025-04-24**|**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs**|Piotr Nawrot et.al.|[2504.17768](http://arxiv.org/abs/2504.17768)|null|
+|**2025-04-24**|**WI2easy: warm inflation dynamics made easy**|Gabriel S. Rodrigues et.al.|[2504.17760](http://arxiv.org/abs/2504.17760)|null|
+|**2025-04-24**|**Design and benchmarking of a two degree of freedom tendon driver unit for cable-driven wearable technologies**|Adrian Esser et.al.|[2504.17736](http://arxiv.org/abs/2504.17736)|null|
+|**2025-04-24**|**DPMambaIR:All-in-One Image Restoration via Degradation-Aware Prompt State Space Model**|Zhanwen Liu et.al.|[2504.17732](http://arxiv.org/abs/2504.17732)|null|
+|**2025-04-24**|**STGen: A Novel Lightweight IoT Testbed for Generating Sensor Traffic for the Experimentation of IoT Protocol and its Application in Hybrid Network**|Hasan MA Islam et.al.|[2504.17725](http://arxiv.org/abs/2504.17725)|null|
+|**2025-04-24**|**Unsupervised EEG-based decoding of absolute auditory attention with canonical correlation analysis**|Nicolas Heintz et.al.|[2504.17724](http://arxiv.org/abs/2504.17724)|null|
+|**2025-04-24**|**Towards Robust LLMs: an Adversarial Robustness Measurement Framework**|Natan Levy et.al.|[2504.17723](http://arxiv.org/abs/2504.17723)|null|
 |**2025-04-23**|**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**|Jacob Levy et.al.|[2504.16923](http://arxiv.org/abs/2504.16923)|null|
 |**2025-04-23**|**Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light**|Ali Hassani et.al.|[2504.16922](http://arxiv.org/abs/2504.16922)|null|
 |**2025-04-23**|**Zero-shot Sim-to-Real Transfer for Reinforcement Learning-based Visual Servoing of Soft Continuum Arms**|Hsin-Jung Yang et.al.|[2504.16916](http://arxiv.org/abs/2504.16916)|null|
