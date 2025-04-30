@@ -1,4 +1,4 @@
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency**|Zhikai Wang et.al.|[2504.18589](http://arxiv.org/abs/2504.18589)|null|
 |**2025-04-25**|**Quantum Circuit Learning Using Non-Integrable System Dynamics**|Ryutaro Sato et.al.|[2504.18090](http://arxiv.org/abs/2504.18090)|null|
 |**2025-04-25**|**Data-Driven Calibration of Prediction Sets in Large Vision-Language Models Based on Inductive Conformal Prediction**|Yuanchang Ye et.al.|[2504.17671](http://arxiv.org/abs/2504.17671)|null|
 |**2025-04-24**|**A Comprehensive Survey of Knowledge-Based Vision Question Answering Systems: The Lifecycle of Knowledge in Visual Reasoning Task**|Jiaqi Deng et.al.|[2504.17547](http://arxiv.org/abs/2504.17547)|null|
@@ -226,12 +227,22 @@
 |**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076](http://arxiv.org/abs/2502.04076)|null|
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 ## CAUSAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041](http://arxiv.org/abs/2504.20041)|null|
+|**2025-04-28**|**Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models**|Xin Wang et.al.|[2504.20020](http://arxiv.org/abs/2504.20020)|null|
+|**2025-04-28**|**How Group Lives Go Well**|John Beverley et.al.|[2504.19968](http://arxiv.org/abs/2504.19968)|null|
+|**2025-04-28**|**Probabilistic and Causal Satisfiability: Constraining the Model**|Markus Bläser et.al.|[2504.19944](http://arxiv.org/abs/2504.19944)|null|
+|**2025-04-28**|**Federated Out-of-Distribution Generalization: A Causal Augmentation View**|Runhui Zhang et.al.|[2504.19882](http://arxiv.org/abs/2504.19882)|null|
+|**2025-04-28**|**Warming demands extensive tropical but minimal temperate management in plant-pollinator networks**|Adrija Datta et.al.|[2504.19879](http://arxiv.org/abs/2504.19879)|null|
+|**2025-04-28**|**Inference with few treated units**|Luis Alvarez et.al.|[2504.19841](http://arxiv.org/abs/2504.19841)|null|
+|**2025-04-28**|**Optimal real-time dynamic treatment regimes with application to oxytocin use in preventing postpartum hemorrhage**|Haiyan Zhu et.al.|[2504.19831](http://arxiv.org/abs/2504.19831)|null|
+|**2025-04-28**|**Digital Twin-based Out-of-Distribution Detection in Autonomous Vessels**|Erblin Isaku et.al.|[2504.19816](http://arxiv.org/abs/2504.19816)|null|
+|**2025-04-28**|**Test-Negative Designs with Multiple Testing Sources**|Mengxin Yu et.al.|[2504.19778](http://arxiv.org/abs/2504.19778)|null|
 |**2025-04-25**|**Adapting Probabilistic Risk Assessment for AI**|Anna Katariina Wisakanto et.al.|[2504.18536](http://arxiv.org/abs/2504.18536)|null|
 |**2025-04-25**|**Automating Nanoindentation: Optimizing Workflows for Precision and Accuracy**|Vivek Chawla et.al.|[2504.18525](http://arxiv.org/abs/2504.18525)|null|
 |**2025-04-25**|**Generative Induction of Dialogue Task Schemas with Streaming Refinement and Simulated Interactions**|James D. Finch et.al.|[2504.18474](http://arxiv.org/abs/2504.18474)|null|
@@ -753,12 +764,22 @@
 |**2025-02-11**|**Capacity of the Binary Energy Harvesting Channel**|Eli Shemuel et.al.|[2502.07566](http://arxiv.org/abs/2502.07566)|null|
 |**2025-02-11**|**Scaling Off-Policy Reinforcement Learning with Batch and Weight Normalization**|Daniel Palenicek et.al.|[2502.07523](http://arxiv.org/abs/2502.07523)|null|
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 ## TUNING&ADAPTER
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**|Zador Pataki et.al.|[2504.20040](http://arxiv.org/abs/2504.20040)|null|
+|**2025-04-28**|**Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models**|Xin Wang et.al.|[2504.20020](http://arxiv.org/abs/2504.20020)|null|
+|**2025-04-28**|**MINT: Multi-Vector Search Index Tuning**|Jiongli Zhu et.al.|[2504.20018](http://arxiv.org/abs/2504.20018)|null|
+|**2025-04-28**|**Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design**|Linshi Li et.al.|[2504.20016](http://arxiv.org/abs/2504.20016)|null|
+|**2025-04-28**|**Interaction of Laguerre-Gaussian laser pulses with borane targets of different hydrogen-boron ratio**|Lars Reichwein et.al.|[2504.20015](http://arxiv.org/abs/2504.20015)|null|
+|**2025-04-28**|**Kinodynamic Trajectory Following with STELA: Simultaneous Trajectory Estimation & Local Adaptation**|Edgar Granados et.al.|[2504.20009](http://arxiv.org/abs/2504.20009)|null|
+|**2025-04-28**|**Knowledge Distillation of Domain-adapted LLMs for Question-Answering in Telecom**|Rishika Sen et.al.|[2504.20000](http://arxiv.org/abs/2504.20000)|null|
+|**2025-04-28**|**Mitigating Societal Cognitive Overload in the Age of AI: Challenges and Directions**|Salem Lahlou et.al.|[2504.19990](http://arxiv.org/abs/2504.19990)|null|
+|**2025-04-28**|**Accurate and Diverse LLM Mathematical Reasoning via Automated PRM-Guided GFlowNets**|Adam Younsi et.al.|[2504.19981](http://arxiv.org/abs/2504.19981)|null|
+|**2025-04-28**|**Quantum circuit lower bounds in the magic hierarchy**|Natalie Parham et.al.|[2504.19966](http://arxiv.org/abs/2504.19966)|null|
 |**2025-04-25**|**Generalization Capability for Imitation Learning**|Yixiao Wang et.al.|[2504.18538](http://arxiv.org/abs/2504.18538)|null|
 |**2025-04-25**|**Adapting Probabilistic Risk Assessment for AI**|Anna Katariina Wisakanto et.al.|[2504.18536](http://arxiv.org/abs/2504.18536)|null|
 |**2025-04-25**|**TRACE Back from the Future: A Probabilistic Reasoning Approach to Controllable Language Generation**|Gwen Yidou Weng et.al.|[2504.18535](http://arxiv.org/abs/2504.18535)|null|
@@ -1270,7 +1291,7 @@
 |**2025-02-12**|**Light-A-Video: Training-free Video Relighting via Progressive Light Fusion**|Yujie Zhou et.al.|[2502.08590](http://arxiv.org/abs/2502.08590)|**[link](https://github.com/bcmi/Light-A-Video)**|
 |**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
