@@ -1,4 +1,4 @@
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**UniBiomed: A Universal Foundation Model for Grounded Biomedical Image Interpretation**|Linshan Wu et.al.|[2504.21336](http://arxiv.org/abs/2504.21336)|null|
+|**2025-04-30**|**An Evaluation of a Visual Question Answering Strategy for Zero-shot Facial Expression Recognition in Still Images**|Modesto Castrillón-Santana et.al.|[2504.21309](http://arxiv.org/abs/2504.21309)|null|
 |**2025-04-29**|**ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**|Ziqing Fan et.al.|[2504.20930](http://arxiv.org/abs/2504.20930)|null|
 |**2025-04-29**|**SpaRE: Enhancing Spatial Reasoning in Vision-Language Models with Synthetic Data**|Michael Ogezi et.al.|[2504.20648](http://arxiv.org/abs/2504.20648)|null|
 |**2025-04-29**|**LMM4Gen3DHF: Benchmarking and Evaluating Multimodal 3D Human Face Generation with LMMs**|Woo Yi Yang et.al.|[2504.20466](http://arxiv.org/abs/2504.20466)|null|
@@ -231,12 +233,22 @@
 |**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076](http://arxiv.org/abs/2502.04076)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 ## CAUSAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Holography and Causality in the Karch-Randall Braneworld**|Hao Geng et.al.|[2504.21856](http://arxiv.org/abs/2504.21856)|null|
+|**2025-04-30**|**A Survey of Interactive Generative Video**|Jiwen Yu et.al.|[2504.21853](http://arxiv.org/abs/2504.21853)|null|
+|**2025-04-30**|**Public Opinion and The Rise of Digital Minds: Perceived Risk, Trust, and Regulation Support**|Justin B. Bullock et.al.|[2504.21849](http://arxiv.org/abs/2504.21849)|null|
+|**2025-04-30**|**Assessing Racial Disparities in Healthcare Expenditures Using Causal Path-Specific Effects**|Xiaxian Ou et.al.|[2504.21688](http://arxiv.org/abs/2504.21688)|null|
+|**2025-04-30**|**Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series**|Michael Wieck-Sosa et.al.|[2504.21647](http://arxiv.org/abs/2504.21647)|null|
+|**2025-04-30**|**Convergence rate for Nearest Neighbour matching: geometry of the domain and higher-order regularity**|Simon Viel et.al.|[2504.21633](http://arxiv.org/abs/2504.21633)|null|
+|**2025-04-30**|**Real-time Program Evaluation using Anytime-valid Rank Tests**|Sam van Meer et.al.|[2504.21595](http://arxiv.org/abs/2504.21595)|null|
+|**2025-04-30**|**MF-LLM: Simulating Collective Decision Dynamics via a Mean-Field Large Language Model Framework**|Qirui Mi et.al.|[2504.21582](http://arxiv.org/abs/2504.21582)|null|
+|**2025-04-30**|**Multigenerational Effects of Smallpox Vaccination**|Volha Lazuka et.al.|[2504.21580](http://arxiv.org/abs/2504.21580)|null|
+|**2025-04-30**|**Powerful randomization tests for subgroup analysis**|Yao Zhang et.al.|[2504.21572](http://arxiv.org/abs/2504.21572)|null|
 |**2025-04-29**|**Statistical and Predictive Analysis to Identify Risk Factors and Effects of Post COVID-19 Syndrome**|Milad Leyli-abadi et.al.|[2504.20915](http://arxiv.org/abs/2504.20915)|null|
 |**2025-04-29**|**Fostering Self-Directed Growth with Generative AI: Toward a New Learning Analytics Framework**|Qianrun Mao et.al.|[2504.20851](http://arxiv.org/abs/2504.20851)|null|
 |**2025-04-29**|**Universal language model with the intervention of quantum theory**|D. -F. Qin et.al.|[2504.20839](http://arxiv.org/abs/2504.20839)|null|
@@ -778,12 +790,22 @@
 |**2025-02-11**|**Capacity of the Binary Energy Harvesting Channel**|Eli Shemuel et.al.|[2502.07566](http://arxiv.org/abs/2502.07566)|null|
 |**2025-02-11**|**Scaling Off-Policy Reinforcement Learning with Batch and Weight Normalization**|Daniel Palenicek et.al.|[2502.07523](http://arxiv.org/abs/2502.07523)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 ## TUNING&ADAPTER
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**COMPACT: COMPositional Atomic-to-Complex Visual Capability Tuning**|Xindi Wu et.al.|[2504.21850](http://arxiv.org/abs/2504.21850)|null|
+|**2025-04-30**|**3D Stylization via Large Reconstruction Model**|Ipek Oztas et.al.|[2504.21836](http://arxiv.org/abs/2504.21836)|null|
+|**2025-04-30**|**Early Exit and Multi Stage Knowledge Distillation in VLMs for Video Summarization**|Anas Anwarul Haq Khan et.al.|[2504.21831](http://arxiv.org/abs/2504.21831)|null|
+|**2025-04-30**|**Beam Optics Ramping in Under-Constrained Lattice Design: Application to Electron-Ion Collider Hadron Storage Ring Cooling Section**|Derong Xu et.al.|[2504.21827](http://arxiv.org/abs/2504.21827)|null|
+|**2025-04-30**|**Rovibrational computation of H $_3^+$ with permutationally invariant Pekeris coordinates**|Gustavo Avila et.al.|[2504.21825](http://arxiv.org/abs/2504.21825)|null|
+|**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814](http://arxiv.org/abs/2504.21814)|null|
+|**2025-04-30**|**DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition**|Z. Z. Ren et.al.|[2504.21801](http://arxiv.org/abs/2504.21801)|null|
+|**2025-04-30**|**Estimation of discrete distributions in relative entropy, and the deviations of the missing mass**|Jaouad Mourtada et.al.|[2504.21787](http://arxiv.org/abs/2504.21787)|null|
+|**2025-04-30**|**Three-dimensional horseshoes near an unfolding of a Hopf-Hopf singularity**|Santiago Ibáñez et.al.|[2504.21783](http://arxiv.org/abs/2504.21783)|null|
+|**2025-04-30**|**Learning Heterogeneous Performance-Fairness Trade-offs in Federated Learning**|Rongguang Ye et.al.|[2504.21775](http://arxiv.org/abs/2504.21775)|null|
 |**2025-04-29**|**YoChameleon: Personalized Vision and Language Generation**|Thao Nguyen et.al.|[2504.20998](http://arxiv.org/abs/2504.20998)|null|
 |**2025-04-29**|**TesserAct: Learning 4D Embodied World Models**|Haoyu Zhen et.al.|[2504.20995](http://arxiv.org/abs/2504.20995)|null|
 |**2025-04-29**|**Photonic Quantum Convolutional Neural Networks with Adaptive State Injection**|Léo Monbroussou et.al.|[2504.20989](http://arxiv.org/abs/2504.20989)|null|
@@ -1315,7 +1337,7 @@
 |**2025-02-12**|**Light-A-Video: Training-free Video Relighting via Progressive Light Fusion**|Yujie Zhou et.al.|[2502.08590](http://arxiv.org/abs/2502.08590)|**[link](https://github.com/bcmi/Light-A-Video)**|
 |**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
