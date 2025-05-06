@@ -2,20 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Transferable Adversarial Attacks on Black-Box Vision-Language Models**|Kai Hu et.al.|[2505.01050](http://arxiv.org/abs/2505.01050)|null|
+|**2025-05-01**|**SpatialLLM: A Compound 3D-Informed Design towards Spatially-Intelligent Large Multimodal Models**|Wufei Ma et.al.|[2505.00788](http://arxiv.org/abs/2505.00788)|null|
+|**2025-05-05**|**Localizing Before Answering: A Hallucination Evaluation Benchmark for Grounded Medical Multimodal LLMs**|Dung Nguyen et.al.|[2505.00744](http://arxiv.org/abs/2505.00744)|null|
 |**2025-05-01**|**AdCare-VLM: Leveraging Large Vision Language Model (LVLM) to Monitor Long-Term Medication Adherence and Care**|Md Asaduzzaman Jabin et.al.|[2505.00275](http://arxiv.org/abs/2505.00275)|null|
 |**2025-04-30**|**A New Hybrid Quantum-Classical Algorithm for Solving the Unit Commitment Problem**|Willie Aboumrad et.al.|[2505.00145](http://arxiv.org/abs/2505.00145)|null|
 |**2025-04-30**|**UniBiomed: A Universal Foundation Model for Grounded Biomedical Image Interpretation**|Linshan Wu et.al.|[2504.21336](http://arxiv.org/abs/2504.21336)|null|
 |**2025-04-30**|**An Evaluation of a Visual Question Answering Strategy for Zero-shot Facial Expression Recognition in Still Images**|Modesto Castrillón-Santana et.al.|[2504.21309](http://arxiv.org/abs/2504.21309)|null|
 |**2025-04-29**|**ChestX-Reasoner: Advancing Radiology Foundation Models with Reasoning through Step-by-Step Verification**|Ziqing Fan et.al.|[2504.20930](http://arxiv.org/abs/2504.20930)|null|
 |**2025-04-29**|**SpaRE: Enhancing Spatial Reasoning in Vision-Language Models with Synthetic Data**|Michael Ogezi et.al.|[2504.20648](http://arxiv.org/abs/2504.20648)|null|
-|**2025-04-29**|**LMM4Gen3DHF: Benchmarking and Evaluating Multimodal 3D Human Face Generation with LMMs**|Woo Yi Yang et.al.|[2504.20466](http://arxiv.org/abs/2504.20466)|null|
+|**2025-05-05**|**LMME3DHF: Benchmarking and Evaluating Multimodal 3D Human Face Generation with LMMs**|Woo Yi Yang et.al.|[2504.20466](http://arxiv.org/abs/2504.20466)|null|
 |**2025-04-30**|**VideoMultiAgents: A Multi-Agent Framework for Video Question Answering**|Noriyuki Kugo et.al.|[2504.20091](http://arxiv.org/abs/2504.20091)|null|
 |**2025-04-29**|**Benchmarking Multimodal Mathematical Reasoning with Explicit Visual Dependency**|Zhikai Wang et.al.|[2504.18589](http://arxiv.org/abs/2504.18589)|null|
 |**2025-04-25**|**Quantum Circuit Learning Using Non-Integrable System Dynamics**|Ryutaro Sato et.al.|[2504.18090](http://arxiv.org/abs/2504.18090)|null|
@@ -234,6 +237,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Evaluating Explanations: An Explanatory Virtues Framework for Mechanistic Interpretability -- The Strange Science Part I.ii**|Kola Ayonrinde et.al.|[2505.01372](http://arxiv.org/abs/2505.01372)|null|
+|**2025-05-05**|**Design-Based Inference under Random Potential Outcomes via Riesz Representation**|Yukai Yang et.al.|[2505.01324](http://arxiv.org/abs/2505.01324)|**[link](https://github.com/yukai-yang/RieszRE_Experiments)**|
+|**2025-05-02**|**Essential Workers at Risk: An Agent-Based Model (SAFE-ABM) with Bayesian Uncertainty Quantification**|Elizabeth B. Amona et.al.|[2505.01243](http://arxiv.org/abs/2505.01243)|null|
+|**2025-05-02**|**Discovering Mechanistic Causality from Time Series: A Behavioral-System Approach**|Yingzhu Liu et.al.|[2505.01226](http://arxiv.org/abs/2505.01226)|null|
+|**2025-05-02**|**Exploring the Impact of Explainable AI and Cognitive Capabilities on Users' Decisions**|Federico Maria Cau et.al.|[2505.01192](http://arxiv.org/abs/2505.01192)|null|
+|**2025-05-02**|**Low-rank bilinear autoregressive models for three-way criminal activity tensors**|Gregor Zens et.al.|[2505.01166](http://arxiv.org/abs/2505.01166)|null|
+|**2025-05-02**|**On the Limitations of Steering in Language Model Alignment**|Chebrolu Niranjan et.al.|[2505.01162](http://arxiv.org/abs/2505.01162)|null|
+|**2025-05-02**|**Overview and practical recommendations on using Shapley Values for identifying predictive biomarkers via CATE modeling**|David Svensson et.al.|[2505.01145](http://arxiv.org/abs/2505.01145)|null|
+|**2025-05-02**|**Investigating Middle School Students Question-Asking and Answer-Evaluation Skills When Using ChatGPT for Science Investigation**|Rania Abdelghani et.al.|[2505.01106](http://arxiv.org/abs/2505.01106)|null|
+|**2025-05-02**|**Characterization and Learning of Causal Graphs from Hard Interventions**|Zihan Zhou et.al.|[2505.01037](http://arxiv.org/abs/2505.01037)|null|
 |**2025-05-01**|**TumorTwin: A python framework for patient-specific digital twins in oncology**|Michael Kapteyn et.al.|[2505.00670](http://arxiv.org/abs/2505.00670)|null|
 |**2025-05-01**|**Can LLMs Help Improve Analogical Reasoning For Strategic Decisions? Experimental Evidence from Humans and GPT-4**|Phanish Puranam et.al.|[2505.00603](http://arxiv.org/abs/2505.00603)|null|
 |**2025-05-01**|**On the Mechanistic Interpretability of Neural Networks for Causality in Bio-statistics**|Jean-Baptiste A. Conan et.al.|[2505.00555](http://arxiv.org/abs/2505.00555)|null|
@@ -799,6 +812,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**How Effective are Large Time Series Models in Hydrology? A Study on Water Level Forecasting in Everglades**|Rahuul Rangaraj et.al.|[2505.01415](http://arxiv.org/abs/2505.01415)|null|
+|**2025-05-02**|**VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models**|Mohammadreza Teymoorianfard et.al.|[2505.01406](http://arxiv.org/abs/2505.01406)|null|
+|**2025-05-02**|**SimICD: A Closed-Loop Simulation Framework For ICD Therapy**|Hannah Lydon et.al.|[2505.01371](http://arxiv.org/abs/2505.01371)|null|
+|**2025-05-02**|**Deep Learning-Enabled System Diagnosis in Microgrids: A Feature-Feedback GAN Approach**|Swetha Rani Kasimalla et.al.|[2505.01366](http://arxiv.org/abs/2505.01366)|null|
+|**2025-05-02**|**Closing the Loop: A Systematic Review of Experience-Driven Game Adaptation**|Phil Lopes et.al.|[2505.01351](http://arxiv.org/abs/2505.01351)|null|
+|**2025-05-02**|**BalancEdit: Dynamically Balancing the Generality-Locality Trade-off in Multi-modal Model Editing**|Dongliang Guo et.al.|[2505.01343](http://arxiv.org/abs/2505.01343)|null|
+|**2025-05-02**|**Classifying Radio-Loud and Radio-Quiet Quasars With Novel PCA Based Regression Classifier**|Ramkrishna Joshi et.al.|[2505.01335](http://arxiv.org/abs/2505.01335)|null|
+|**2025-05-02**|**Specular-Andreev reflection and Andreev interference in an Ising superconductor junction**|Gaoyang Li et.al.|[2505.01330](http://arxiv.org/abs/2505.01330)|null|
+|**2025-05-02**|**ABCO: Adaptive Bacterial Colony Optimisation**|Barisi Kogam et.al.|[2505.01320](http://arxiv.org/abs/2505.01320)|null|
+|**2025-05-05**|**Helping Large Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
 |**2025-05-01**|**Controllable Weather Synthesis and Removal with Video Diffusion Models**|Chih-Hao Lin et.al.|[2505.00704](http://arxiv.org/abs/2505.00704)|null|
 |**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/abs/2505.00703)|null|
 |**2025-05-02**|**Comprehensive Study on Heisenberg-limited Quantum Algorithms for Multiple Observables Estimation**|Yuki Koizumi et.al.|[2505.00698](http://arxiv.org/abs/2505.00698)|null|
