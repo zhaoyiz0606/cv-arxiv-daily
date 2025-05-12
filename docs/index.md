@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
@@ -254,7 +254,7 @@ layout: default
 |**2025-05-08**|**Safe Individualized Treatment Rules with Controllable Harm Rates**|Peng Wu et.al.|[2505.05308](http://arxiv.org/abs/2505.05308)|null|
 |**2025-05-08**|**Enhancing Treatment Effect Estimation via Active Learning: A Counterfactual Covering Perspective**|Hechuan Wen et.al.|[2505.05242](http://arxiv.org/abs/2505.05242)|null|
 |**2025-05-08**|**Incentive-Aware Machine Learning; Robustness, Fairness, Improvement & Causality**|Chara Podimata et.al.|[2505.05211](http://arxiv.org/abs/2505.05211)|null|
-|**2025-05-08**|**Long-Term Individual Causal Effect Estimation via Identifiable Latent Representation Learning**|Ruichu Cai et.al.|[2505.05192](http://arxiv.org/abs/2505.05192)|null|
+|**2025-05-09**|**Long-Term Individual Causal Effect Estimation via Identifiable Latent Representation Learning**|Ruichu Cai et.al.|[2505.05192](http://arxiv.org/abs/2505.05192)|**[link](https://github.com/learnwjj/ICEVAE)**|
 |**2025-05-08**|**A Conjoint Graph Representation Learning Framework for Hypertension Comorbidity Risk Prediction**|Leming Zhou et.al.|[2505.05094](http://arxiv.org/abs/2505.05094)|null|
 |**2025-05-08**|**Foam-Agent: Towards Automated Intelligent CFD Workflows**|Ling Yue et.al.|[2505.04997](http://arxiv.org/abs/2505.04997)|**[link](https://github.com/csml-rpi/foam-agent)**|
 |**2025-05-08**|**Decomposition of Probabilities of Causation with Two Mediators**|Yuta Kawakami et.al.|[2505.04983](http://arxiv.org/abs/2505.04983)|null|
