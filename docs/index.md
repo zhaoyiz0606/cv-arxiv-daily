@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**MM-Skin: Enhancing Dermatology Vision-Language Model with an Image-Text Dataset Derived from Textbooks**|Wenqi Zeng et.al.|[2505.06152](http://arxiv.org/abs/2505.06152)|**[link](https://github.com/zwq803/mm-skin)**|
 |**2025-05-08**|**SITE: towards Spatial Intelligence Thorough Evaluation**|Wenqi Wang et.al.|[2505.05456](http://arxiv.org/abs/2505.05456)|null|
 |**2025-05-08**|**Probabilistic Embeddings for Frozen Vision-Language Models: Uncertainty Quantification with Gaussian Process Latent Variable Models**|Aishwarya Venkataramanan et.al.|[2505.05163](http://arxiv.org/abs/2505.05163)|null|
 |**2025-05-07**|**An Introduction to Variational Quantum Eigensolver Applied to Chemistry**|Matheus da S. Fonseca et.al.|[2505.04768](http://arxiv.org/abs/2505.04768)|null|
@@ -250,6 +251,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Towards Better Cephalometric Landmark Detection with Diffusion Data Generation**|Dongqian Guo et.al.|[2505.06055](http://arxiv.org/abs/2505.06055)|null|
+|**2025-05-09**|**Why Are You Wrong? Counterfactual Explanations for Language Grounding with 3D Objects**|Tobias Preintner et.al.|[2505.06030](http://arxiv.org/abs/2505.06030)|null|
+|**2025-05-09**|**OnlineProver: Experience with a Visualisation Tool for Teaching Formal Proofs**|Ján Perháč et.al.|[2505.05987](http://arxiv.org/abs/2505.05987)|null|
+|**2025-05-09**|**Predicting Poverty**|Paolo Verme et.al.|[2505.05958](http://arxiv.org/abs/2505.05958)|null|
+|**2025-05-09**|**Human causal perception in a cube-stacking task**|Nikolai Bahr et.al.|[2505.05923](http://arxiv.org/abs/2505.05923)|null|
+|**2025-05-09**|**Rethinking Graph Out-Of-Distribution Generalization: A Learnable Random Walk Perspective**|Henan Sun et.al.|[2505.05785](http://arxiv.org/abs/2505.05785)|null|
+|**2025-05-08**|**Conditional Front-door Adjustment for Heterogeneous Treatment Assignment Effect Estimation Under Non-adherence**|Winston Chen et.al.|[2505.05677](http://arxiv.org/abs/2505.05677)|**[link](https://github.com/mld3/lobsternet)**|
+|**2025-05-08**|**Lévy Light Cones and Critical Causality in Fractional Multiscale Quantum Ising Models**|Joshua M Lewis et.al.|[2505.05645](http://arxiv.org/abs/2505.05645)|null|
+|**2025-05-08**|**Multi-level Governance, Smart Meter Adoption, and Utilities' Energy Efficiency Savings in the U.S**|Yue Gao et.al.|[2505.05596](http://arxiv.org/abs/2505.05596)|null|
+|**2025-05-08**|**ReactDance: Progressive-Granular Representation for Long-Term Coherent Reactive Dance Generation**|Jingzhong Lin et.al.|[2505.05589](http://arxiv.org/abs/2505.05589)|null|
 |**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472](http://arxiv.org/abs/2505.05472)|null|
 |**2025-05-08**|**Safe Individualized Treatment Rules with Controllable Harm Rates**|Peng Wu et.al.|[2505.05308](http://arxiv.org/abs/2505.05308)|null|
 |**2025-05-08**|**Enhancing Treatment Effect Estimation via Active Learning: A Counterfactual Covering Perspective**|Hechuan Wen et.al.|[2505.05242](http://arxiv.org/abs/2505.05242)|null|
@@ -865,6 +876,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Towards a Unified Representation Evaluation Framework Beyond Downstream Tasks**|Christos Plachouras et.al.|[2505.06224](http://arxiv.org/abs/2505.06224)|null|
+|**2025-05-09**|**Let Humanoids Hike! Integrative Skill Development on Complex Trails**|Kwan-Yee Lin et.al.|[2505.06218](http://arxiv.org/abs/2505.06218)|null|
+|**2025-05-09**|**Adapting a Segmentation Foundation Model for Medical Image Classification**|Pengfei Gu et.al.|[2505.06217](http://arxiv.org/abs/2505.06217)|null|
+|**2025-05-09**|**Guerra interpolation for inverse freezing**|Linda Albanese et.al.|[2505.06202](http://arxiv.org/abs/2505.06202)|null|
+|**2025-05-09**|**Robust Multi-Agent Decision-Making in Finite-Population Games**|Shinkyu Park et.al.|[2505.06200](http://arxiv.org/abs/2505.06200)|null|
+|**2025-05-09**|**Ohana trees and Taylor expansion for the $λ$ I-calculus. No variable gets left behind or forgotten!**|Rémy Cerda et.al.|[2505.06193](http://arxiv.org/abs/2505.06193)|null|
+|**2025-05-09**|**Efficient time-domain scattering synthesis via frequency-domain singularity subtraction**|Oscar P. Bruno et.al.|[2505.06189](http://arxiv.org/abs/2505.06189)|null|
+|**2025-05-09**|**From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling**|Vahid Rahimzadeh et.al.|[2505.06184](http://arxiv.org/abs/2505.06184)|null|
+|**2025-05-09**|**A Large Language Model-Enhanced Q-learning for Capacitated Vehicle Routing Problem with Time Windows**|Linjiang Cao et.al.|[2505.06178](http://arxiv.org/abs/2505.06178)|null|
+|**2025-05-09**|**An Empirical Study of Fuzz Harness Degradation**|Philipp Görz et.al.|[2505.06177](http://arxiv.org/abs/2505.06177)|null|
 |**2025-05-08**|**Flow-GRPO: Training Flow Matching Models via Online RL**|Jie Liu et.al.|[2505.05470](http://arxiv.org/abs/2505.05470)|**[link](https://github.com/yifan123/flow_grpo)**|
 |**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/abs/2505.05469)|**[link](https://github.com/AvaLovelace1/LegoGPT)**|
 |**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/abs/2505.05467)|null|
