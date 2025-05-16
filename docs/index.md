@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Variational Visual Question Answering**|Tobias Jan Wieczorek et.al.|[2505.09591](http://arxiv.org/abs/2505.09591)|null|
 |**2025-05-12**|**Visually Interpretable Subtask Reasoning for Visual Question Answering**|Yu Cheng et.al.|[2505.08084](http://arxiv.org/abs/2505.08084)|null|
 |**2025-05-10**|**OMGM: Orchestrate Multiple Granularities and Modalities for Efficient Multimodal Retrieval**|Wei Yang et.al.|[2505.07879](http://arxiv.org/abs/2505.07879)|null|
 |**2025-05-11**|**Multi-Modal Explainable Medical AI Assistant for Trustworthy Human-AI Collaboration**|Honglong Yang et.al.|[2505.06898](http://arxiv.org/abs/2505.06898)|null|
@@ -255,6 +256,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Language Agents Mirror Human Causal Reasoning Biases. How Can We Help Them Think Like Scientists?**|Anthony GX-Chen et.al.|[2505.09614](http://arxiv.org/abs/2505.09614)|null|
+|**2025-05-14**|**Adaptively-weighted Nearest Neighbors for Matrix Completion**|Tathagata Sadhukhan et.al.|[2505.09612](http://arxiv.org/abs/2505.09612)|null|
+|**2025-05-14**|**The Niche Connectivity Paradox: Multichrome Contagions Overcome Vaccine Hesitancy more effectively than Monochromacy**|Ho-Chun Herbert Chang et.al.|[2505.09605](http://arxiv.org/abs/2505.09605)|null|
+|**2025-05-14**|**WorldView-Bench: A Benchmark for Evaluating Global Cultural Perspectives in Large Language Models**|Abdullah Mushtaq et.al.|[2505.09595](http://arxiv.org/abs/2505.09595)|null|
+|**2025-05-14**|**Constraining Superluminal Einstein-Æther Gravity through Gravitational Memory**|Lavinia Heisenberg et.al.|[2505.09544](http://arxiv.org/abs/2505.09544)|null|
+|**2025-05-14**|**Evaluation Metrics for Misinformation Warning Interventions: Challenges and Prospects**|Hussaini Zubairu et.al.|[2505.09526](http://arxiv.org/abs/2505.09526)|null|
+|**2025-05-14**|**Counterfactual Strategies for Markov Decision Processes**|Paul Kobialka et.al.|[2505.09412](http://arxiv.org/abs/2505.09412)|null|
+|**2025-05-14**|**Llama See, Llama Do: A Mechanistic Perspective on Contextual Entrainment and Distraction in LLMs**|Jingcheng Niu et.al.|[2505.09338](http://arxiv.org/abs/2505.09338)|null|
+|**2025-05-14**|**Context and Complementarity: Formalizing Bohr's Vision through Many-Valued Contextual Logic**|Partha Ghose et.al.|[2505.09333](http://arxiv.org/abs/2505.09333)|null|
+|**2025-05-14**|**Moving towards informative and actionable social media research**|Joseph B. Bak-Coleman et.al.|[2505.09254](http://arxiv.org/abs/2505.09254)|null|
 |**2025-05-13**|**Divisible and indivisible Stochastic-Quantum dynamics**|Leandro Silva Pimenta et.al.|[2505.08785](http://arxiv.org/abs/2505.08785)|null|
 |**2025-05-13**|**AC-Reason: Towards Theory-Guided Actual Causality Reasoning with Large Language Models**|Yanxi Zhang et.al.|[2505.08750](http://arxiv.org/abs/2505.08750)|null|
 |**2025-05-13**|**Towards Foundation Models for Experimental Readout Systems Combining Discrete and Continuous Data**|James Giroux et.al.|[2505.08736](http://arxiv.org/abs/2505.08736)|null|
@@ -900,6 +911,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Language Agents Mirror Human Causal Reasoning Biases. How Can We Help Them Think Like Scientists?**|Anthony GX-Chen et.al.|[2505.09614](http://arxiv.org/abs/2505.09614)|null|
+|**2025-05-14**|**Adaptively-weighted Nearest Neighbors for Matrix Completion**|Tathagata Sadhukhan et.al.|[2505.09612](http://arxiv.org/abs/2505.09612)|null|
+|**2025-05-14**|**Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors**|Nicolas Dupuis et.al.|[2505.09610](http://arxiv.org/abs/2505.09610)|null|
+|**2025-05-14**|**LightLab: Controlling Light Sources in Images with Diffusion Models**|Nadav Magar et.al.|[2505.09608](http://arxiv.org/abs/2505.09608)|null|
+|**2025-05-14**|**DataMIL: Selecting Data for Robot Imitation Learning with Datamodels**|Shivin Dass et.al.|[2505.09603](http://arxiv.org/abs/2505.09603)|null|
+|**2025-05-14**|**Adversarial Suffix Filtering: a Defense Pipeline for LLMs**|David Khachaturov et.al.|[2505.09602](http://arxiv.org/abs/2505.09602)|null|
+|**2025-05-14**|**How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference**|Nidhal Jegham et.al.|[2505.09598](http://arxiv.org/abs/2505.09598)|null|
+|**2025-05-14**|**MDTP -- An Adaptive Multi-Source Data Transfer Protocol**|Sepideh Abdollah et.al.|[2505.09597](http://arxiv.org/abs/2505.09597)|null|
+|**2025-05-14**|**Design of Experiments for Emulations: A Selective Review from a Modeling Perspective**|Xinwei Deng et.al.|[2505.09596](http://arxiv.org/abs/2505.09596)|null|
+|**2025-05-14**|**WorldView-Bench: A Benchmark for Evaluating Global Cultural Perspectives in Large Language Models**|Abdullah Mushtaq et.al.|[2505.09595](http://arxiv.org/abs/2505.09595)|null|
 |**2025-05-13**|**GNN-based Precoder Design and Fine-tuning for Cell-free Massive MIMO with Real-world CSI**|Tianzheng Miao et.al.|[2505.08788](http://arxiv.org/abs/2505.08788)|null|
 |**2025-05-13**|**UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations**|Hanjung Kim et.al.|[2505.08787](http://arxiv.org/abs/2505.08787)|null|
 |**2025-05-13**|**PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework**|Abhineet Agarwal et.al.|[2505.08784](http://arxiv.org/abs/2505.08784)|null|
