@@ -2,13 +2,22 @@
 layout: default
 ---
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Understanding Complexity in VideoQA via Visual Program Generation**|Cristobal Eyzaguirre et.al.|[2505.13429](http://arxiv.org/abs/2505.13429)|null|
+|**2025-05-19**|**A Game-Theoretic Quantum Algorithm for Solving Magic Squares**|Sarah Chehade et.al.|[2505.13366](http://arxiv.org/abs/2505.13366)|null|
+|**2025-05-19**|**Reasoning-OCR: Can Large Multimodal Models Solve Complex Logical Reasoning Problems from OCR Cues?**|Haibin He et.al.|[2505.12766](http://arxiv.org/abs/2505.12766)|**[link](https://github.com/hxyz-123/reasoningocr)**|
+|**2025-05-18**|**MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks**|Yinghao Zhu et.al.|[2505.12371](http://arxiv.org/abs/2505.12371)|null|
+|**2025-05-17**|**TinyRS-R1: Compact Multimodal Language Model for Remote Sensing**|Aybora Koksal et.al.|[2505.12099](http://arxiv.org/abs/2505.12099)|null|
+|**2025-05-20**|**Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation**|Shuo Wang et.al.|[2505.11886](http://arxiv.org/abs/2505.11886)|null|
+|**2025-05-17**|**MedSG-Bench: A Benchmark for Medical Image Sequences Grounding**|Jingkun Yue et.al.|[2505.11852](http://arxiv.org/abs/2505.11852)|null|
+|**2025-05-17**|**RVTBench: A Benchmark for Visual Reasoning Tasks**|Yiqing Shen et.al.|[2505.11838](http://arxiv.org/abs/2505.11838)|null|
+|**2025-05-16**|**Semantically-Aware Game Image Quality Assessment**|Kai Zhu et.al.|[2505.11724](http://arxiv.org/abs/2505.11724)|null|
 |**2025-05-16**|**HumaniBench: A Human-Centric Framework for Large Multimodal Models Evaluation**|Shaina Raza et.al.|[2505.11454](http://arxiv.org/abs/2505.11454)|null|
 |**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Wenchuan Zhang et.al.|[2505.11404](http://arxiv.org/abs/2505.11404)|null|
 |**2025-05-19**|**TCC-Bench: Benchmarking the Traditional Chinese Culture Understanding Capabilities of MLLMs**|Pengju Xu et.al.|[2505.11275](http://arxiv.org/abs/2505.11275)|null|
@@ -260,6 +269,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**KinTwin: Imitation Learning with Torque and Muscle Driven Biomechanical Models Enables Precise Replication of Able-Bodied and Impaired Movement from Markerless Motion Capture**|R. James Cotton et.al.|[2505.13436](http://arxiv.org/abs/2505.13436)|null|
+|**2025-05-19**|**Machine learning the first stage in 2SLS: Practical guidance from bias decomposition and simulation**|Connor Lennon et.al.|[2505.13422](http://arxiv.org/abs/2505.13422)|null|
+|**2025-05-19**|**FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning**|Zhuozhao Hu et.al.|[2505.13419](http://arxiv.org/abs/2505.13419)|**[link](https://github.com/953206211/feallm)**|
+|**2025-05-19**|**CoT-Kinetics: A Theoretical Modeling Assessing LRM Reasoning Process**|Jinhe Bi et.al.|[2505.13408](http://arxiv.org/abs/2505.13408)|null|
+|**2025-05-19**|**Approximating Global Contact-Implicit MPC via Sampling and Local Complementarity**|Sharanya Venkatesh et.al.|[2505.13350](http://arxiv.org/abs/2505.13350)|null|
+|**2025-05-19**|**Discretion in the Loop: Human Expertise in Algorithm-Assisted College Advising**|Sofiia Druchyna et.al.|[2505.13325](http://arxiv.org/abs/2505.13325)|null|
+|**2025-05-19**|**From What Ifs to Insights: Counterfactuals in Causal Inference vs. Explainable AI**|Galit Shmueli et.al.|[2505.13324](http://arxiv.org/abs/2505.13324)|null|
+|**2025-05-19**|**MAGI-1: Autoregressive Video Generation at Scale**|Sand. ai et.al.|[2505.13211](http://arxiv.org/abs/2505.13211)|**[link](https://github.com/sandai-org/magiattention)**|
+|**2025-05-19**|**Information Science Principles of Machine Learning: A Causal Chain Meta-Framework Based on Formalized Information Mapping**|Jianfeng Xu et.al.|[2505.13182](http://arxiv.org/abs/2505.13182)|null|
+|**2025-05-19**|**Auditing Meta-Cognitive Hallucinations in Reasoning Large Language Models**|Haolang Lu et.al.|[2505.13143](http://arxiv.org/abs/2505.13143)|null|
 |**2025-05-16**|**LLMs unlock new paths to monetizing exploits**|Nicholas Carlini et.al.|[2505.11449](http://arxiv.org/abs/2505.11449)|null|
 |**2025-05-16**|**A Generative Framework for Causal Estimation via Importance-Weighted Diffusion Distillation**|Xinran Song et.al.|[2505.11444](http://arxiv.org/abs/2505.11444)|null|
 |**2025-05-16**|**Path superposition as resource for perfect quantum teleportation with separable states**|Sayan Mondal et.al.|[2505.11398](http://arxiv.org/abs/2505.11398)|null|
@@ -935,6 +954,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**CIE: Controlling Language Model Text Generations Using Continuous Signals**|Vinay Samuel et.al.|[2505.13448](http://arxiv.org/abs/2505.13448)|**[link](https://github.com/vsamuel2003/cie)**|
+|**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441](http://arxiv.org/abs/2505.13441)|null|
+|**2025-05-19**|**SMOTExT: SMOTE meets Large Language Models**|Mateusz Bystroński et.al.|[2505.13434](http://arxiv.org/abs/2505.13434)|null|
+|**2025-05-19**|**Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**|Sifeng Shang et.al.|[2505.13430](http://arxiv.org/abs/2505.13430)|null|
+|**2025-05-19**|**G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**|Liang Chen et.al.|[2505.13426](http://arxiv.org/abs/2505.13426)|**[link](https://github.com/chenllliang/g1)**|
+|**2025-05-19**|**Learnware of Language Models: Specialized Small Language Models Can Do Big**|Zhi-Hao Tan et.al.|[2505.13425](http://arxiv.org/abs/2505.13425)|null|
+|**2025-05-19**|**Make Still Further Progress: Chain of Thoughts for Tabular Data Leaderboard**|Si-Yang Liu et.al.|[2505.13421](http://arxiv.org/abs/2505.13421)|null|
+|**2025-05-19**|**AdaptThink: Reasoning Models Can Learn When to Think**|Jiajie Zhang et.al.|[2505.13417](http://arxiv.org/abs/2505.13417)|**[link](https://github.com/thu-keg/adaptthink)**|
+|**2025-05-19**|**Gluon: Making Muon & Scion Great Again! (Bridging Theory and Practice of LMO-based Optimizers for LLMs)**|Artem Riabinin et.al.|[2505.13416](http://arxiv.org/abs/2505.13416)|null|
+|**2025-05-19**|**MR. Judge: Multimodal Reasoner as a Judge**|Renjie Pi et.al.|[2505.13403](http://arxiv.org/abs/2505.13403)|null|
 |**2025-05-16**|**UMArm: Untethered, Modular, Wearable, Soft Pneumatic Arm**|Runze Zuo et.al.|[2505.11476](http://arxiv.org/abs/2505.11476)|null|
 |**2025-05-16**|**The Dilemma Between Euphoria and Freedom in Recommendation Algorithms**|James Brusseau et.al.|[2505.11465](http://arxiv.org/abs/2505.11465)|null|
 |**2025-05-16**|**Disentangling Reasoning and Knowledge in Medical Large Language Models**|Rahul Thapa et.al.|[2505.11462](http://arxiv.org/abs/2505.11462)|null|
