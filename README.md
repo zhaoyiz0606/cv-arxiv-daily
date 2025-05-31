@@ -1,4 +1,4 @@
-## Updated on 2025.05.30
+## Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**|Sihan Yang et.al.|[2505.23764](http://arxiv.org/abs/2505.23764)|null|
+|**2025-05-29**|**A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis**|Shengyuan Liu et.al.|[2505.23601](http://arxiv.org/abs/2505.23601)|null|
+|**2025-05-29**|**Spoken question answering for visual queries**|Nimrod Shabtay et.al.|[2505.23308](http://arxiv.org/abs/2505.23308)|null|
+|**2025-05-29**|**Interpreting Chest X-rays Like a Radiologist: A Benchmark with Clinical Reasoning**|Jinquan Guan et.al.|[2505.23143](http://arxiv.org/abs/2505.23143)|null|
+|**2025-05-29**|**Multi-Sourced Compositional Generalization in Visual Question Answering**|Chuanhao Li et.al.|[2505.23045](http://arxiv.org/abs/2505.23045)|null|
+|**2025-05-29**|**Synthetic Document Question Answering in Hungarian**|Jonathan Li et.al.|[2505.23008](http://arxiv.org/abs/2505.23008)|null|
+|**2025-05-29**|**QLIP: A Dynamic Quadtree Vision Prior Enhances MLLM Performance Without Retraining**|Kyle R. Chickering et.al.|[2505.23004](http://arxiv.org/abs/2505.23004)|null|
+|**2025-05-28**|**NegVQA: Can Vision Language Models Understand Negation?**|Yuhui Zhang et.al.|[2505.22946](http://arxiv.org/abs/2505.22946)|null|
+|**2025-05-28**|**VIGNETTE: Socially Grounded Bias Evaluation for Vision-Language Models**|Chahat Raj et.al.|[2505.22897](http://arxiv.org/abs/2505.22897)|**[link](https://github.com/chahatraj/Vignette)**|
 |**2025-05-28**|**Scaling-up Perceptual Video Quality Assessment**|Ziheng Jia et.al.|[2505.22543](http://arxiv.org/abs/2505.22543)|null|
 |**2025-05-27**|**HDRSDR-VQA: A Subjective Video Quality Dataset for HDR and SDR Comparative Evaluation**|Bowen Chen et.al.|[2505.21831](http://arxiv.org/abs/2505.21831)|null|
 |**2025-05-27**|**FRAMES-VQA: Benchmarking Fine-Tuning Robustness across Multi-Modal Shifts in Visual Question Answering**|Chengyue Huang et.al.|[2505.21755](http://arxiv.org/abs/2505.21755)|null|
@@ -313,12 +322,22 @@
 |**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076](http://arxiv.org/abs/2502.04076)|null|
 
-<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## CAUSAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Neutron Stars in Causal Scalar-Tensor Theories**|Mark P. Hertzberg et.al.|[2505.23712](http://arxiv.org/abs/2505.23712)|null|
+|**2025-05-29**|**Can LLMs Reason Abstractly Over Math Word Problems Without CoT? Disentangling Abstract Formulation From Arithmetic Computation**|Ziling Cheng et.al.|[2505.23701](http://arxiv.org/abs/2505.23701)|null|
+|**2025-05-29**|**DiCoFlex: Model-agnostic diverse counterfactuals with flexible control**|Oleksii Furman et.al.|[2505.23700](http://arxiv.org/abs/2505.23700)|null|
+|**2025-05-29**|**Child-Directed Language Does Not Consistently Boost Syntax Learning in Language Models**|Francesca Padovani et.al.|[2505.23689](http://arxiv.org/abs/2505.23689)|null|
+|**2025-05-29**|**D-AR: Diffusion via Autoregressive Models**|Ziteng Gao et.al.|[2505.23660](http://arxiv.org/abs/2505.23660)|null|
+|**2025-05-29**|**AutoSchemaKG: Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora**|Jiaxin Bai et.al.|[2505.23628](http://arxiv.org/abs/2505.23628)|null|
+|**2025-05-29**|**Fast-tracking and disentangling of qubit noise fluctuations using minimal-data averaging and hierarchical discrete fluctuation auto-segmentation**|Abhishek Agarwal et.al.|[2505.23622](http://arxiv.org/abs/2505.23622)|null|
+|**2025-05-29**|**Understanding Refusal in Language Models with Sparse Autoencoders**|Wei Jie Yeo et.al.|[2505.23556](http://arxiv.org/abs/2505.23556)|null|
+|**2025-05-29**|**Going from a Representative Agent to Counterfactuals in Combinatorial Choice**|Yanqiu Ruan et.al.|[2505.23546](http://arxiv.org/abs/2505.23546)|null|
+|**2025-05-29**|**VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning**|Liyun Zhu et.al.|[2505.23504](http://arxiv.org/abs/2505.23504)|null|
 |**2025-05-28**|**The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models**|Ganqu Cui et.al.|[2505.22617](http://arxiv.org/abs/2505.22617)|null|
 |**2025-05-28**|**Fusion Steering: Prompt-Specific Activation Control**|Waldemar Chang et.al.|[2505.22572](http://arxiv.org/abs/2505.22572)|null|
 |**2025-05-28**|**Sparsification and Reconstruction from the Perspective of Representation Geometry**|Wenjie Sun et.al.|[2505.22506](http://arxiv.org/abs/2505.22506)|null|
@@ -1060,12 +1079,22 @@
 |**2025-02-11**|**Capacity of the Binary Energy Harvesting Channel**|Eli Shemuel et.al.|[2502.07566](http://arxiv.org/abs/2502.07566)|null|
 |**2025-02-11**|**Scaling Off-Policy Reinforcement Learning with Batch and Weight Normalization**|Daniel Palenicek et.al.|[2502.07523](http://arxiv.org/abs/2502.07523)|null|
 
-<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## TUNING&ADAPTER
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763](http://arxiv.org/abs/2505.23763)|null|
+|**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Chenyu Yang et.al.|[2505.23762](http://arxiv.org/abs/2505.23762)|null|
+|**2025-05-29**|**Model Immunization from a Condition Number Perspective**|Amber Yijia Zheng et.al.|[2505.23760](http://arxiv.org/abs/2505.23760)|null|
+|**2025-05-29**|**DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning**|Ziyin Zhang et.al.|[2505.23754](http://arxiv.org/abs/2505.23754)|null|
+|**2025-05-29**|**Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**|Diankun Wu et.al.|[2505.23747](http://arxiv.org/abs/2505.23747)|null|
+|**2025-05-29**|**Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need**|Qiang Wang et.al.|[2505.23744](http://arxiv.org/abs/2505.23744)|null|
+|**2025-05-29**|**MAGREF: Masked Guidance for Any-Reference Video Generation**|Yufan Deng et.al.|[2505.23742](http://arxiv.org/abs/2505.23742)|null|
+|**2025-05-29**|**How Animals Dance (When You're Not Looking)**|Xiaojuan Wang et.al.|[2505.23738](http://arxiv.org/abs/2505.23738)|null|
+|**2025-05-29**|**EmotionRankCLAP: Bridging Natural Language Speaking Styles and Ordinal Speech Emotion via Rank-N-Contrast**|Shreeram Suresh Chandra et.al.|[2505.23732](http://arxiv.org/abs/2505.23732)|null|
+|**2025-05-29**|**PixelThink: Towards Efficient Chain-of-Pixel Reasoning**|Song Wang et.al.|[2505.23727](http://arxiv.org/abs/2505.23727)|null|
 |**2025-05-28**|**Training Free Stylized Abstraction**|Aimon Rahman et.al.|[2505.22663](http://arxiv.org/abs/2505.22663)|null|
 |**2025-05-28**|**AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**|Feng Luo et.al.|[2505.22662](http://arxiv.org/abs/2505.22662)|null|
 |**2025-05-28**|**GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Reasoning**|Qingchen Yu et.al.|[2505.22661](http://arxiv.org/abs/2505.22661)|null|
@@ -1797,7 +1826,7 @@
 |**2025-02-12**|**Light-A-Video: Training-free Video Relighting via Progressive Light Fusion**|Yujie Zhou et.al.|[2502.08590](http://arxiv.org/abs/2502.08590)|**[link](https://github.com/bcmi/Light-A-Video)**|
 |**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
 
-<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
