@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**RhoDARTS: Differentiable Quantum Architecture Search with Density Matrix Simulations**|Swagat Kumar et.al.|[2506.03697](http://arxiv.org/abs/2506.03697)|null|
+|**2025-06-04**|**ROSA: Addressing text understanding challenges in photographs via ROtated SAmpling**|Hernán Maina et.al.|[2506.03665](http://arxiv.org/abs/2506.03665)|null|
+|**2025-06-03**|**ViT-Split: Unleashing the Power of Vision Foundation Models via Efficient Splitting Heads**|Yifan Li et.al.|[2506.03433](http://arxiv.org/abs/2506.03433)|null|
+|**2025-06-03**|**Seeing the Arrow of Time in Large Multimodal Models**|Zihui Xue et.al.|[2506.03340](http://arxiv.org/abs/2506.03340)|null|
 |**2025-06-03**|**FuseLIP: Multimodal Embeddings via Early Fusion of Discrete Tokens**|Christian Schlarmann et.al.|[2506.03096](http://arxiv.org/abs/2506.03096)|null|
 |**2025-06-04**|**Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments**|Di Wen et.al.|[2506.02845](http://arxiv.org/abs/2506.02845)|null|
 |**2025-06-04**|**CoRe-MMRAG: Cross-Source Knowledge Reconciliation for Multimodal RAG**|Yang Tian et.al.|[2506.02544](http://arxiv.org/abs/2506.02544)|null|
@@ -336,6 +340,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Pseudo-Simulation for Autonomous Driving**|Wei Cao et.al.|[2506.04218](http://arxiv.org/abs/2506.04218)|null|
+|**2025-06-04**|**What Makes Treatment Effects Identifiable? Characterizations and Estimators Beyond Unconfoundedness**|Yang Cai et.al.|[2506.04194](http://arxiv.org/abs/2506.04194)|null|
+|**2025-06-04**|**Understanding challenges to the interpretation of disaggregated evaluations of algorithmic fairness**|Stephen R. Pfohl et.al.|[2506.04193](http://arxiv.org/abs/2506.04193)|null|
+|**2025-06-04**|**N $^2$ : A Unified Python Package and Test Bench for Nearest Neighbor-Based Matrix Completion**|Caleb Chin et.al.|[2506.04166](http://arxiv.org/abs/2506.04166)|null|
+|**2025-06-04**|**Establishing Trustworthy LLM Evaluation via Shortcut Neuron Analysis**|Kejian Zhu et.al.|[2506.04142](http://arxiv.org/abs/2506.04142)|null|
+|**2025-06-04**|**Risk and Reward of Transitioning from a National to a Zonal Electricity Market in Great Britain**|Lukas Franken et.al.|[2506.04107](http://arxiv.org/abs/2506.04107)|null|
+|**2025-06-04**|**Towards generating more interpretable counterfactuals via concept vectors: a preliminary study on chest X-rays**|Bulat Maksudov et.al.|[2506.04058](http://arxiv.org/abs/2506.04058)|null|
+|**2025-06-04**|**WANDER: An Explainable Decision-Support Framework for HPC**|Ankur Lahiry et.al.|[2506.04049](http://arxiv.org/abs/2506.04049)|null|
+|**2025-06-04**|**The Causal-Noncausal Tail Processes: An Introduction**|Christian Gouriéroux et.al.|[2506.04046](http://arxiv.org/abs/2506.04046)|null|
+|**2025-06-04**|**Conformal coronary calcification volume estimation with conditional coverage via histogram clustering**|Olivier Jaubert et.al.|[2506.04030](http://arxiv.org/abs/2506.04030)|null|
 |**2025-06-03**|**Causal Estimation of Tokenisation Bias**|Pietro Lesci et.al.|[2506.03149](http://arxiv.org/abs/2506.03149)|null|
 |**2025-06-03**|**Two-Phase Treatment with Noncompliance: Identifying the Cumulative Average Treatment Effect via Multisite Instrumental Variables**|Guanglei Hong et.al.|[2506.03104](http://arxiv.org/abs/2506.03104)|null|
 |**2025-06-03**|**TalkingMachines: Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models**|Chetwin Low et.al.|[2506.03099](http://arxiv.org/abs/2506.03099)|null|
@@ -1111,6 +1125,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|
+|**2025-06-04**|**Struct2D: A Perception-Guided Framework for Spatial Reasoning in Large Multimodal Models**|Fangrui Zhu et.al.|[2506.04220](http://arxiv.org/abs/2506.04220)|null|
+|**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217](http://arxiv.org/abs/2506.04217)|null|
+|**2025-06-04**|**UNIC: Unified In-Context Video Editing**|Zixuan Ye et.al.|[2506.04216](http://arxiv.org/abs/2506.04216)|null|
+|**2025-06-05**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
+|**2025-06-04**|**Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector**|Boyong He et.al.|[2506.04211](http://arxiv.org/abs/2506.04211)|**[link](https://github.com/heboyong/Diffusion-Domain-Teacher)**|
+|**2025-06-04**|**Does Thinking More always Help? Understanding Test-Time Scaling in Reasoning Models**|Soumya Suvra Ghosal et.al.|[2506.04210](http://arxiv.org/abs/2506.04210)|null|
+|**2025-06-04**|**A Kernel-Based Approach for Accurate Steady-State Detection in Performance Time Series**|Martin Beseda et.al.|[2506.04204](http://arxiv.org/abs/2506.04204)|null|
+|**2025-06-04**|**TracLLM: A Generic Framework for Attributing Long Context LLMs**|Yanting Wang et.al.|[2506.04202](http://arxiv.org/abs/2506.04202)|null|
+|**2025-06-04**|**Long or short CoT? Investigating Instance-level Switch of Large Reasoning Models**|Ruiqi Zhang et.al.|[2506.04182](http://arxiv.org/abs/2506.04182)|null|
 |**2025-06-03**|**IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation**|Yuanze Lin et.al.|[2506.03150](http://arxiv.org/abs/2506.03150)|null|
 |**2025-06-03**|**MERIT: Multilingual Semantic Retrieval with Interleaved Multi-Condition Query**|Wei Chow et.al.|[2506.03144](http://arxiv.org/abs/2506.03144)|null|
 |**2025-06-03**|**GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents**|Qianhui Wu et.al.|[2506.03143](http://arxiv.org/abs/2506.03143)|null|
