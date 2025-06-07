@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.06.06
+## Updated on 2025.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**TextVidBench: A Benchmark for Long Video Scene Text Understanding**|Yangyang Zhong et.al.|[2506.04983](http://arxiv.org/abs/2506.04983)|null|
+|**2025-06-05**|**Ontology-based knowledge representation for bone disease diagnosis: a foundation for safe and sustainable medical artificial intelligence systems**|Loan Dao et.al.|[2506.04756](http://arxiv.org/abs/2506.04756)|null|
+|**2025-06-04**|**ReXVQA: A Large-scale Visual Question Answering Benchmark for Generalist Chest X-ray Understanding**|Ankit Pal et.al.|[2506.04353](http://arxiv.org/abs/2506.04353)|null|
 |**2025-06-04**|**RhoDARTS: Differentiable Quantum Architecture Search with Density Matrix Simulations**|Swagat Kumar et.al.|[2506.03697](http://arxiv.org/abs/2506.03697)|null|
 |**2025-06-04**|**ROSA: Addressing text understanding challenges in photographs via ROtated SAmpling**|Hernán Maina et.al.|[2506.03665](http://arxiv.org/abs/2506.03665)|null|
 |**2025-06-03**|**ViT-Split: Unleashing the Power of Vision Foundation Models via Efficient Splitting Heads**|Yifan Li et.al.|[2506.03433](http://arxiv.org/abs/2506.03433)|null|
@@ -340,6 +343,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Flattery, Fluff, and Fog: Diagnosing and Mitigating Idiosyncratic Biases in Preference Models**|Anirudh Bharadwaj et.al.|[2506.05339](http://arxiv.org/abs/2506.05339)|null|
+|**2025-06-05**|**Generalizable, real-time neural decoding with hybrid state-space models**|Avery Hee-Woon Ryoo et.al.|[2506.05320](http://arxiv.org/abs/2506.05320)|null|
+|**2025-06-05**|**Estimation of Treatment Effects Under Nonstationarity via Truncated Difference-in-Q's**|Ramesh Johari et.al.|[2506.05308](http://arxiv.org/abs/2506.05308)|null|
+|**2025-06-05**|**AliTok: Towards Sequence Modeling Alignment between Tokenizer and Autoregressive Model**|Pingyu Wu et.al.|[2506.05289](http://arxiv.org/abs/2506.05289)|null|
+|**2025-06-05**|**MesaNet: Sequence Modeling by Locally Optimal Test-Time Training**|Johannes von Oswald et.al.|[2506.05233](http://arxiv.org/abs/2506.05233)|null|
+|**2025-06-05**|**Enhancing the Merger Simulation Toolkit with ML/AI**|Harold D. Chiang et.al.|[2506.05225](http://arxiv.org/abs/2506.05225)|null|
+|**2025-06-05**|**Causal Effect Identification in lvLiNGAM from Higher-Order Cumulants**|Daniele Tramontano et.al.|[2506.05202](http://arxiv.org/abs/2506.05202)|null|
+|**2025-06-05**|**Counterfactual reasoning: an analysis of in-context emergence**|Moritz Miller et.al.|[2506.05188](http://arxiv.org/abs/2506.05188)|null|
+|**2025-06-05**|**Classical and Quantum Query Complexity of Boolean Functions under Indefinite Causal Order**|Alastair A. Abbott et.al.|[2506.05187](http://arxiv.org/abs/2506.05187)|null|
+|**2025-06-05**|**Knowledgeable-r1: Policy Optimization for Knowledge Exploration in Retrieval-Augmented Generation**|Chenyu Lin et.al.|[2506.05154](http://arxiv.org/abs/2506.05154)|null|
 |**2025-06-04**|**Pseudo-Simulation for Autonomous Driving**|Wei Cao et.al.|[2506.04218](http://arxiv.org/abs/2506.04218)|null|
 |**2025-06-04**|**What Makes Treatment Effects Identifiable? Characterizations and Estimators Beyond Unconfoundedness**|Yang Cai et.al.|[2506.04194](http://arxiv.org/abs/2506.04194)|null|
 |**2025-06-04**|**Understanding challenges to the interpretation of disaggregated evaluations of algorithmic fairness**|Stephen R. Pfohl et.al.|[2506.04193](http://arxiv.org/abs/2506.04193)|null|
@@ -1125,6 +1138,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets**|Lei Hsiung et.al.|[2506.05346](http://arxiv.org/abs/2506.05346)|null|
+|**2025-06-05**|**ContentV: Efficient Training of Video Generation Models with Limited Compute**|Wenfeng Lin et.al.|[2506.05343](http://arxiv.org/abs/2506.05343)|null|
+|**2025-06-05**|**Refer to Anything with Vision-Language Prompts**|Shengcao Cao et.al.|[2506.05342](http://arxiv.org/abs/2506.05342)|null|
+|**2025-06-05**|**Unleashing Hour-Scale Video Training for Long Video-Language Understanding**|Jingyang Lin et.al.|[2506.05332](http://arxiv.org/abs/2506.05332)|null|
+|**2025-06-05**|**MINT-CoT: Enabling Interleaved Visual Tokens in Mathematical Chain-of-Thought Reasoning**|Xinyan Chen et.al.|[2506.05331](http://arxiv.org/abs/2506.05331)|null|
+|**2025-06-05**|**Admissibility of Completely Randomized Trials: A Large-Deviation Approach**|Guido Imbens et.al.|[2506.05329](http://arxiv.org/abs/2506.05329)|null|
+|**2025-06-05**|**LSM-2: Learning from Incomplete Wearable Sensor Data**|Maxwell A. Xu et.al.|[2506.05321](http://arxiv.org/abs/2506.05321)|null|
+|**2025-06-05**|**Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**|Yifan Sun et.al.|[2506.05316](http://arxiv.org/abs/2506.05316)|null|
+|**2025-06-05**|**Do It Yourself: Learning Semantic Correspondence from Pseudo-Labels**|Olaf Dünkel et.al.|[2506.05312](http://arxiv.org/abs/2506.05312)|null|
+|**2025-06-05**|**Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games**|Niv Eckhaus et.al.|[2506.05309](http://arxiv.org/abs/2506.05309)|**[link](https://github.com/niveck/LLMafia)**|
 |**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|
 |**2025-06-04**|**Struct2D: A Perception-Guided Framework for Spatial Reasoning in Large Multimodal Models**|Fangrui Zhu et.al.|[2506.04220](http://arxiv.org/abs/2506.04220)|null|
 |**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217](http://arxiv.org/abs/2506.04217)|null|
