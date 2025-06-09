@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.08
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
@@ -349,7 +349,7 @@ layout: default
 |**2025-06-05**|**AliTok: Towards Sequence Modeling Alignment between Tokenizer and Autoregressive Model**|Pingyu Wu et.al.|[2506.05289](http://arxiv.org/abs/2506.05289)|null|
 |**2025-06-05**|**MesaNet: Sequence Modeling by Locally Optimal Test-Time Training**|Johannes von Oswald et.al.|[2506.05233](http://arxiv.org/abs/2506.05233)|null|
 |**2025-06-05**|**Enhancing the Merger Simulation Toolkit with ML/AI**|Harold D. Chiang et.al.|[2506.05225](http://arxiv.org/abs/2506.05225)|null|
-|**2025-06-05**|**Causal Effect Identification in lvLiNGAM from Higher-Order Cumulants**|Daniele Tramontano et.al.|[2506.05202](http://arxiv.org/abs/2506.05202)|null|
+|**2025-06-06**|**Causal Effect Identification in lvLiNGAM from Higher-Order Cumulants**|Daniele Tramontano et.al.|[2506.05202](http://arxiv.org/abs/2506.05202)|null|
 |**2025-06-05**|**Counterfactual reasoning: an analysis of in-context emergence**|Moritz Miller et.al.|[2506.05188](http://arxiv.org/abs/2506.05188)|null|
 |**2025-06-05**|**Classical and Quantum Query Complexity of Boolean Functions under Indefinite Causal Order**|Alastair A. Abbott et.al.|[2506.05187](http://arxiv.org/abs/2506.05187)|null|
 |**2025-06-05**|**Knowledgeable-r1: Policy Optimization for Knowledge Exploration in Retrieval-Augmented Generation**|Chenyu Lin et.al.|[2506.05154](http://arxiv.org/abs/2506.05154)|null|
