@@ -1,4 +1,4 @@
-## Updated on 2025.06.14
+## Updated on 2025.06.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,8 +18,8 @@
 |**2025-06-12**|**Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning**|Yuhao Zhou et.al.|[2506.10521](http://arxiv.org/abs/2506.10521)|null|
 |**2025-06-12**|**HalLoc: Token-level Localization of Hallucinations for Vision Language Models**|Eunkyu Park et.al.|[2506.10286](http://arxiv.org/abs/2506.10286)|null|
 |**2025-06-11**|**Kvasir-VQA-x1: A Multimodal Dataset for Medical Reasoning and Robust MedVQA in Gastrointestinal Endoscopy**|Sushant Gautam et.al.|[2506.09958](http://arxiv.org/abs/2506.09958)|null|
-|**2025-06-11**|**Outside Knowledge Conversational Video (OKCV) Dataset -- Dialoguing over Videos**|Benjamin Reichman et.al.|[2506.09953](http://arxiv.org/abs/2506.09953)|null|
-|**2025-06-11**|**CausalVQA: A Physically Grounded Causal Reasoning Benchmark for Video Models**|Aaron Foss et.al.|[2506.09943](http://arxiv.org/abs/2506.09943)|null|
+|**2025-06-11**|**Outside Knowledge Conversational Video (OKCV) Dataset -- Dialoguing over Videos**|Benjamin Reichman et.al.|[2506.09953](http://arxiv.org/abs/2506.09953)|**[link](https://github.com/c-patsch/okcv)**|
+|**2025-06-11**|**CausalVQA: A Physically Grounded Causal Reasoning Benchmark for Video Models**|Aaron Foss et.al.|[2506.09943](http://arxiv.org/abs/2506.09943)|**[link](https://github.com/facebookresearch/causalvqa)**|
 |**2025-06-11**|**Learning Quality from Complexity and Structure: A Feature-Fused XGBoost Model for Video Quality Assessment**|Amritha Premkumar et.al.|[2506.09795](http://arxiv.org/abs/2506.09795)|null|
 |**2025-06-11**|**HSENet: Hybrid Spatial Encoding Network for 3D Medical Vision-Language Understanding**|Yanzhao Shi et.al.|[2506.09634](http://arxiv.org/abs/2506.09634)|null|
 |**2025-06-11**|**Provoking Multi-modal Few-Shot LVLM via Exploration-Exploitation In-Context Learning**|Cheng Chen et.al.|[2506.09473](http://arxiv.org/abs/2506.09473)|null|
@@ -370,7 +370,7 @@
 |**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076](http://arxiv.org/abs/2502.04076)|null|
 
-<p align=right>(<a href=#updated-on-20250614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
 
 ## CAUSAL
 
@@ -1217,7 +1217,7 @@
 |**2025-02-11**|**Capacity of the Binary Energy Harvesting Channel**|Eli Shemuel et.al.|[2502.07566](http://arxiv.org/abs/2502.07566)|null|
 |**2025-02-11**|**Scaling Off-Policy Reinforcement Learning with Batch and Weight Normalization**|Daniel Palenicek et.al.|[2502.07523](http://arxiv.org/abs/2502.07523)|null|
 
-<p align=right>(<a href=#updated-on-20250614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
 
 ## TUNING&ADAPTER
 
@@ -1230,7 +1230,7 @@
 |**2025-06-12**|**MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning**|Yuxuan Luo et.al.|[2506.10963](http://arxiv.org/abs/2506.10963)|null|
 |**2025-06-12**|**Understanding In-Context Learning on Structured Manifolds: Bridging Attention to Kernel Methods**|Zhaiming Shen et.al.|[2506.10959](http://arxiv.org/abs/2506.10959)|null|
 |**2025-06-12**|**Build the web for agents, not agents for the web**|Xing Han Lù et.al.|[2506.10953](http://arxiv.org/abs/2506.10953)|null|
-|**2025-06-12**|**Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**|Chen Yueh-Han et.al.|[2506.10949](http://arxiv.org/abs/2506.10949)|null|
+|**2025-06-12**|**Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**|Chen Yueh-Han et.al.|[2506.10949](http://arxiv.org/abs/2506.10949)|**[link](https://github.com/yuehhanchen/monitoring-decomposition-attack)**|
 |**2025-06-12**|**Execution Guided Line-by-Line Code Generation**|Boaz Lavon et.al.|[2506.10948](http://arxiv.org/abs/2506.10948)|null|
 |**2025-06-12**|**GUARD: Guided Unlearning and Retention via Data Attribution for Large Language Models**|Evelyn Ma et.al.|[2506.10946](http://arxiv.org/abs/2506.10946)|null|
 |**2025-06-11**|**Flipping Against All Odds: Reducing LLM Coin Flip Bias via Verbalized Rejection Sampling**|Tim Z. Xiao et.al.|[2506.09998](http://arxiv.org/abs/2506.09998)|null|
@@ -2054,7 +2054,7 @@
 |**2025-02-12**|**Light-A-Video: Training-free Video Relighting via Progressive Light Fusion**|Yujie Zhou et.al.|[2502.08590](http://arxiv.org/abs/2502.08590)|**[link](https://github.com/bcmi/Light-A-Video)**|
 |**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
 
-<p align=right>(<a href=#updated-on-20250614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
