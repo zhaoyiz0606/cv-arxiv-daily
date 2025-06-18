@@ -1,4 +1,4 @@
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-15**|**CAPO: Reinforcing Consistent Reasoning in Medical Decision-Making**|Songtao Jiang et.al.|[2506.12849](http://arxiv.org/abs/2506.12849)|null|
+|**2025-06-15**|**Learning to Fuse: Modality-Aware Adaptive Scheduling for Robust Multimodal Foundation Models**|Liam Bennett et.al.|[2506.12733](http://arxiv.org/abs/2506.12733)|null|
+|**2025-06-15**|**Dynamic Modality Scheduling for Multimodal Large Models via Confidence, Uncertainty, and Semantic Consistency**|Hiroshi Tanaka et.al.|[2506.12724](http://arxiv.org/abs/2506.12724)|null|
+|**2025-06-14**|**AntiGrounding: Lifting Robotic Actions into VLM Representation Space for Decision Making**|Wenbo Li et.al.|[2506.12374](http://arxiv.org/abs/2506.12374)|null|
+|**2025-06-13**|**A Fast, Reliable, and Secure Programming Language for LLM Agents with Code Actions**|Stephen Mell et.al.|[2506.12202](http://arxiv.org/abs/2506.12202)|null|
+|**2025-06-13**|**ViSTA: Visual Storytelling using Multi-modal Adapters for Text-to-Image Diffusion Models**|Sibo Dong et.al.|[2506.12198](http://arxiv.org/abs/2506.12198)|null|
 |**2025-06-13**|**MTabVQA: Evaluating Multi-Tabular Reasoning of Language Models in Visual Space**|Anshul Singh et.al.|[2506.11684](http://arxiv.org/abs/2506.11684)|null|
 |**2025-06-13**|**EyeSim-VQA: A Free-Energy-Guided Eye Simulation Framework for Video Quality Assessment**|Zhaoyang Wang et.al.|[2506.11549](http://arxiv.org/abs/2506.11549)|null|
 |**2025-06-13**|**Dynamic Double Space Tower**|Weikai Sun et.al.|[2506.11394](http://arxiv.org/abs/2506.11394)|null|
@@ -374,12 +380,22 @@
 |**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076](http://arxiv.org/abs/2502.04076)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## CAUSAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Regular Power-Maxwell Black Holes**|Yi-bo Liang et.al.|[2506.13676](http://arxiv.org/abs/2506.13676)|null|
+|**2025-06-16**|**Mixture of Weight-shared Heterogeneous Group Attention Experts for Dynamic Token-wise KV Optimization**|Guanghui Song et.al.|[2506.13541](http://arxiv.org/abs/2506.13541)|null|
+|**2025-06-16**|**Chaos, coherence and turbulence**|Javier Jimenez et.al.|[2506.13417](http://arxiv.org/abs/2506.13417)|null|
+|**2025-06-16**|**Characteristic Imsets for Cyclic Linear Causal Models and the Chickering Ideal**|Joseph Johnson et.al.|[2506.13407](http://arxiv.org/abs/2506.13407)|null|
+|**2025-06-16**|**Deflating Deflationism: A Critical Perspective on Debunking Arguments Against LLM Mentality**|Alex Grzankowski et.al.|[2506.13403](http://arxiv.org/abs/2506.13403)|null|
+|**2025-06-16**|**Delving Into the Psychology of Machines: Exploring the Structure of Self-Regulated Learning via LLM-Generated Survey Responses**|Leonie V. D. E. Vogelsmeier et.al.|[2506.13384](http://arxiv.org/abs/2506.13384)|null|
+|**2025-06-16**|**Socratic RL: A Novel Framework for Efficient Knowledge Acquisition through Iterative Reflection and Viewpoint Distillation**|Xiangfan Wu et.al.|[2506.13358](http://arxiv.org/abs/2506.13358)|null|
+|**2025-06-16**|**VIS-Shepherd: Constructing Critic for LLM-based Data Visualization Generation**|Bo Pan et.al.|[2506.13326](http://arxiv.org/abs/2506.13326)|null|
+|**2025-06-16**|**A data-driven analysis of the impact of non-compliant individuals on epidemic diffusion in urban settings**|Fabio Mazza et.al.|[2506.13325](http://arxiv.org/abs/2506.13325)|null|
+|**2025-06-16**|**Automatic Multi-View X-Ray/CT Registration Using Bone Substructure Contours**|Roman Flepp et.al.|[2506.13292](http://arxiv.org/abs/2506.13292)|null|
 |**2025-06-13**|**crossMoDA Challenge: Evolution of Cross-Modality Domain Adaptation Techniques for Vestibular Schwannoma and Cochlea Segmentation from 2021 to 2023**|Navodini Wijethilake et.al.|[2506.12006](http://arxiv.org/abs/2506.12006)|null|
 |**2025-06-13**|**Evaluating Program Sequences with Double Machine Learning: An Application to Labor Market Policies**|Fabian Muny et.al.|[2506.11960](http://arxiv.org/abs/2506.11960)|null|
 |**2025-06-13**|**Breaking Habits: On the Role of the Advantage Function in Learning Causal State Representations**|Miguel Suau et.al.|[2506.11912](http://arxiv.org/abs/2506.11912)|null|
@@ -1231,12 +1247,22 @@
 |**2025-02-11**|**Capacity of the Binary Energy Harvesting Channel**|Eli Shemuel et.al.|[2502.07566](http://arxiv.org/abs/2502.07566)|null|
 |**2025-02-11**|**Scaling Off-Policy Reinforcement Learning with Batch and Weight Normalization**|Daniel Palenicek et.al.|[2502.07523](http://arxiv.org/abs/2502.07523)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## TUNING&ADAPTER
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins**|Chuanruo Ning et.al.|[2506.13761](http://arxiv.org/abs/2506.13761)|null|
+|**2025-06-16**|**AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning**|Zewei Zhou et.al.|[2506.13757](http://arxiv.org/abs/2506.13757)|null|
+|**2025-06-16**|**UltraZoom: Generating Gigapixel Images from Regular Photos**|Jingwei Ma et.al.|[2506.13756](http://arxiv.org/abs/2506.13756)|null|
+|**2025-06-16**|**Steering LLM Thinking with Budget Guidance**|Junyan Li et.al.|[2506.13752](http://arxiv.org/abs/2506.13752)|null|
+|**2025-06-16**|**Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability**|Shova Kuikel et.al.|[2506.13746](http://arxiv.org/abs/2506.13746)|null|
+|**2025-06-16**|**Critical Insights about Robots for Mental Wellbeing**|Guy Laban et.al.|[2506.13739](http://arxiv.org/abs/2506.13739)|null|
+|**2025-06-16**|**ExtendAttack: Attacking Servers of LRMs via Extending Reasoning**|Zhenhao Zhu et.al.|[2506.13737](http://arxiv.org/abs/2506.13737)|null|
+|**2025-06-16**|**Instruction Following by Boosting Attention of Large Language Models**|Vitoria Guardieiro et.al.|[2506.13734](http://arxiv.org/abs/2506.13734)|null|
+|**2025-06-16**|**BanditWare: A Contextual Bandit-based Framework for Hardware Prediction**|Tainã Coleman et.al.|[2506.13730](http://arxiv.org/abs/2506.13730)|null|
+|**2025-06-16**|**Weakest Link in the Chain: Security Vulnerabilities in Advanced Reasoning Models**|Arjun Krishna et.al.|[2506.13726](http://arxiv.org/abs/2506.13726)|null|
 |**2025-06-13**|**EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction**|Hsi-Che Lin et.al.|[2506.12015](http://arxiv.org/abs/2506.12015)|null|
 |**2025-06-13**|**code_transformed: The Influence of Large Language Models on Code**|Yuliang Xu et.al.|[2506.12014](http://arxiv.org/abs/2506.12014)|null|
 |**2025-06-13**|**SIMSHIFT: A Benchmark for Adapting Neural Surrogates to Distribution Shifts**|Paul Setinek et.al.|[2506.12007](http://arxiv.org/abs/2506.12007)|null|
@@ -2078,7 +2104,7 @@
 |**2025-02-12**|**Light-A-Video: Training-free Video Relighting via Progressive Light Fusion**|Yujie Zhou et.al.|[2502.08590](http://arxiv.org/abs/2502.08590)|**[link](https://github.com/bcmi/Light-A-Video)**|
 |**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
