@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Escaping the SpuriVerse: Can Large Vision-Language Models Generalize Beyond Seen Spurious Correlations?**|Yiwei Yang et.al.|[2506.18322](http://arxiv.org/abs/2506.18322)|null|
+|**2025-06-23**|**ReFrame: Rectification Framework for Image Explaining Architectures**|Debjyoti Das Adhikary et.al.|[2506.18272](http://arxiv.org/abs/2506.18272)|null|
+|**2025-06-22**|**See-in-Pairs: Reference Image-Guided Comparative Vision-Language Models for Medical Diagnosis**|Ruinan Jin et.al.|[2506.18140](http://arxiv.org/abs/2506.18140)|null|
+|**2025-06-22**|**GEMeX-ThinkVG: Towards Thinking with Visual Grounding in Medical VQA via Reinforcement Learning**|Bo Liu et.al.|[2506.17939](http://arxiv.org/abs/2506.17939)|null|
+|**2025-06-22**|**Cause-Effect Driven Optimization for Robust Medical Visual Question Answering with Language Biases**|Huanjia Zhu et.al.|[2506.17903](http://arxiv.org/abs/2506.17903)|null|
+|**2025-06-22**|**PostAlign: Multimodal Grounding as a Corrective Lens for MLLMs**|Yixuan Wu et.al.|[2506.17901](http://arxiv.org/abs/2506.17901)|null|
+|**2025-06-21**|**MDSAM:Memory-Driven Sparse Attention Matrix for LVLMs Hallucination Mitigation**|Shuaiye Lu et.al.|[2506.17664](http://arxiv.org/abs/2506.17664)|null|
+|**2025-06-21**|**Scene-R1: Video-Grounded Large Language Models for 3D Scene Reasoning without 3D Annotations**|Zhihao Yuan et.al.|[2506.17545](http://arxiv.org/abs/2506.17545)|null|
+|**2025-06-20**|**Variational quantum algorithms with exact geodesic transport**|André J. Ferreira-Martins et.al.|[2506.17395](http://arxiv.org/abs/2506.17395)|null|
+|**2025-06-20**|**A competitive NISQ and qubit-efficient solver for the LABS problem**|Marco Sciorilli et.al.|[2506.17391](http://arxiv.org/abs/2506.17391)|null|
 |**2025-06-20**|**Enhancing Step-by-Step and Verifiable Medical Reasoning in MLLMs**|Haoran Sun et.al.|[2506.16962](http://arxiv.org/abs/2506.16962)|null|
 |**2025-06-20**|**The Role of Model Confidence on Bias Effects in Measured Uncertainties**|Xinyi Liu et.al.|[2506.16724](http://arxiv.org/abs/2506.16724)|null|
 |**2025-06-19**|**How Far Can Off-the-Shelf Multimodal Large Language Models Go in Online Episodic Memory Question Answering?**|Giuseppe Lando et.al.|[2506.16450](http://arxiv.org/abs/2506.16450)|null|
@@ -387,6 +397,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**State updates and useful qubits in relativistic quantum information**|José Polo-Gómez et.al.|[2506.18906](http://arxiv.org/abs/2506.18906)|null|
+|**2025-06-23**|**Steering Conceptual Bias via Transformer Latent-Subspace Activation**|Vansh Sharma et.al.|[2506.18887](http://arxiv.org/abs/2506.18887)|null|
+|**2025-06-23**|**Mechanistic Interpretability Needs Philosophy**|Iwan Williams et.al.|[2506.18852](http://arxiv.org/abs/2506.18852)|null|
+|**2025-06-23**|**STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning**|Aryasomayajula Ram Bharadwaj et.al.|[2506.18831](http://arxiv.org/abs/2506.18831)|null|
+|**2025-06-24**|**A Practical Introduction to Regression-based Causal Inference in Meteorology (I): All confounders measured**|Caren Marzban et.al.|[2506.18808](http://arxiv.org/abs/2506.18808)|null|
+|**2025-06-23**|**Likelihood Ratio test for Poisson graph**|Chen Shuyan et.al.|[2506.18778](http://arxiv.org/abs/2506.18778)|null|
+|**2025-06-23**|**Local d'Alembertian for causal sets**|Marián Boguñá et.al.|[2506.18745](http://arxiv.org/abs/2506.18745)|null|
+|**2025-06-23**|**Towards Group Fairness with Multiple Sensitive Attributes in Federated Foundation Models**|Yuning Yang et.al.|[2506.18732](http://arxiv.org/abs/2506.18732)|null|
+|**2025-06-23**|**A Study of Dynamic Stock Relationship Modeling and S&P500 Price Forecasting Based on Differential Graph Transformer**|Linyue Hu et.al.|[2506.18717](http://arxiv.org/abs/2506.18717)|null|
+|**2025-06-23**|**Fanfiction in the Age of AI: Community Perspectives on Creativity, Authenticity and Adoption**|Roi Alfassi et.al.|[2506.18706](http://arxiv.org/abs/2506.18706)|null|
 |**2025-06-20**|**Network Sparsity Unlocks the Scaling Potential of Deep Reinforcement Learning**|Guozheng Ma et.al.|[2506.17204](http://arxiv.org/abs/2506.17204)|null|
 |**2025-06-20**|**CLEAR-3K: Assessing Causal Explanatory Capabilities in Language Models**|Naiming Liu et.al.|[2506.17180](http://arxiv.org/abs/2506.17180)|null|
 |**2025-06-20**|**Flow-Based Non-stationary Temporal Regime Causal Structure Learning**|Abdellah Rahmani et.al.|[2506.17065](http://arxiv.org/abs/2506.17065)|null|
@@ -1272,6 +1292,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902](http://arxiv.org/abs/2506.18902)|null|
+|**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898](http://arxiv.org/abs/2506.18898)|null|
+|**2025-06-23**|**ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs**|Jiaru Zou et.al.|[2506.18896](http://arxiv.org/abs/2506.18896)|null|
+|**2025-06-23**|**Electrostatic control of quantum phases in KTaO3-based planar constrictions**|Jordan T. McCourt et.al.|[2506.18894](http://arxiv.org/abs/2506.18894)|null|
+|**2025-06-23**|**CFD Modelling and Sensitivity-Guided Design of Silicon Filament CVD Reactors**|G. P. Gakis et.al.|[2506.18889](http://arxiv.org/abs/2506.18889)|null|
+|**2025-06-23**|**Steering Conceptual Bias via Transformer Latent-Subspace Activation**|Vansh Sharma et.al.|[2506.18887](http://arxiv.org/abs/2506.18887)|null|
+|**2025-06-23**|**Universal Video Temporal Grounding with Generative Multi-modal Large Language Models**|Zeqian Li et.al.|[2506.18883](http://arxiv.org/abs/2506.18883)|null|
+|**2025-06-23**|**Let Your Video Listen to Your Music!**|Xinyu Zhang et.al.|[2506.18881](http://arxiv.org/abs/2506.18881)|null|
+|**2025-06-23**|**OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization**|Yiyou Sun et.al.|[2506.18880](http://arxiv.org/abs/2506.18880)|null|
+|**2025-06-23**|**OmniGen2: Exploration to Advanced Multimodal Generation**|Chenyuan Wu et.al.|[2506.18871](http://arxiv.org/abs/2506.18871)|null|
 |**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
 |**2025-06-23**|**Emergent Temporal Correspondences from Video Diffusion Transformers**|Jisu Nam et.al.|[2506.17220](http://arxiv.org/abs/2506.17220)|**[link](https://github.com/cvlab-kaist/DiffTrack)**|
 |**2025-06-20**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
