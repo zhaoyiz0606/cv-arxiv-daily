@@ -1,4 +1,4 @@
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |**2025-06-25**|**HRIBench: Benchmarking Vision-Language Models for Real-Time Human Perception in Human-Robot Interaction**|Zhonghao Shi et.al.|[2506.20566](http://arxiv.org/abs/2506.20566)|null|
 |**2025-06-25**|**Semantic-enhanced Modality-asymmetric Retrieval for Online E-commerce Search**|Zhigong Zhou et.al.|[2506.20330](http://arxiv.org/abs/2506.20330)|null|
 |**2025-06-24**|**ScaleCap: Inference-Time Scalable Image Captioning via Dual-Modality Debiasing**|Long Xing et.al.|[2506.19848](http://arxiv.org/abs/2506.19848)|null|
-|**2025-06-24**|**V2T-CoT: From Vision to Text Chain-of-Thought for Medical Reasoning and Diagnosis**|Yuan Wang et.al.|[2506.19610](http://arxiv.org/abs/2506.19610)|null|
+|**2025-06-27**|**V2T-CoT: From Vision to Text Chain-of-Thought for Medical Reasoning and Diagnosis**|Yuan Wang et.al.|[2506.19610](http://arxiv.org/abs/2506.19610)|null|
 |**2025-06-24**|**MedErr-CT: A Visual Question Answering Benchmark for Identifying and Correcting Errors in CT Reports**|Sunggu Kyung et.al.|[2506.19217](http://arxiv.org/abs/2506.19217)|null|
 |**2025-06-23**|**GLIMPSE: Gradient-Layer Importance Mapping for Prompted Visual Saliency Explanation for Generative LVLMs**|Guanxi Shen et.al.|[2506.18985](http://arxiv.org/abs/2506.18985)|null|
 |**2025-06-23**|**Escaping the SpuriVerse: Can Large Vision-Language Models Generalize Beyond Seen Spurious Correlations?**|Yiwei Yang et.al.|[2506.18322](http://arxiv.org/abs/2506.18322)|null|
@@ -408,7 +408,7 @@
 |**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076](http://arxiv.org/abs/2502.04076)|null|
 
-<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 ## CAUSAL
 
@@ -1335,7 +1335,7 @@
 |**2025-02-11**|**Capacity of the Binary Energy Harvesting Channel**|Eli Shemuel et.al.|[2502.07566](http://arxiv.org/abs/2502.07566)|null|
 |**2025-02-11**|**Scaling Off-Policy Reinforcement Learning with Batch and Weight Normalization**|Daniel Palenicek et.al.|[2502.07523](http://arxiv.org/abs/2502.07523)|null|
 
-<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 ## TUNING&ADAPTER
 
@@ -2252,7 +2252,7 @@
 |**2025-02-12**|**Light-A-Video: Training-free Video Relighting via Progressive Light Fusion**|Yujie Zhou et.al.|[2502.08590](http://arxiv.org/abs/2502.08590)|**[link](https://github.com/bcmi/Light-A-Video)**|
 |**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
 
-<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
@@ -16,7 +16,7 @@ layout: default
 |**2025-06-25**|**HRIBench: Benchmarking Vision-Language Models for Real-Time Human Perception in Human-Robot Interaction**|Zhonghao Shi et.al.|[2506.20566](http://arxiv.org/abs/2506.20566)|null|
 |**2025-06-25**|**Semantic-enhanced Modality-asymmetric Retrieval for Online E-commerce Search**|Zhigong Zhou et.al.|[2506.20330](http://arxiv.org/abs/2506.20330)|null|
 |**2025-06-24**|**ScaleCap: Inference-Time Scalable Image Captioning via Dual-Modality Debiasing**|Long Xing et.al.|[2506.19848](http://arxiv.org/abs/2506.19848)|null|
-|**2025-06-24**|**V2T-CoT: From Vision to Text Chain-of-Thought for Medical Reasoning and Diagnosis**|Yuan Wang et.al.|[2506.19610](http://arxiv.org/abs/2506.19610)|null|
+|**2025-06-27**|**V2T-CoT: From Vision to Text Chain-of-Thought for Medical Reasoning and Diagnosis**|Yuan Wang et.al.|[2506.19610](http://arxiv.org/abs/2506.19610)|null|
 |**2025-06-24**|**MedErr-CT: A Visual Question Answering Benchmark for Identifying and Correcting Errors in CT Reports**|Sunggu Kyung et.al.|[2506.19217](http://arxiv.org/abs/2506.19217)|null|
 |**2025-06-23**|**GLIMPSE: Gradient-Layer Importance Mapping for Prompted Visual Saliency Explanation for Generative LVLMs**|Guanxi Shen et.al.|[2506.18985](http://arxiv.org/abs/2506.18985)|null|
 |**2025-06-23**|**Escaping the SpuriVerse: Can Large Vision-Language Models Generalize Beyond Seen Spurious Correlations?**|Yiwei Yang et.al.|[2506.18322](http://arxiv.org/abs/2506.18322)|null|
