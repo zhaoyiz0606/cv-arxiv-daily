@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.07.04
+## Updated on 2025.07.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Coling-UniA at SciVQA 2025: Few-Shot Example Retrieval and Confidence-Informed Ensembling for Multimodal Large Language Models**|Christian Jaumann et.al.|[2507.02357](http://arxiv.org/abs/2507.02357)|null|
+|**2025-07-03**|**Are Synthetic Videos Useful? A Benchmark for Retrieval-Centric Evaluation of Synthetic Videos**|Zecheng Zhao et.al.|[2507.02316](http://arxiv.org/abs/2507.02316)|null|
+|**2025-07-02**|**Scaling Quantum Algorithms via Dissipation: Avoiding Barren Plateaus**|Elias Zapusek et.al.|[2507.02043](http://arxiv.org/abs/2507.02043)|null|
 |**2025-07-02**|**HCNQA: Enhancing 3D VQA with Hierarchical Concentration Narrowing Supervision**|Shengli Zhou et.al.|[2507.01800](http://arxiv.org/abs/2507.01800)|null|
 |**2025-07-01**|**Box-QAymo: Box-Referring VQA Dataset for Autonomous Driving**|Djamahl Etchegaray et.al.|[2507.00525](http://arxiv.org/abs/2507.00525)|null|
 |**2025-07-02**|**$μ^2$ Tokenizer: Differentiable Multi-Scale Multi-Modal Tokenizer for Radiology Report Generation**|Siyou Li et.al.|[2507.00316](http://arxiv.org/abs/2507.00316)|null|
@@ -420,6 +423,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Self-Steering Deep Non-Linear Spatially Selective Filters for Efficient Extraction of Moving Speakers under Weak Guidance**|Jakob Kienegger et.al.|[2507.02791](http://arxiv.org/abs/2507.02791)|null|
+|**2025-07-03**|**Understanding and Improving Length Generalization in Recurrent Models**|Ricardo Buitrago Ruiz et.al.|[2507.02782](http://arxiv.org/abs/2507.02782)|null|
+|**2025-07-03**|**Prompt learning with bounding box constraints for medical image segmentation**|Mélanie Gaillochet et.al.|[2507.02743](http://arxiv.org/abs/2507.02743)|null|
+|**2025-07-03**|**Detection of Disengagement from Voluntary Quizzes: An Explainable Machine Learning Approach in Higher Distance Education**|Behnam Parsaeifard et.al.|[2507.02681](http://arxiv.org/abs/2507.02681)|null|
+|**2025-07-03**|**Hey AI, Generate Me a Hardware Code! Agentic AI-based Hardware Design & Verification**|Deepak Narayan Gadde et.al.|[2507.02660](http://arxiv.org/abs/2507.02660)|null|
+|**2025-07-03**|**Fair Deepfake Detectors Can Generalize**|Harry Cheng et.al.|[2507.02645](http://arxiv.org/abs/2507.02645)|null|
+|**2025-07-03**|**FlowSpec: Continuous Pipelined Speculative Decoding for Efficient Distributed LLM Inference**|Xing Liu et.al.|[2507.02620](http://arxiv.org/abs/2507.02620)|null|
+|**2025-07-03**|**MPF: Aligning and Debiasing Language Models post Deployment via Multi Perspective Fusion**|Xin Guan et.al.|[2507.02595](http://arxiv.org/abs/2507.02595)|null|
+|**2025-07-03**|**On the analysis of sequential designs without a specified number of observations**|Anna Klimova et.al.|[2507.02580](http://arxiv.org/abs/2507.02580)|null|
+|**2025-07-03**|**LLMREI: Automating Requirements Elicitation Interviews with LLMs**|Alexander Korn et.al.|[2507.02564](http://arxiv.org/abs/2507.02564)|null|
 |**2025-07-02**|**Deterministic Equations for Feedback Control of Open Quantum Systems**|Alberto J. B. Rosal et.al.|[2507.01934](http://arxiv.org/abs/2507.01934)|null|
 |**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
 |**2025-07-02**|**Spacetime reconstruction by order and number**|Mathias Braun et.al.|[2507.01907](http://arxiv.org/abs/2507.01907)|null|
@@ -1375,6 +1388,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**|Xin Zhou et.al.|[2507.02860](http://arxiv.org/abs/2507.02860)|null|
+|**2025-07-03**|**Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation**|Jiaer Xia et.al.|[2507.02859](http://arxiv.org/abs/2507.02859)|null|
+|**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
+|**2025-07-03**|**MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs**|Purbesh Mitra et.al.|[2507.02851](http://arxiv.org/abs/2507.02851)|null|
+|**2025-07-03**|**LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users**|Almog Hilel et.al.|[2507.02850](http://arxiv.org/abs/2507.02850)|null|
+|**2025-07-03**|**Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection**|Ziqi Miao et.al.|[2507.02844](http://arxiv.org/abs/2507.02844)|null|
+|**2025-07-03**|**StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason**|Kaiyi Zhang et.al.|[2507.02841](http://arxiv.org/abs/2507.02841)|null|
+|**2025-07-03**|**Generalizing Verifiable Instruction Following**|Valentina Pyatkin et.al.|[2507.02833](http://arxiv.org/abs/2507.02833)|null|
+|**2025-07-03**|**Electric Field Induced Superconductivity in Bilayer Octagraphene**|Yitong Yao et.al.|[2507.02830](http://arxiv.org/abs/2507.02830)|null|
+|**2025-07-03**|**USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**|Ying Yu et.al.|[2507.02827](http://arxiv.org/abs/2507.02827)|null|
 |**2025-07-03**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961](http://arxiv.org/abs/2507.01961)|null|
 |**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
 |**2025-07-02**|**FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model**|Yukang Cao et.al.|[2507.01953](http://arxiv.org/abs/2507.01953)|null|
