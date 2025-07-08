@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
@@ -423,10 +423,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-03**|**Self-Steering Deep Non-Linear Spatially Selective Filters for Efficient Extraction of Moving Speakers under Weak Guidance**|Jakob Kienegger et.al.|[2507.02791](http://arxiv.org/abs/2507.02791)|null|
+|**2025-07-05**|**Self-Steering Deep Non-Linear Spatially Selective Filters for Efficient Extraction of Moving Speakers under Weak Guidance**|Jakob Kienegger et.al.|[2507.02791](http://arxiv.org/abs/2507.02791)|null|
 |**2025-07-03**|**Understanding and Improving Length Generalization in Recurrent Models**|Ricardo Buitrago Ruiz et.al.|[2507.02782](http://arxiv.org/abs/2507.02782)|null|
 |**2025-07-03**|**Prompt learning with bounding box constraints for medical image segmentation**|Mélanie Gaillochet et.al.|[2507.02743](http://arxiv.org/abs/2507.02743)|null|
-|**2025-07-03**|**Detection of Disengagement from Voluntary Quizzes: An Explainable Machine Learning Approach in Higher Distance Education**|Behnam Parsaeifard et.al.|[2507.02681](http://arxiv.org/abs/2507.02681)|null|
+|**2025-07-04**|**Detection of Disengagement from Voluntary Quizzes: An Explainable Machine Learning Approach in Higher Distance Education**|Behnam Parsaeifard et.al.|[2507.02681](http://arxiv.org/abs/2507.02681)|null|
 |**2025-07-03**|**Hey AI, Generate Me a Hardware Code! Agentic AI-based Hardware Design & Verification**|Deepak Narayan Gadde et.al.|[2507.02660](http://arxiv.org/abs/2507.02660)|null|
 |**2025-07-03**|**Fair Deepfake Detectors Can Generalize**|Harry Cheng et.al.|[2507.02645](http://arxiv.org/abs/2507.02645)|null|
 |**2025-07-03**|**FlowSpec: Continuous Pipelined Speculative Decoding for Efficient Distributed LLM Inference**|Xing Liu et.al.|[2507.02620](http://arxiv.org/abs/2507.02620)|null|
