@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling**|Prahitha Movva et.al.|[2507.06183](http://arxiv.org/abs/2507.06183)|null|
+|**2025-07-07**|**Special-Unitary Parameterization for Trainable Variational Quantum Circuits**|Kuan-Cheng Chen et.al.|[2507.05535](http://arxiv.org/abs/2507.05535)|null|
+|**2025-07-07**|**Cultivating Multimodal Intelligence: Interpretive Reasoning and Agentic RAG Approaches to Dermatological Diagnosis**|Karishma Thakrar et.al.|[2507.05520](http://arxiv.org/abs/2507.05520)|null|
+|**2025-07-07**|**Structured Captions Improve Prompt Adherence in Text-to-Image Models (Re-LAION-Caption 19M)**|Nicholas Merchant et.al.|[2507.05300](http://arxiv.org/abs/2507.05300)|null|
 |**2025-07-07**|**INTER: Mitigating Hallucination in Large Vision-Language Models by Interaction Guidance Sampling**|Xin Dong et.al.|[2507.05056](http://arxiv.org/abs/2507.05056)|null|
 |**2025-07-07**|**ReLoop: "Seeing Twice and Thinking Backwards" via Closed-loop Training to Mitigate Hallucinations in Multimodal understanding**|Jianjiang Yang et.al.|[2507.04943](http://arxiv.org/abs/2507.04943)|null|
 |**2025-07-07**|**Learn 3D VQA Better with Active Selection and Reannotation**|Shengli Zhou et.al.|[2507.04630](http://arxiv.org/abs/2507.04630)|null|
@@ -430,6 +434,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Identifiability in Causal Abstractions: A Hierarchy of Criteria**|Clément Yvernes et.al.|[2507.06213](http://arxiv.org/abs/2507.06213)|null|
+|**2025-07-08**|**A Statistical Framework for Co-Mediators of Zero-Inflated Single-Cell RNA-Seq Data**|Seungjun Ahn et.al.|[2507.06113](http://arxiv.org/abs/2507.06113)|null|
+|**2025-07-08**|**MCAM: Multimodal Causal Analysis Model for Ego-Vehicle-Level Driving Video Understanding**|Tongtong Cheng et.al.|[2507.06072](http://arxiv.org/abs/2507.06072)|null|
+|**2025-07-08**|**PromiseTune: Unveiling Causally Promising and Explainable Configuration Tuning**|Pengzhou Chen et.al.|[2507.05995](http://arxiv.org/abs/2507.05995)|null|
+|**2025-07-08**|**AURA-CVC: Autonomous Ultrasound-guided Robotic Assistance for Central Venous Catheterization**|Deepak Raina et.al.|[2507.05979](http://arxiv.org/abs/2507.05979)|null|
+|**2025-07-09**|**A Wireless Foundation Model for Multi-Task Prediction**|Yucheng Sheng et.al.|[2507.05938](http://arxiv.org/abs/2507.05938)|null|
+|**2025-07-08**|**Electromagnetic Boundary Conditions for Space--time Interfaces**|Jonathan Gratus et.al.|[2507.05889](http://arxiv.org/abs/2507.05889)|null|
+|**2025-07-08**|**Video Event Reasoning and Prediction by Fusing World Knowledge from LLMs with Vision Foundation Models**|L'ea Dubois et.al.|[2507.05822](http://arxiv.org/abs/2507.05822)|null|
+|**2025-07-08**|**A Formal Refutation of the Blockchain Trilemma**|Craig Wright et.al.|[2507.05809](http://arxiv.org/abs/2507.05809)|null|
+|**2025-07-08**|**PSAT: Pediatric Segmentation Approaches via Adult Augmentations and Transfer Learning**|Tristan Kirscher et.al.|[2507.05764](http://arxiv.org/abs/2507.05764)|null|
 |**2025-07-07**|**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**|Chun-Hsiao Yeh et.al.|[2507.05259](http://arxiv.org/abs/2507.05259)|null|
 |**2025-07-07**|**Bridging Prediction and Intervention Problems in Social Systems**|Lydia T. Liu et.al.|[2507.05216](http://arxiv.org/abs/2507.05216)|null|
 |**2025-07-07**|**Identification of Causal Effects with a Bunching Design**|Carolina Caetano et.al.|[2507.05210](http://arxiv.org/abs/2507.05210)|null|
@@ -1405,6 +1419,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation with Foundation Models**|Keyan Chen et.al.|[2507.06231](http://arxiv.org/abs/2507.06231)|null|
+|**2025-07-08**|**Feed-Forward SceneDINO for Unsupervised Semantic Scene Completion**|Aleksandar Jevtić et.al.|[2507.06230](http://arxiv.org/abs/2507.06230)|null|
+|**2025-07-08**|**seMCD: Sequentially implemented Monte Carlo depth computation with statistical guarantees**|Felix Gnettner et.al.|[2507.06227](http://arxiv.org/abs/2507.06227)|null|
+|**2025-07-08**|**Is Diversity All You Need for Scalable Robotic Manipulation?**|Modi Shi et.al.|[2507.06219](http://arxiv.org/abs/2507.06219)|null|
+|**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
+|**2025-07-08**|**DS@GT at CheckThat! 2025: Ensemble Methods for Detection of Scientific Discourse on Social Media**|Ayush Parikh et.al.|[2507.06205](http://arxiv.org/abs/2507.06205)|null|
+|**2025-07-08**|**Differential Mamba**|Nadav Schneider et.al.|[2507.06204](http://arxiv.org/abs/2507.06204)|null|
+|**2025-07-08**|**A Survey on Latent Reasoning**|Rui-Jie Zhu et.al.|[2507.06203](http://arxiv.org/abs/2507.06203)|null|
+|**2025-07-08**|**Identity isn't everything -- how far do demographics take us towards self-identified party ID?**|Sabina Tomkins et.al.|[2507.06193](http://arxiv.org/abs/2507.06193)|null|
+|**2025-07-08**|**DS@GT at CheckThat! 2025: Detecting Subjectivity via Transfer-Learning and Corrective Data Augmentation**|Maximilian Heil et.al.|[2507.06189](http://arxiv.org/abs/2507.06189)|null|
 |**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/abs/2507.05258)|null|
 |**2025-07-07**|**Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning**|Yana Wei et.al.|[2507.05255](http://arxiv.org/abs/2507.05255)|null|
 |**2025-07-07**|**A High Resolution Search for Dual AGNs in Mergers: Pushing the Frontier with Keck AO**|Camilo Vazquez et.al.|[2507.05250](http://arxiv.org/abs/2507.05250)|null|
