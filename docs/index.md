@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Yen-Linh Vu et.al.|[2507.12441](http://arxiv.org/abs/2507.12441)|null|
+|**2025-07-16**|**MGFFD-VLM: Multi-Granularity Prompt Learning for Face Forgery Detection with VLM**|Tao Chen et.al.|[2507.12232](http://arxiv.org/abs/2507.12232)|null|
+|**2025-07-16**|**CompressedVQA-HDR: Generalized Full-reference and No-reference Quality Assessment Models for Compressed High Dynamic Range Videos**|Wei Sun et.al.|[2507.11900](http://arxiv.org/abs/2507.11900)|null|
+|**2025-07-15**|**MapIQ: Benchmarking Multimodal Large Language Models for Map Question Answering**|Varun Srivastava et.al.|[2507.11625](http://arxiv.org/abs/2507.11625)|null|
 |**2025-07-15**|**How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study**|Che Liu et.al.|[2507.11200](http://arxiv.org/abs/2507.11200)|null|
 |**2025-07-14**|**CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding**|Hongyong Han et.al.|[2507.10449](http://arxiv.org/abs/2507.10449)|null|
 |**2025-07-13**|**VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**|Younggun Kim et.al.|[2507.09815](http://arxiv.org/abs/2507.09815)|null|
@@ -450,6 +454,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Mitigating Object Hallucinations via Sentence-Level Early Intervention**|Shangpin Peng et.al.|[2507.12455](http://arxiv.org/abs/2507.12455)|null|
+|**2025-07-16**|**Targeted Deep Architectures: A TMLE-Based Framework for Robust Causal Inference in Neural Networks**|Yi Li et.al.|[2507.12435](http://arxiv.org/abs/2507.12435)|null|
+|**2025-07-16**|**Can We Predict Alignment Before Models Finish Thinking? Towards Monitoring Misaligned Reasoning Models**|Yik Siu Chan et.al.|[2507.12428](http://arxiv.org/abs/2507.12428)|null|
+|**2025-07-16**|**Causality analysis of electricity market liberalization on electricity price using novel Machine Learning methods**|Orr Shahar et.al.|[2507.12331](http://arxiv.org/abs/2507.12331)|null|
+|**2025-07-16**|**Thought Purity: Defense Paradigm For Chain-of-Thought Attack**|Zihao Xue et.al.|[2507.12314](http://arxiv.org/abs/2507.12314)|null|
+|**2025-07-16**|**TrialCompass: Visual Analytics for Enhancing the Eligibility Criteria Design of Clinical Trials**|Rui Sheng et.al.|[2507.12298](http://arxiv.org/abs/2507.12298)|null|
+|**2025-07-17**|**Site-Level Fine-Tuning with Progressive Layer Freezing: Towards Robust Prediction of Bronchopulmonary Dysplasia from Day-1 Chest Radiographs in Extremely Preterm Infants**|Sybelle Goedicke-Fritz et.al.|[2507.12269](http://arxiv.org/abs/2507.12269)|null|
+|**2025-07-16**|**Robust Causal Discovery in Real-World Time Series with Power-Laws**|Matteo Tusoni et.al.|[2507.12257](http://arxiv.org/abs/2507.12257)|null|
+|**2025-07-16**|**PRISM: Distributed Inference for Foundation Models at Edge**|Muhammad Azlan Qazi et.al.|[2507.12145](http://arxiv.org/abs/2507.12145)|null|
+|**2025-07-16**|**Findings of MEGA: Maths Explanation with LLMs using the Socratic Method for Active Learning**|Tosin Adewumi et.al.|[2507.12079](http://arxiv.org/abs/2507.12079)|null|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
 |**2025-07-15**|**FasTUSS: Faster Task-Aware Unified Source Separation**|Francesco Paissan et.al.|[2507.11435](http://arxiv.org/abs/2507.11435)|null|
 |**2025-07-15**|**KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?**|Soumadeep Saha et.al.|[2507.11408](http://arxiv.org/abs/2507.11408)|null|
@@ -1485,6 +1499,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Language Models Improve When Pretraining Data Matches Target Tasks**|David Mizrahi et.al.|[2507.12466](http://arxiv.org/abs/2507.12466)|null|
+|**2025-07-16**|**Cost-aware Stopping for Bayesian Optimization**|Qian Xie et.al.|[2507.12453](http://arxiv.org/abs/2507.12453)|null|
+|**2025-07-16**|**A single chip 1.024 Tb/s silicon photonics PAM4 receiver**|Ali Pirmoradi et.al.|[2507.12452](http://arxiv.org/abs/2507.12452)|null|
+|**2025-07-16**|**BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration**|Man Shi et.al.|[2507.12444](http://arxiv.org/abs/2507.12444)|null|
+|**2025-07-17**|**EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos**|Ruihan Yang et.al.|[2507.12440](http://arxiv.org/abs/2507.12440)|null|
+|**2025-07-16**|**Adiabatic Cooling of Planar Motion in a Penning Trap Ion Crystal to Sub-Millikelvin Temperatures**|Wes Johnson et.al.|[2507.12429](http://arxiv.org/abs/2507.12429)|null|
+|**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/abs/2507.12425)|null|
+|**2025-07-16**|**InterpIoU: Rethinking Bounding Box Regression with Interpolation-Based IoU Optimization**|Haoyuan Liu et.al.|[2507.12420](http://arxiv.org/abs/2507.12420)|null|
+|**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Santosh Vasa et.al.|[2507.12414](http://arxiv.org/abs/2507.12414)|null|
+|**2025-07-16**|**Regrasp Maps for Sequential Manipulation Planning**|Svetlana Levit et.al.|[2507.12407](http://arxiv.org/abs/2507.12407)|null|
 |**2025-07-15**|**How Many Instructions Can LLMs Follow at Once?**|Daniel Jaroslawicz et.al.|[2507.11538](http://arxiv.org/abs/2507.11538)|null|
 |**2025-07-15**|**CharaConsist: Fine-Grained Consistent Character Generation**|Mengyu Wang et.al.|[2507.11533](http://arxiv.org/abs/2507.11533)|null|
 |**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
