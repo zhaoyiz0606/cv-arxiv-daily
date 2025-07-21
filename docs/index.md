@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
@@ -16,7 +16,7 @@ layout: default
 |**2025-07-16**|**MGFFD-VLM: Multi-Granularity Prompt Learning for Face Forgery Detection with VLM**|Tao Chen et.al.|[2507.12232](http://arxiv.org/abs/2507.12232)|null|
 |**2025-07-16**|**CompressedVQA-HDR: Generalized Full-reference and No-reference Quality Assessment Models for Compressed High Dynamic Range Videos**|Wei Sun et.al.|[2507.11900](http://arxiv.org/abs/2507.11900)|null|
 |**2025-07-15**|**MapIQ: Benchmarking Multimodal Large Language Models for Map Question Answering**|Varun Srivastava et.al.|[2507.11625](http://arxiv.org/abs/2507.11625)|null|
-|**2025-07-15**|**How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study**|Che Liu et.al.|[2507.11200](http://arxiv.org/abs/2507.11200)|null|
+|**2025-07-18**|**How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study**|Che Liu et.al.|[2507.11200](http://arxiv.org/abs/2507.11200)|null|
 |**2025-07-14**|**CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding**|Hongyong Han et.al.|[2507.10449](http://arxiv.org/abs/2507.10449)|null|
 |**2025-07-13**|**VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding**|Younggun Kim et.al.|[2507.09815](http://arxiv.org/abs/2507.09815)|null|
 |**2025-07-15**|**Prompt4Trust: A Reinforcement Learning Prompt Augmentation Framework for Clinically-Aligned Confidence Calibration in Multimodal Large Language Models**|Anita Kriz et.al.|[2507.09279](http://arxiv.org/abs/2507.09279)|null|
@@ -460,7 +460,7 @@ layout: default
 |**2025-07-17**|**Imbalance in Balance: Online Concept Balancing in Generation Models**|Yukai Shi et.al.|[2507.13345](http://arxiv.org/abs/2507.13345)|null|
 |**2025-07-17**|**mNARX+: A surrogate model for complex dynamical systems using manifold-NARX and automatic feature selection**|S. Schär et.al.|[2507.13301](http://arxiv.org/abs/2507.13301)|null|
 |**2025-07-17**|**Automating Steering for Safe Multimodal Large Language Models**|Lyucheng Wu et.al.|[2507.13255](http://arxiv.org/abs/2507.13255)|null|
-|**2025-07-17**|**Automatically assessing oral narratives of Afrikaans and isiXhosa children**|R. Louw et.al.|[2507.13205](http://arxiv.org/abs/2507.13205)|null|
+|**2025-07-18**|**Automatically assessing oral narratives of Afrikaans and isiXhosa children**|Retief Louw et.al.|[2507.13205](http://arxiv.org/abs/2507.13205)|null|
 |**2025-07-17**|**Aligning Humans and Robots via Reinforcement Learning from Implicit Human Feedback**|Suzie Kim et.al.|[2507.13171](http://arxiv.org/abs/2507.13171)|null|
 |**2025-07-17**|**Feature-based analysis of oral narratives from Afrikaans and isiXhosa children**|Emma Sharratt et.al.|[2507.13164](http://arxiv.org/abs/2507.13164)|null|
 |**2025-07-17**|**Deep Learning-Based Fetal Lung Segmentation from Diffusion-weighted MRI Images and Lung Maturity Evaluation for Fetal Growth Restriction**|Zhennan Xiao et.al.|[2507.13106](http://arxiv.org/abs/2507.13106)|null|
@@ -1515,7 +1515,7 @@ layout: default
 |**2025-07-17**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
 |**2025-07-17**|**A Real-Time System for Egocentric Hand-Object Interaction Detection in Industrial Domains**|Antonio Finocchiaro et.al.|[2507.13326](http://arxiv.org/abs/2507.13326)|null|
 |**2025-07-17**|**FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization**|Chuancheng Shi et.al.|[2507.13311](http://arxiv.org/abs/2507.13311)|null|
-|**2025-07-17**|**Modelling the spillover from online engagement to offline protest: stochastic dynamics and mean-field approximations on networks**|Moyi Tian et.al.|[2507.13310](http://arxiv.org/abs/2507.13310)|null|
+|**2025-07-18**|**Modelling the spillover from online engagement to offline protest: stochastic dynamics and mean-field approximations on networks**|Moyi Tian et.al.|[2507.13310](http://arxiv.org/abs/2507.13310)|null|
 |**2025-07-17**|**Towards Formal Verification of LLM-Generated Code from Natural Language Prompts**|Aaron Councilman et.al.|[2507.13290](http://arxiv.org/abs/2507.13290)|null|
 |**2025-07-17**|**Optimal Empirical Risk Minimization under Temporal Distribution Shifts**|Yujin Jeong et.al.|[2507.13287](http://arxiv.org/abs/2507.13287)|null|
 |**2025-07-17**|**Multi-Agent Synergy-Driven Iterative Visual Narrative Synthesis**|Wang Xi et.al.|[2507.13285](http://arxiv.org/abs/2507.13285)|null|
