@@ -1,4 +1,4 @@
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Teaching Vision-Language Models to Ask: Resolving Ambiguity in Visual Questions**|Pu Jian et.al.|[2507.13773](http://arxiv.org/abs/2507.13773)|null|
+|**2025-07-17**|**COREVQA: A Crowd Observation and Reasoning Entailment Visual Question Answering Benchmark**|Ishant Chintapatla et.al.|[2507.13405](http://arxiv.org/abs/2507.13405)|null|
 |**2025-07-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Senqiao Yang et.al.|[2507.13348](http://arxiv.org/abs/2507.13348)|null|
 |**2025-07-17**|**FIQ: Fundamental Question Generation with the Integration of Question Embeddings for Video Question Answering**|Ju-Young Oh et.al.|[2507.12816](http://arxiv.org/abs/2507.12816)|null|
 |**2025-07-15**|**Spatially Grounded Explanations in Vision Language Models for Document Visual Question Answering**|Maximiliano Hormazábal Lagos et.al.|[2507.12490](http://arxiv.org/abs/2507.12490)|null|
@@ -458,12 +460,22 @@
 |**2025-02-07**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**Content-Rich AIGC Video Quality Assessment via Intricate Text Alignment and Motion-Aware Consistency**|Shangkun Sun et.al.|[2502.04076](http://arxiv.org/abs/2502.04076)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## CAUSAL
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Toward Temporal Causal Representation Learning with Tensor Decomposition**|Jianhong Chen et.al.|[2507.14126](http://arxiv.org/abs/2507.14126)|null|
+|**2025-07-18**|**NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**|Maksim Kuprashevich et.al.|[2507.14119](http://arxiv.org/abs/2507.14119)|null|
+|**2025-07-18**|**On the importance of tail assumptions in climate extreme event attribution**|Mengran Li et.al.|[2507.14019](http://arxiv.org/abs/2507.14019)|null|
+|**2025-07-18**|**Analysis of Plant Nutrient Deficiencies Using Multi-Spectral Imaging and Optimized Segmentation Model**|Ji-Yan Wu et.al.|[2507.14013](http://arxiv.org/abs/2507.14013)|null|
+|**2025-07-18**|**A regression-based approach for bidirectional proximal causal inference in the presence of unmeasured confounding**|Jiaqi Min et.al.|[2507.13965](http://arxiv.org/abs/2507.13965)|null|
+|**2025-07-18**|**Cross-modal Causal Intervention for Alzheimer's Disease Prediction**|Yutao Jin et.al.|[2507.13956](http://arxiv.org/abs/2507.13956)|null|
+|**2025-07-18**|**Reframing attention as a reinforcement learning problem for causal discovery**|Turan Orujlu et.al.|[2507.13920](http://arxiv.org/abs/2507.13920)|null|
+|**2025-07-18**|**When Seeing Overrides Knowing: Disentangling Knowledge Conflicts in Vision-Language Models**|Francesco Ortu et.al.|[2507.13868](http://arxiv.org/abs/2507.13868)|null|
+|**2025-07-18**|**Causal Knowledge Transfer for Multi-Agent Reinforcement Learning in Dynamic Environments**|Kathrin Korte et.al.|[2507.13846](http://arxiv.org/abs/2507.13846)|null|
+|**2025-07-18**|**Benchmarking of EEG Analysis Techniques for Parkinson's Disease Diagnosis: A Comparison between Traditional ML Methods and Foundation DL Methods**|Danilo Avola et.al.|[2507.13716](http://arxiv.org/abs/2507.13716)|null|
 |**2025-07-17**|**Imbalance in Balance: Online Concept Balancing in Generation Models**|Yukai Shi et.al.|[2507.13345](http://arxiv.org/abs/2507.13345)|null|
 |**2025-07-17**|**mNARX+: A surrogate model for complex dynamical systems using manifold-NARX and automatic feature selection**|S. Schär et.al.|[2507.13301](http://arxiv.org/abs/2507.13301)|null|
 |**2025-07-17**|**Automating Steering for Safe Multimodal Large Language Models**|Lyucheng Wu et.al.|[2507.13255](http://arxiv.org/abs/2507.13255)|null|
@@ -1515,12 +1527,22 @@
 |**2025-02-11**|**Capacity of the Binary Energy Harvesting Channel**|Eli Shemuel et.al.|[2502.07566](http://arxiv.org/abs/2502.07566)|null|
 |**2025-02-11**|**Scaling Off-Policy Reinforcement Learning with Batch and Weight Normalization**|Daniel Palenicek et.al.|[2502.07523](http://arxiv.org/abs/2502.07523)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## TUNING&ADAPTER
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**OpenBEATs: A Fully Open-Source General-Purpose Audio Encoder**|Shikhar Bharadwaj et.al.|[2507.14129](http://arxiv.org/abs/2507.14129)|null|
+|**2025-07-18**|**NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**|Maksim Kuprashevich et.al.|[2507.14119](http://arxiv.org/abs/2507.14119)|null|
+|**2025-07-18**|**Automated Interpretation of Non-Destructive Evaluation Contour Maps Using Large Language Models for Bridge Condition Assessment**|Viraj Nishesh Darji et.al.|[2507.14107](http://arxiv.org/abs/2507.14107)|null|
+|**2025-07-18**|**Quantitative Wavefront sensing with static Foucault and pyramid tests**|Francois Hénault et.al.|[2507.14104](http://arxiv.org/abs/2507.14104)|null|
+|**2025-07-18**|**UGPL: Uncertainty-Guided Progressive Learning for Evidence-Based Classification in Computed Tomography**|Shravan Venkatraman et.al.|[2507.14102](http://arxiv.org/abs/2507.14102)|null|
+|**2025-07-18**|**Context-Aware Behavior Learning with Heuristic Motion Memory for Underwater Manipulation**|Markus Buchholz et.al.|[2507.14099](http://arxiv.org/abs/2507.14099)|null|
+|**2025-07-18**|**Generative AI-Driven High-Fidelity Human Motion Simulation**|Hari Iyer et.al.|[2507.14097](http://arxiv.org/abs/2507.14097)|null|
+|**2025-07-18**|**Lessons from the TREC Plain Language Adaptation of Biomedical Abstracts (PLABA) track**|Brian Ondov et.al.|[2507.14096](http://arxiv.org/abs/2507.14096)|null|
+|**2025-07-18**|**DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration**|Xiyun Li et.al.|[2507.14088](http://arxiv.org/abs/2507.14088)|null|
+|**2025-07-18**|**DENSE: Longitudinal Progress Note Generation with Temporal Modeling of Heterogeneous Clinical Notes Across Hospital Visits**|Garapati Keerthana et.al.|[2507.14079](http://arxiv.org/abs/2507.14079)|null|
 |**2025-07-17**|**A Survey of Context Engineering for Large Language Models**|Lingrui Mei et.al.|[2507.13334](http://arxiv.org/abs/2507.13334)|null|
 |**2025-07-17**|**A Real-Time System for Egocentric Hand-Object Interaction Detection in Industrial Domains**|Antonio Finocchiaro et.al.|[2507.13326](http://arxiv.org/abs/2507.13326)|null|
 |**2025-07-17**|**FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization**|Chuancheng Shi et.al.|[2507.13311](http://arxiv.org/abs/2507.13311)|null|
@@ -2562,7 +2584,7 @@
 |**2025-02-12**|**Light-A-Video: Training-free Video Relighting via Progressive Light Fusion**|Yujie Zhou et.al.|[2502.08590](http://arxiv.org/abs/2502.08590)|**[link](https://github.com/bcmi/Light-A-Video)**|
 |**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
