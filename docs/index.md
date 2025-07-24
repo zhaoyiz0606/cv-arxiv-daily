@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VISUAL QUESTION ANSWERING
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**ReasonVQA: A Multi-hop Reasoning Benchmark with Structural Knowledge for Visual Question Answering**|Thuy-Duong Tran et.al.|[2507.16403](http://arxiv.org/abs/2507.16403)|null|
+|**2025-07-21**|**Artifacts and Attention Sinks: Structured Approximations for Efficient Vision Transformers**|Andrew Lu et.al.|[2507.16018](http://arxiv.org/abs/2507.16018)|null|
+|**2025-07-21**|**Automated Design of Structured Variational Quantum Circuits with Reinforcement Learning**|Gloria Turati et.al.|[2507.16001](http://arxiv.org/abs/2507.16001)|null|
 |**2025-07-21**|**HW-MLVQA: Elucidating Multilingual Handwritten Document Understanding with a Comprehensive VQA Benchmark**|Aniket Pal et.al.|[2507.15655](http://arxiv.org/abs/2507.15655)|null|
 |**2025-07-19**|**Multimodal AI for Gastrointestinal Diagnostics: Tackling VQA in MEDVQA-GI 2025**|Sujata Gaihre et.al.|[2507.14544](http://arxiv.org/abs/2507.14544)|null|
 |**2025-07-19**|**Efficient Whole Slide Pathology VQA via Token Compression**|Weimin Lyu et.al.|[2507.14497](http://arxiv.org/abs/2507.14497)|null|
@@ -462,6 +465,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Ballot Design and Electoral Outcomes: The Role of Candidate Order and Party Affiliation**|Alessandro Arlotto et.al.|[2507.16722](http://arxiv.org/abs/2507.16722)|null|
+|**2025-07-22**|**On Causal Inference for the Survivor Function**|Benjamin R. Baer et.al.|[2507.16691](http://arxiv.org/abs/2507.16691)|null|
+|**2025-07-22**|**Bayesian causal discovery: Posterior concentration and optimal detection**|Valentinian Lungu et.al.|[2507.16529](http://arxiv.org/abs/2507.16529)|null|
+|**2025-07-22**|**Graphical Analysis of Nonlinear Multivariable Feedback Systems**|Julius P. J. Krebbekx et.al.|[2507.16513](http://arxiv.org/abs/2507.16513)|null|
+|**2025-07-22**|**Novel duality-invariant theories of electrodynamics**|Ángel J. Murcia et.al.|[2507.16502](http://arxiv.org/abs/2507.16502)|null|
+|**2025-07-22**|**Estimating Treatment Effects with Independent Component Analysis**|Patrik Reizinger et.al.|[2507.16467](http://arxiv.org/abs/2507.16467)|null|
+|**2025-07-22**|**Canonical Representations of Markovian Structural Causal Models: A Framework for Counterfactual Reasoning**|Lucas de Lara et.al.|[2507.16370](http://arxiv.org/abs/2507.16370)|null|
+|**2025-07-22**|**Humanoid Robot Whole-body Geometric Calibration with Embedded Sensors and a Single Plane**|Thanh D V Nguyen et.al.|[2507.16369](http://arxiv.org/abs/2507.16369)|null|
+|**2025-07-22**|**Learning to Call: A Field Trial of a Collaborative Bandit Algorithm for Improved Message Delivery in Mobile Maternal Health**|Arpan Dasgupta et.al.|[2507.16356](http://arxiv.org/abs/2507.16356)|null|
+|**2025-07-22**|**Voice-based AI Agents: Filling the Economic Gaps in Digital Health Delivery**|Bo Wen et.al.|[2507.16229](http://arxiv.org/abs/2507.16229)|null|
 |**2025-07-21**|**Identifying Conditional Causal Effects in MPDAGs**|Sara LaPlante et.al.|[2507.15842](http://arxiv.org/abs/2507.15842)|null|
 |**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Enes Sanli et.al.|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
 |**2025-07-21**|**A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining**|Yifan Shen et.al.|[2507.15770](http://arxiv.org/abs/2507.15770)|null|
@@ -1537,6 +1550,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Stellar Mass-Dispersion Measure Correlations Constrain Baryonic Feedback in Fast Radio Burst Host Galaxies**|Calvin Leung et.al.|[2507.16816](http://arxiv.org/abs/2507.16816)|null|
+|**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
+|**2025-07-22**|**Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning**|Junhao Shen et.al.|[2507.16814](http://arxiv.org/abs/2507.16814)|null|
+|**2025-07-22**|**MegaScience: Pushing the Frontiers of Post-Training Datasets for Science Reasoning**|Run-Ze Fan et.al.|[2507.16812](http://arxiv.org/abs/2507.16812)|null|
+|**2025-07-22**|**Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis**|Zhihao Xu et.al.|[2507.16808](http://arxiv.org/abs/2507.16808)|null|
+|**2025-07-23**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802](http://arxiv.org/abs/2507.16802)|null|
+|**2025-07-23**|**Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent**|Xiaoyu Zhan et.al.|[2507.16799](http://arxiv.org/abs/2507.16799)|null|
+|**2025-07-22**|**Steering Out-of-Distribution Generalization with Concept Ablation Fine-Tuning**|Helena Casademunt et.al.|[2507.16795](http://arxiv.org/abs/2507.16795)|null|
+|**2025-07-22**|**ChatChecker: A Framework for Dialogue System Testing and Evaluation Through Non-cooperative User Simulation**|Roman Mayr et.al.|[2507.16792](http://arxiv.org/abs/2507.16792)|null|
+|**2025-07-22**|**Improving U-Net Confidence on TEM Image Data with L2-Regularization, Transfer Learning, and Deep Fine-Tuning**|Aiden Ochoa et.al.|[2507.16779](http://arxiv.org/abs/2507.16779)|null|
 |**2025-07-22**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
 |**2025-07-22**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
 |**2025-07-21**|**Iterative thresholding low-rank time integration**|Markus Bachmayr et.al.|[2507.15848](http://arxiv.org/abs/2507.15848)|null|
